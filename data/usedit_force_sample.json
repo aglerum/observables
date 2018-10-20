@@ -1,0 +1,347 @@
+{
+  "nodes": [
+    {
+      "id": "USEDiT",
+      "group": 1
+    },
+    {
+      "id": "Amplifiers",
+      "group": 2
+    },
+    {
+      "id": "Analyzers",
+      "group": 2
+    },
+    {
+      "id": "Bio Analyzers",
+      "group": 3
+    },
+    {
+      "id": "Mme.Magloire",
+      "group": 3
+    },
+    {
+      "id": "Oxygen Analyzers",
+      "group": 3
+    },
+    {
+      "id": "Thermal Analyzers",
+      "group": 3
+    },
+    {
+      "id": "Autoclave",
+      "group": 2
+    },
+    {
+      "id": "Balances",
+      "group": 2
+    },
+    {
+      "id": "Calorimeters",
+      "group": 2
+    },
+    {
+      "id": "Cameras",
+      "group": 2
+    },
+    {
+      "id": "Centrifuges",
+      "group": 2
+    },
+    {
+      "id": "Chambers",
+      "group": 2
+    },
+    {
+      "id": "Environmental Chambers",
+      "group": 3
+    },
+    {
+      "id": "Fabrication Chambers",
+      "group": 3
+    },
+    {
+      "id": "Chromatographs",
+      "group": 2
+    },
+    {
+      "id": "Gas Chromatographs",
+      "group": 3
+    },
+    {
+      "id": "Liquid Chromatographs",
+      "group": 3
+    },
+    {
+      "id": "High-Performance Liquid Chromatographs",
+      "group": 4
+    },
+    {
+      "id": "Computers",
+      "group": 2
+    },
+    {
+      "id": "Concentrators",
+      "group": 2
+    },
+    {
+      "id": "Coolers",
+      "group": 2
+    },
+    {
+      "id": "Counters",
+      "group": 2
+    },
+    {
+      "id": "Gamma Counters",
+      "group": 3
+    },
+    {
+      "id": "Cryostats",
+      "group": 2
+    },
+    {
+      "id": "Detectors",
+      "group": 2
+    },
+    {
+      "id": "Index Detectors",
+      "group": 3
+    },
+    {
+      "id": "Light Scattering Detectors",
+      "group": 3
+    },
+    {
+      "id": "Econoclaves",
+      "group": 2
+    },
+    {
+      "id": "Ellipsometers",
+      "group": 2
+    },
+    {
+      "id": "Evaporators",
+      "group": 2
+    },
+    {
+      "id": "Extruders",
+      "group": 2
+    },
+    {
+      "id": "Fabricators",
+      "group": 2
+    },
+    {
+      "id": "Fluorometers",
+      "group": 2
+    },
+    {
+      "id": "Fractionators",
+      "group": 2
+    },
+    {
+      "id": "Gradient Fractionators",
+      "group": 3
+    },
+    {
+      "id": "Freezers",
+      "group": 2
+    },
+    {
+      "id": "Freeze Dryers",
+      "group": 3
+    },
+    {
+      "id": "Lyophilizers",
+      "group": 4
+    }
+  ],
+  "links": [
+    {
+      "source": "USEDiT",
+      "target": "Amplifiers",
+      "value": 2
+    },
+    {
+      "source": "USEDiT",
+      "target": "Analyzers",
+      "value": 2
+    },
+    {
+      "source": "Analyzers",
+      "target": "Bio Analyzers",
+      "value": 3
+    },
+    {
+      "source": "Analyzers",
+      "target": "Oxygen Analyzers",
+      "value": 3
+    },
+    {
+      "source": "Analyzers",
+      "target": "Thermal Analyzers",
+      "value": 3
+    },
+    {
+      "source": "USEDiT",
+      "target": "Autoclave",
+      "value": 2
+    },
+    {
+      "source": "USEDiT",
+      "target": "Balances",
+      "value": 2
+    },
+    {
+      "source": "USEDiT",
+      "target": "Calorimeters",
+      "value": 2
+    },
+    {
+      "source": "USEDiT",
+      "target": "Cameras",
+      "value": 2
+    },
+    {
+      "source": "USEDiT",
+      "target": "Centrifuges",
+      "value": 2
+    },
+    {
+      "source": "USEDiT",
+      "target": "Chambers",
+      "value": 2
+    },
+    {
+      "source": "Chambers",
+      "target": "Environmental Chambers",
+      "value": 3
+    },
+    {
+      "source": "Chambers",
+      "target": "Fabrication Chambers",
+      "value": 3
+    },
+    {
+      "source": "USEDiT",
+      "target": "Chromatographs",
+      "value": 2
+    },
+    {
+      "source": "Chromatographs",
+      "target": "Gas Chromatographs",
+      "value": 3
+    },
+    {
+      "source": "Chromatographs",
+      "target": "Liquid Chromatographs",
+      "value": 3
+    },
+    {
+      "source": "Liquid Chromatographs",
+      "target": "High-Performance Liquid Chromatographs",
+      "value": 4
+    },
+    {
+      "source": "USEDiT",
+      "target": "Computers",
+      "value": 2
+    },
+    {
+      "source": "USEDiT",
+      "target": "Concentrators",
+      "value": 2
+    },
+    {
+      "source": "USEDiT",
+      "target": "Coolers",
+      "value": 2
+    },
+    {
+      "source": "USEDiT",
+      "target": "Counters",
+      "value": 2
+    },
+    {
+      "source": "Counters",
+      "target": "Gamma Counters",
+      "value": 3
+    },
+    {
+      "source": "USEDiT",
+      "target": "Cryostats",
+      "value": 2
+    },
+    {
+      "source": "USEDiT",
+      "target": "Detectors",
+      "value": 2
+    },
+    {
+      "source": "Detectors",
+      "target": "Index Detectors",
+      "value": 3
+    },
+    {
+      "source": "Detectors",
+      "target": "Light Scattering Detectors",
+      "value": 3
+    },
+    {
+      "source": "USEDiT",
+      "target": "Econoclaves",
+      "value": 2
+    },
+    {
+      "source": "USEDiT",
+      "target": "Ellipsometers",
+      "value": 2
+    },
+    {
+      "source": "USEDiT",
+      "target": "Evaporators",
+      "value": 2
+    },
+    {
+      "source": "USEDiT",
+      "target": "Extruders",
+      "value": 2
+    },
+    {
+      "source": "USEDiT",
+      "target": "Fabricators",
+      "value": 2
+    },
+    {
+      "source": "USEDiT",
+      "target": "Fluorometers",
+      "value": 2
+    },
+    {
+      "source": "USEDiT",
+      "target": "Fractionators",
+      "value": 2
+    },
+    {
+      "source": "Fractionators",
+      "target": "Gradient Fractionators",
+      "value": 3
+    },
+    {
+      "source": "USEDiT",
+      "target": "Freezers",
+      "value": 2
+    },
+    {
+      "source": "Freezers",
+      "target": "Freeze Dryers",
+      "value": 3
+    },
+    {
+      "source": "Freeze Dryers",
+      "target": "Lyophilizers",
+      "value": 4
+    }
+  ]
+}

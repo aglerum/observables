@@ -1,0 +1,491 @@
+{
+  "name": "usedit",
+  "children": [
+    {
+      "name": "Amplifiers",
+      "level": "class"
+    },
+    {
+      "name": "Analyzers",
+      "level": "class",
+      "children": [
+        {
+          "name": "Bio Analyzers",
+          "level": "subclass"
+        },
+        {
+          "name": "Oxygen Analyzers",
+          "level": "subclass"
+        },
+        {
+          "name": "Thermal Analyzers",
+          "level": "subclass"
+        }
+      ]
+    },
+    {
+      "name": "Autoclave",
+      "level": "class"
+    },
+    {
+      "name": "Balances",
+      "level": "class"
+    },
+    {
+      "name": "Calorimeters",
+      "level": "class"
+    },
+    {
+      "name": "Cameras",
+      "level": "class"
+    },
+    {
+      "name": "Centrifuges",
+      "level": "class"
+    },
+    {
+      "name": "Chambers",
+      "children": [
+        {
+          "name": "Environmental Chambers",
+          "level": "subclass"
+        },
+        {
+          "name": "Fabrication Chambers",
+          "level": "subclass"
+        }
+      ]
+    },
+    {
+      "name": "Chromatography Instruments",
+      "level": "class",
+      "children": [
+        {
+          "name": "Gas Chromatographs",
+          "level": "subclass"
+        },
+        {
+          "name": "Liquid Chromatographs",
+          "level": "subclass",
+          "children": [
+            {
+              "name": "High-Performance Liquid Chromatographs",
+              "level": "sub-subclass"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Computers",
+      "level": "class"
+    },
+    {
+      "name": "Concentrators",
+      "level": "class"
+    },
+    {
+      "name": "Coolers",
+      "level": "class"
+    },
+    {
+      "name": "Counters",
+      "level": "class",
+      "children": [
+        {
+          "name": "Gamma Counters",
+          "level": "subclass"
+        }
+      ]
+    },
+    {
+      "name": "Cryostats",
+      "level": "class"
+    },
+    {
+      "name": "Detectors",
+      "level": "class",
+      "children": [
+        {
+          "name": "Index Detectors",
+          "level": "subclass"
+        },
+        {
+          "name": "Light Scattering Detectors",
+          "level": "subclass"
+        }
+      ]
+    },
+    {
+      "name": "Econoclaves",
+      "level": "class"
+    },
+    {
+      "name": "Ellipsometers",
+      "level": "class"
+    },
+    {
+      "name": "Evaporators",
+      "level": "class"
+    },
+    {
+      "name": "Extruders",
+      "level": "class"
+    },
+    {
+      "name": "Fabricators",
+      "level": "class"
+    },
+    {
+      "name": "Fluorometers",
+      "level": "class"
+    },
+    {
+      "name": "Fractionators",
+      "level": "class",
+      "children": [
+        {
+          "name": "Gradient Fractionators",
+          "level": "subclass"
+        }
+      ]
+    },
+    {
+      "name": "Freezers",
+      "level": "class",
+      "children": [
+        {
+          "name": "Freeze Dryers","level":"subclass",
+          "children": [
+            {
+              "name": "Lyophilizers","level":"sub-subclass"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "French Pressure Cell Press",
+      "level": "class"
+    },
+    {
+      "name": "Furnaces",
+      "level": "class",
+      "children": [
+        {
+          "name": "Thermofurnaces","level":"subclass"
+        }
+      ]
+    },
+    {
+      "name": "Generators",
+      "level": "class",
+      "children": [
+        {
+          "name": "Cell Cluster Generators","level":"subclass"
+        },
+        {
+          "name": "Pulse Generators","level":"subclass"
+        }
+      ]
+    },
+    {
+      "name": "Hoods",
+      "level": "class"
+    },
+    {
+      "name": "Hybridization stations",
+      "level": "class"
+    },
+    {
+      "name": "Hydralic Systems",
+      "level": "class"
+    },
+    {
+      "name": "Illuminators",
+      "level": "class"
+    },
+    {
+      "name": "Imaging Equipment",
+      "level": "class",
+      "children": [
+        {
+          "name": "Scanners",
+          "level": "subclass",
+          "children": [
+            {
+              "name": "Imaging Scanners",
+              "level": "subclass"
+            },
+            {
+              "name": "Imaging Scanners",
+              "level": "subclass"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Incubators",
+      "level": "class",
+      "children": [
+        {
+          "name": "CO2 Incubators",
+          "level":"subclass"
+        }
+      ]
+    },
+    {
+      "name": "Lasers",
+      "level": "class"
+    },
+    {
+      "name": "Magnetism Instruments",
+      "level": "class",
+      "children": [
+        {
+          "name": "Magnetometers",
+          "level":"subclass"
+        },
+        {
+          "name": "Magnets",
+          "level":"subclass"
+        }
+      ]
+    },
+    {
+      "name": "Measurement Equipment",
+      "level": "class"
+    },
+    {
+      "name": "Microfluidizers",
+      "level": "class"
+    },
+    {
+      "name": "Micromanipulators",
+      "level": "class"
+    },
+    {
+      "name": "Microscopes",
+      "level": "class",
+      "children": [
+        {
+          "name": "Confocal Microscopes",
+          "level":"subclass"
+        },
+        {
+          "name": "Electron Microscopes",
+          "level":"subclass"
+        }
+      ]
+    },
+    {
+      "name": "Motors",
+      "level": "class",
+      "children": [
+        {
+          "name": "Linear motors",
+          "level":"subclass"
+        }
+      ]
+    },
+    {
+      "name": "Nuclear Magnetic Resonance Spectroscopes",
+      "level": "class"
+    },
+    {
+      "name": "Optical Tables",
+      "level": "class"
+    },
+    {
+      "name": "Oscilloscopes",
+      "level": "class"
+    },
+    {
+      "name": "Photoscanners",
+      "level": "class"
+    },
+    {
+      "name": "Plate Readers",
+      "level": "class"
+    },
+    {
+      "name": "Polymer Processors",
+      "level": "class"
+    },
+    {
+      "name": "Polymerase Chain Reaction Instruments",
+      "level": "class",
+      "children": [
+        {
+          "name": "Qualitative Polymerase Chain Reaction Instruments",
+          "level": "subclass"
+        }
+      ]
+    },
+    {
+      "name": "Power Supplies",
+      "level": "class"
+    },
+    {
+      "name": "Pumps",
+      "level": "class",
+      "children": [
+        {
+          "name": "Solvent Pumps",
+          "level": "subclass"
+        }
+      ]
+    },
+    {
+      "name": "Purifiers",
+      "level": "class"
+    },
+    {
+      "name": "Rapid Quench Flow Instruments",
+      "level": "class"
+    },
+    {
+      "name": "Reaction Equipment",
+      "level": "class"
+    },
+    {
+      "name": "Sample Preparation Equipment",
+      "level": "class"
+    },
+    {
+      "name": "Sequencers",
+      "level": "class",
+      "children": [
+        {
+          "name": "DNA Sequencers",
+          "level": "subclass"
+        }
+      ]
+    },
+    {
+      "name": "Shakers",
+      "level": "class"
+    },
+    {
+      "name": "Sonicators",
+      "level": "class"
+    },
+    {
+      "name": "Spectrometers",
+      "level": "class",
+      "children": [
+        {
+          "name": "Infrared Spectrometers",
+          "level": "subclass"
+        },
+        {
+          "name": "Mass Spectrometers",
+          "level": "class",
+          "children": [
+            {
+              "name": "Nanoelectrospray Instruments",
+              "level": "subclass"
+            }
+          ]
+        },
+        {
+          "name": "Raman Spectrometers",
+          "level": "class"
+        }
+      ]
+    },
+    {
+      "name": "Spectrophotometer",
+      "level": "class"
+    },
+    {
+      "name": "Speed Vacuums",
+      "level": "class"
+    },
+    {
+      "name": "Sputtering Instruments",
+      "level": "class",
+      "children": [
+        {
+          "name": "Sputters",
+          "level": "subclass"
+        },
+        {
+          "name": "Sputter Coaters",
+          "level": "subclass"
+        }
+      ]
+    },
+    {
+      "name": "Squids",
+      "level": "class"
+    },
+    {
+      "name": "Storage Systems",
+      "level": "class",
+      "children": [
+        {
+          "name": "Cell Storage Systems",
+          "level": "subclass"
+        }
+      ]
+    },
+    {
+      "name": "Synthesizers",
+      "level": "class"
+    },
+    {
+      "name": "Testers, Electrical",
+      "level": "class",
+      "children": [
+        {
+          "name": "Electrical Conduction Testers",
+          "level": "subclass"
+        },
+        {
+          "name": "Electrophoresis Testers",
+          "level": "subclass",
+          "children": [
+            {
+              "name": "Gel electrophoresis Testers",
+              "level": "sub-subclass"
+            }
+          ]
+        },
+        {
+          "name": "High voltage Testers",
+          "level": "class"
+        }
+      ]
+    },
+    {
+      "name": "Thermal Cyclers",
+      "level": "class",
+      "children": [
+        {
+          "name": "Thermal Cyclers, 96-Well",
+          "level": "subclass"
+        }
+      ]
+    },
+    {
+      "name": "Wire Bonders",
+      "level": "class"
+    },
+    {
+      "name": "X-ray Instruments",
+      "level": "class",
+      "children": [
+        {
+          "name": "X-ray Diffraction Instruments",
+          "level": "subclass"
+        },
+        {
+          "name": "X-ray Fluoroescence Instruments",
+          "level": "subclass"
+        }
+      ]
+    }
+  ]
+}
