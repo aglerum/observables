@@ -1,155 +1,155 @@
 {
   "nodes": [
     {
-      "id": "USEDiT",
+      "name": "USEDiT",
       "group": 1
     },
     {
-      "id": "Amplifiers",
+      "name": "Amplifiers",
       "group": 2
     },
     {
-      "id": "Analyzers",
+      "name": "Analyzers",
       "group": 2
     },
     {
-      "id": "Bio Analyzers",
+      "name": "Bio Analyzers",
       "group": 3
     },
     {
-      "id": "Oxygen_Analyzers",
+      "name": "Oxygen Analyzers",
       "group": 3
     },
     {
-      "id": "Thermal_Analyzers",
+      "name": "Thermal Analyzers",
       "group": 3
     },
     {
-      "id": "Autoclave",
+      "name": "Autoclave",
       "group": 2
     },
     {
-      "id": "Balances",
+      "name": "Balances",
       "group": 2
     },
     {
-      "id": "Calorimeters",
+      "name": "Calorimeters",
       "group": 2
     },
     {
-      "id": "Cameras",
+      "name": "Cameras",
       "group": 2
     },
     {
-      "id": "Centrifuges",
+      "name": "Centrifuges",
       "group": 2
     },
     {
-      "id": "Chambers",
+      "name": "Chambers",
       "group": 2
     },
     {
-      "id": "Environmental_Chambers",
+      "name": "Environmental Chambers",
       "group": 3
     },
     {
-      "id": "Fabrication_Chambers",
+      "name": "Fabrication Chambers",
       "group": 3
     },
     {
-      "id": "Chromatographs",
+      "name": "Chromatographs",
       "group": 2
     },
     {
-      "id": "Gas_Chromatographs",
+      "name": "Gas Chromatographs",
       "group": 3
     },
     {
-      "id": "Liquid_Chromatographs",
+      "name": "Liquid Chromatographs",
       "group": 3
     },
     {
-      "id": "High-Performance_Liquid_Chromatographs",
+      "name": "High-Performance Liquid Chromatographs",
       "group": 4
     },
     {
-      "id": "Computers",
+      "name": "Computers",
       "group": 2
     },
     {
-      "id": "Concentrators",
+      "name": "Concentrators",
       "group": 2
     },
     {
-      "id": "Coolers",
+      "name": "Coolers",
       "group": 2
     },
     {
-      "id": "Counters",
+      "name": "Counters",
       "group": 2
     },
     {
-      "id": "Gamma_Counters",
+      "name": "Gamma Counters",
       "group": 3
     },
     {
-      "id": "Cryostats",
+      "name": "Cryostats",
       "group": 2
     },
     {
-      "id": "Detectors",
+      "name": "Detectors",
       "group": 2
     },
     {
-      "id": "Index_Detectors",
+      "name": "Index Detectors",
       "group": 3
     },
     {
-      "id": "Light_Scattering_Detectors",
+      "name": "Light Scattering Detectors",
       "group": 3
     },
     {
-      "id": "Econoclaves",
+      "name": "Econoclaves",
       "group": 2
     },
     {
-      "id": "Ellipsometers",
+      "name": "Ellipsometers",
       "group": 2
     },
     {
-      "id": "Evaporators",
+      "name": "Evaporators",
       "group": 2
     },
     {
-      "id": "Extruders",
+      "name": "Extruders",
       "group": 2
     },
     {
-      "id": "Fabricators",
+      "name": "Fabricators",
       "group": 2
     },
     {
-      "id": "Fluorometers",
+      "name": "Fluorometers",
       "group": 2
     },
     {
-      "id": "Fractionators",
+      "name": "Fractionators",
       "group": 2
     },
     {
-      "id": "Gradient_Fractionators",
+      "name": "Gradient Fractionators",
       "group": 3
     },
     {
-      "id": "Freezers",
+      "name": "Freezers",
       "group": 2
     },
     {
-      "id": "Freeze_Dryers",
+      "name": "Freeze Dryers",
       "group": 3
     },
     {
-      "id": "Lyophilizers",
+      "name": "Lyophilizers",
       "group": 4
     }
   ],
@@ -166,17 +166,17 @@
     },
     {
       "source": "Analyzers",
-      "target": "Bio_Analyzers",
+      "target": "Bio Analyzers",
       "value": 3
     },
     {
       "source": "Analyzers",
-      "target": "Oxygen_Analyzers",
+      "target": "Oxygen Analyzers",
       "value": 3
     },
     {
       "source": "Analyzers",
-      "target": "Thermal_Analyzers",
+      "target": "Thermal Analyzers",
       "value": 3
     },
     {
@@ -211,12 +211,12 @@
     },
     {
       "source": "Chambers",
-      "target": "Environmental_Chambers",
+      "target": "Environmental Chambers",
       "value": 3
     },
     {
       "source": "Chambers",
-      "target": "Fabrication_Chambers",
+      "target": "Fabrication Chambers",
       "value": 3
     },
     {
@@ -226,17 +226,17 @@
     },
     {
       "source": "Chromatographs",
-      "target": "Gas_Chromatographs",
+      "target": "Gas Chromatographs",
       "value": 3
     },
     {
       "source": "Chromatographs",
-      "target": "Liquid_Chromatographs",
+      "target": "Liquid Chromatographs",
       "value": 3
     },
     {
-      "source": "Liquid_Chromatographs",
-      "target": "High-Performance_Liquid_Chromatographs",
+      "source": "Liquid Chromatographs",
+      "target": "High-Performance Liquid Chromatographs",
       "value": 4
     },
     {
@@ -261,7 +261,7 @@
     },
     {
       "source": "Counters",
-      "target": "Gamma_Counters",
+      "target": "Gamma Counters",
       "value": 3
     },
     {
@@ -276,12 +276,12 @@
     },
     {
       "source": "Detectors",
-      "target": "Index_Detectors",
+      "target": "Index Detectors",
       "value": 3
     },
     {
       "source": "Detectors",
-      "target": "Light_Scattering_Detectors",
+      "target": "Light Scattering Detectors",
       "value": 3
     },
     {
@@ -321,7 +321,7 @@
     },
     {
       "source": "Fractionators",
-      "target": "Gradient_Fractionators",
+      "target": "Gradient Fractionators",
       "value": 3
     },
     {
@@ -331,11 +331,11 @@
     },
     {
       "source": "Freezers",
-      "target": "Freeze_Dryers",
+      "target": "Freeze Dryers",
       "value": 3
     },
     {
-      "source": "Freeze_Dryers",
+      "source": "Freeze Dryers",
       "target": "Lyophilizers",
       "value": 4
     }

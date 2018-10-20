@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25fdc359-300b-44ec-a9d3-12fe7bad1252" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/usedit_force_sample.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/usedit_tree_level1.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/usedit_tree_sample.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/usedit_force_sample.json" afterPath="$PROJECT_DIR$/data/usedit_force_sample.json" />
     </list>
     <ignored path="observables.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,31 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="usedit_tree_level1.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/usedit_tree_level1.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9330">
-              <caret line="622" column="32" selection-start-line="622" selection-start-column="32" selection-end-line="622" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="usedit_tree_sample.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/usedit_tree_sample.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
-              <caret line="160" column="35" selection-start-line="160" selection-start-column="23" selection-end-line="160" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="usedit_force_sample.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data/usedit_force_sample.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="341" column="30" selection-start-line="341" selection-start-column="30" selection-end-line="341" selection-end-column="30" />
+            <state relative-caret-position="2265">
+              <caret line="151" column="12" selection-start-line="151" selection-start-column="12" selection-end-line="151" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -73,6 +50,7 @@
       <list>
         <option value="$PROJECT_DIR$/data/usedit_tree_agentive_level1_DR_2018-10-03_0430.json" />
         <option value="$PROJECT_DIR$/data/package.json" />
+        <option value="$PROJECT_DIR$/data/usedit_force_sample.json" />
       </list>
     </option>
   </component>
@@ -216,18 +194,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540072001946</updated>
-      <workItem from="1540072003164" duration="1714000" />
+      <workItem from="1540072003164" duration="1980000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1714000" />
+    <option name="totallyTimeSpent" value="1980000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="76" width="1185" height="760" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2734177" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2734177" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -253,14 +231,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/usedit_tree_level1.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9330">
-          <caret line="622" column="32" selection-start-line="622" selection-start-column="32" selection-end-line="622" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/usedit_tree_sample.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
@@ -269,10 +239,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/usedit_tree_level1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9330">
+          <caret line="622" column="32" selection-start-line="622" selection-start-column="32" selection-end-line="622" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/usedit_force_sample.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="341" column="30" selection-start-line="341" selection-start-column="30" selection-end-line="341" selection-end-column="30" />
+        <state relative-caret-position="2265">
+          <caret line="151" column="12" selection-start-line="151" selection-start-column="12" selection-end-line="151" selection-end-column="12" />
           <folding />
         </state>
       </provider>
