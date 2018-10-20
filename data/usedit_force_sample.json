@@ -13,19 +13,15 @@
       "group": 2
     },
     {
-      "id": "Bio Analyzers",
+      "id": "Bio_Analyzers",
       "group": 3
     },
     {
-      "id": "Mme.Magloire",
+      "id": "Oxygen_Analyzers",
       "group": 3
     },
     {
-      "id": "Oxygen Analyzers",
-      "group": 3
-    },
-    {
-      "id": "Thermal Analyzers",
+      "id": "Thermal_Analyzers",
       "group": 3
     },
     {
@@ -53,11 +49,11 @@
       "group": 2
     },
     {
-      "id": "Environmental Chambers",
+      "id": "Environmental_Chambers",
       "group": 3
     },
     {
-      "id": "Fabrication Chambers",
+      "id": "Fabrication_Chambers",
       "group": 3
     },
     {
@@ -65,15 +61,15 @@
       "group": 2
     },
     {
-      "id": "Gas Chromatographs",
+      "id": "Gas_Chromatographs",
       "group": 3
     },
     {
-      "id": "Liquid Chromatographs",
+      "id": "Liquid_Chromatographs",
       "group": 3
     },
     {
-      "id": "High-Performance Liquid Chromatographs",
+      "id": "High-Performance_Liquid_Chromatographs",
       "group": 4
     },
     {
@@ -93,7 +89,7 @@
       "group": 2
     },
     {
-      "id": "Gamma Counters",
+      "id": "Gamma_Counters",
       "group": 3
     },
     {
@@ -105,11 +101,11 @@
       "group": 2
     },
     {
-      "id": "Index Detectors",
+      "id": "Index_Detectors",
       "group": 3
     },
     {
-      "id": "Light Scattering Detectors",
+      "id": "Light_Scattering_Detectors",
       "group": 3
     },
     {
@@ -141,7 +137,7 @@
       "group": 2
     },
     {
-      "id": "Gradient Fractionators",
+      "id": "Gradient_Fractionators",
       "group": 3
     },
     {
@@ -149,7 +145,7 @@
       "group": 2
     },
     {
-      "id": "Freeze Dryers",
+      "id": "Freeze_Dryers",
       "group": 3
     },
     {
@@ -170,17 +166,17 @@
     },
     {
       "source": "Analyzers",
-      "target": "Bio Analyzers",
+      "target": "Bio_Analyzers",
       "value": 3
     },
     {
       "source": "Analyzers",
-      "target": "Oxygen Analyzers",
+      "target": "Oxygen_Analyzers",
       "value": 3
     },
     {
       "source": "Analyzers",
-      "target": "Thermal Analyzers",
+      "target": "Thermal_Analyzers",
       "value": 3
     },
     {
@@ -215,12 +211,12 @@
     },
     {
       "source": "Chambers",
-      "target": "Environmental Chambers",
+      "target": "Environmental_Chambers",
       "value": 3
     },
     {
       "source": "Chambers",
-      "target": "Fabrication Chambers",
+      "target": "Fabrication_Chambers",
       "value": 3
     },
     {
@@ -230,17 +226,17 @@
     },
     {
       "source": "Chromatographs",
-      "target": "Gas Chromatographs",
+      "target": "Gas_Chromatographs",
       "value": 3
     },
     {
       "source": "Chromatographs",
-      "target": "Liquid Chromatographs",
+      "target": "Liquid_Chromatographs",
       "value": 3
     },
     {
-      "source": "Liquid Chromatographs",
-      "target": "High-Performance Liquid Chromatographs",
+      "source": "Liquid_Chromatographs",
+      "target": "High-Performance_Liquid_Chromatographs",
       "value": 4
     },
     {
@@ -265,7 +261,7 @@
     },
     {
       "source": "Counters",
-      "target": "Gamma Counters",
+      "target": "Gamma_Counters",
       "value": 3
     },
     {
@@ -280,12 +276,12 @@
     },
     {
       "source": "Detectors",
-      "target": "Index Detectors",
+      "target": "Index_Detectors",
       "value": 3
     },
     {
       "source": "Detectors",
-      "target": "Light Scattering Detectors",
+      "target": "Light_Scattering_Detectors",
       "value": 3
     },
     {
@@ -325,7 +321,7 @@
     },
     {
       "source": "Fractionators",
-      "target": "Gradient Fractionators",
+      "target": "Gradient_Fractionators",
       "value": 3
     },
     {
@@ -335,11 +331,11 @@
     },
     {
       "source": "Freezers",
-      "target": "Freeze Dryers",
+      "target": "Freeze_Dryers",
       "value": 3
     },
     {
-      "source": "Freeze Dryers",
+      "source": "Freeze_Dryers",
       "target": "Lyophilizers",
       "value": 4
     }
