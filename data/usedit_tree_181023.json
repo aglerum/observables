@@ -1,8 +1,5 @@
-{
-  "name": "usedit",
-  "children": [
     {
-      "name": "equipment",
+      "name": "usedit",
       "children": [
         {
           "name": "Adapter",
@@ -630,5 +627,3 @@
         }
       ]
     }
-  ]
-}
