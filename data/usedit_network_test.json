@@ -225,2691 +225,3229 @@
         {
             "source": "50888",
             "relationship": "dept",
+            "value": "2",
             "target": "11537"
         },
         {
             "source": "50888",
             "relationship": "dept",
+            "value": "2",
             "target": "11747"
         },
         {
             "source": "50888",
             "relationship": "dept",
+            "value": "2",
             "target": "11775"
         },
         {
             "source": "50888",
             "relationship": "dept",
+            "value": "2",
             "target": "11781"
         },
         {
             "source": "50888",
             "relationship": "dept",
+            "value": "2",
             "target": "11794"
         },
         {
             "source": "50888",
             "relationship": "dept",
+            "value": "2",
             "target": "11828"
         },
         {
             "source": "50888",
             "relationship": "dept",
+            "value": "2",
             "target": "11868"
         },
         {
             "source": "50888",
             "relationship": "dept",
+            "value": "2",
             "target": "11922"
         },
         {
             "source": "50888",
             "relationship": "dept",
+            "value": "2",
             "target": "11955"
         },
         {
             "source": "50888",
             "relationship": "dept",
+            "value": "2",
             "target": "11988"
         },
         {
             "source": "50888",
             "relationship": "dept",
+            "value": "2",
             "target": "12396"
         },
         {
             "source": "50888",
             "relationship": "dept",
+            "value": "2",
             "target": "12590"
         },
         {
             "source": "50888",
             "relationship": "dept",
+            "value": "2",
             "target": "12591"
         },
         {
             "source": "50888",
             "relationship": "dept",
+            "value": "2",
             "target": "43743"
         },
         {
             "source": "50888",
             "relationship": "dept",
+            "value": "2",
             "target": "71252"
         },
         {
             "source": "50888",
             "relationship": "dept",
+            "value": "2",
             "target": "79748"
         },
         {
             "source": "50888",
             "relationship": "fund",
+            "value": "3",
             "target": "11537"
         },
         {
             "source": "50888",
             "relationship": "fund",
+            "value": "3",
             "target": "11747"
         },
         {
             "source": "50888",
             "relationship": "fund",
+            "value": "3",
             "target": "11775"
         },
         {
             "source": "50888",
             "relationship": "fund",
+            "value": "3",
             "target": "11781"
         },
         {
             "source": "50888",
             "relationship": "fund",
+            "value": "3",
             "target": "11794"
         },
         {
             "source": "50888",
             "relationship": "fund",
+            "value": "3",
             "target": "11828"
         },
         {
             "source": "50888",
             "relationship": "fund",
+            "value": "3",
             "target": "11868"
         },
         {
             "source": "50888",
             "relationship": "fund",
+            "value": "3",
             "target": "11922"
         },
         {
             "source": "50888",
             "relationship": "fund",
+            "value": "3",
             "target": "11955"
         },
         {
             "source": "50888",
             "relationship": "fund",
+            "value": "3",
             "target": "11988"
         },
         {
             "source": "50888",
             "relationship": "fund",
+            "value": "3",
             "target": "43743"
         },
         {
             "source": "43743",
             "relationship": "dept",
+            "value": "2",
             "target": "11537"
         },
         {
             "source": "43743",
             "relationship": "dept",
+            "value": "2",
             "target": "11747"
         },
         {
             "source": "43743",
             "relationship": "dept",
+            "value": "2",
             "target": "11775"
         },
         {
             "source": "43743",
             "relationship": "dept",
+            "value": "2",
             "target": "11781"
         },
         {
             "source": "43743",
             "relationship": "dept",
+            "value": "2",
             "target": "11794"
         },
         {
             "source": "43743",
             "relationship": "dept",
+            "value": "2",
             "target": "11828"
         },
         {
             "source": "43743",
             "relationship": "dept",
+            "value": "2",
             "target": "11868"
         },
         {
             "source": "43743",
             "relationship": "dept",
+            "value": "2",
             "target": "11922"
         },
         {
             "source": "43743",
             "relationship": "dept",
+            "value": "2",
             "target": "11955"
         },
         {
             "source": "43743",
             "relationship": "dept",
+            "value": "2",
             "target": "11988"
         },
         {
             "source": "43743",
             "relationship": "dept",
+            "value": "2",
             "target": "12396"
         },
         {
             "source": "43743",
             "relationship": "dept",
+            "value": "2",
             "target": "12590"
         },
         {
             "source": "43743",
             "relationship": "dept",
+            "value": "2",
             "target": "12591"
         },
         {
             "source": "43743",
             "relationship": "dept",
+            "value": "2",
             "target": "50888"
         },
         {
             "source": "43743",
             "relationship": "dept",
+            "value": "2",
             "target": "71252"
         },
         {
             "source": "43743",
             "relationship": "dept",
+            "value": "2",
             "target": "79748"
         },
         {
             "source": "43743",
             "relationship": "fund",
+            "value": "3",
             "target": "11537"
         },
         {
             "source": "43743",
             "relationship": "fund",
+            "value": "3",
             "target": "11747"
         },
         {
             "source": "43743",
             "relationship": "fund",
+            "value": "3",
             "target": "11775"
         },
         {
             "source": "43743",
             "relationship": "fund",
+            "value": "3",
             "target": "11781"
         },
         {
             "source": "43743",
             "relationship": "fund",
+            "value": "3",
             "target": "11794"
         },
         {
             "source": "43743",
             "relationship": "fund",
+            "value": "3",
             "target": "11828"
         },
         {
             "source": "43743",
             "relationship": "fund",
+            "value": "3",
             "target": "11868"
         },
         {
             "source": "43743",
             "relationship": "fund",
+            "value": "3",
             "target": "11922"
         },
         {
             "source": "43743",
             "relationship": "fund",
+            "value": "3",
             "target": "11955"
         },
         {
             "source": "43743",
             "relationship": "fund",
+            "value": "3",
             "target": "11988"
         },
         {
             "source": "43743",
             "relationship": "fund",
+            "value": "3",
             "target": "50888"
         },
         {
             "source": "11955",
             "relationship": "dept",
+            "value": "2",
             "target": "11537"
         },
         {
             "source": "11955",
             "relationship": "dept",
+            "value": "2",
             "target": "11747"
         },
         {
             "source": "11955",
             "relationship": "dept",
+            "value": "2",
             "target": "11775"
         },
         {
             "source": "11955",
             "relationship": "dept",
+            "value": "2",
             "target": "11781"
         },
         {
             "source": "11955",
             "relationship": "dept",
+            "value": "2",
             "target": "11794"
         },
         {
             "source": "11955",
             "relationship": "dept",
+            "value": "2",
             "target": "11828"
         },
         {
             "source": "11955",
             "relationship": "dept",
+            "value": "2",
             "target": "11868"
         },
         {
             "source": "11955",
             "relationship": "dept",
+            "value": "2",
             "target": "11922"
         },
         {
             "source": "11955",
             "relationship": "dept",
+            "value": "2",
             "target": "11988"
         },
         {
             "source": "11955",
             "relationship": "dept",
+            "value": "2",
             "target": "12396"
         },
         {
             "source": "11955",
             "relationship": "dept",
+            "value": "2",
             "target": "12590"
         },
         {
             "source": "11955",
             "relationship": "dept",
+            "value": "2",
             "target": "12591"
         },
         {
             "source": "11955",
             "relationship": "dept",
+            "value": "2",
             "target": "43743"
         },
         {
             "source": "11955",
             "relationship": "dept",
+            "value": "2",
             "target": "50888"
         },
         {
             "source": "11955",
             "relationship": "dept",
+            "value": "2",
             "target": "71252"
         },
         {
             "source": "11955",
             "relationship": "dept",
+            "value": "2",
             "target": "79748"
         },
         {
             "source": "11955",
             "relationship": "fund",
+            "value": "3",
             "target": "11537"
         },
         {
             "source": "11955",
             "relationship": "fund",
+            "value": "3",
             "target": "11747"
         },
         {
             "source": "11955",
             "relationship": "fund",
+            "value": "3",
             "target": "11775"
         },
         {
             "source": "11955",
             "relationship": "fund",
+            "value": "3",
             "target": "11781"
         },
         {
             "source": "11955",
             "relationship": "fund",
+            "value": "3",
             "target": "11794"
         },
         {
             "source": "11955",
             "relationship": "fund",
+            "value": "3",
             "target": "11828"
         },
         {
             "source": "11955",
             "relationship": "fund",
+            "value": "3",
             "target": "11868"
         },
         {
             "source": "11955",
             "relationship": "fund",
+            "value": "3",
             "target": "11922"
         },
         {
             "source": "11955",
             "relationship": "fund",
+            "value": "3",
             "target": "11988"
         },
         {
             "source": "11955",
             "relationship": "fund",
+            "value": "3",
             "target": "43743"
         },
         {
             "source": "11955",
             "relationship": "fund",
+            "value": "3",
             "target": "50888"
         },
         {
             "source": "11955",
             "relationship": "class",
+            "value": "1",
             "target": "11747"
         },
         {
             "source": "11955",
             "relationship": "class",
+            "value": "1",
             "target": "11781"
         },
         {
             "source": "11955",
             "relationship": "class",
+            "value": "1",
             "target": "11828"
         },
         {
             "source": "11955",
             "relationship": "class",
+            "value": "1",
             "target": "11868"
         },
         {
             "source": "11955",
             "relationship": "class",
+            "value": "1",
             "target": "11922"
         },
         {
             "source": "11955",
             "relationship": "class",
+            "value": "1",
             "target": "11988"
         },
         {
             "source": "11955",
             "relationship": "class",
+            "value": "1",
             "target": "12396"
         },
         {
             "source": "11955",
             "relationship": "class",
+            "value": "1",
             "target": "12590"
         },
         {
             "source": "11955",
             "relationship": "class",
+            "value": "1",
             "target": "71252"
         },
         {
             "source": "11955",
             "relationship": "class",
+            "value": "1",
             "target": "82651"
         },
         {
             "source": "82651",
             "relationship": "dept",
+            "value": "2",
             "target": "83056"
         },
         {
             "source": "82651",
             "relationship": "dept",
+            "value": "2",
             "target": "8821"
         },
         {
             "source": "82651",
             "relationship": "fund",
+            "value": "3",
             "target": "71252"
         },
         {
             "source": "82651",
             "relationship": "fund",
+            "value": "3",
             "target": "83056"
         },
         {
             "source": "82651",
             "relationship": "fund",
+            "value": "3",
             "target": "71252"
         },
         {
             "source": "82651",
             "relationship": "fund",
+            "value": "3",
             "target": "8821"
         },
         {
             "source": "82651",
             "relationship": "class",
+            "value": "1",
             "target": "11747"
         },
         {
             "source": "82651",
             "relationship": "class",
+            "value": "1",
             "target": "11781"
         },
         {
             "source": "82651",
             "relationship": "class",
+            "value": "1",
             "target": "11828"
         },
         {
             "source": "82651",
             "relationship": "class",
+            "value": "1",
             "target": "11868"
         },
         {
             "source": "82651",
             "relationship": "class",
+            "value": "1",
             "target": "11922"
         },
         {
             "source": "82651",
             "relationship": "class",
+            "value": "1",
             "target": "11955"
         },
         {
             "source": "82651",
             "relationship": "class",
+            "value": "1",
             "target": "11988"
         },
         {
             "source": "82651",
             "relationship": "class",
+            "value": "1",
             "target": "12396"
         },
         {
             "source": "82651",
             "relationship": "class",
+            "value": "1",
             "target": "12590"
         },
         {
             "source": "82651",
             "relationship": "class",
+            "value": "1",
             "target": "71252"
         },
         {
             "source": "79748",
             "relationship": "dept",
+            "value": "2",
             "target": "11537"
         },
         {
             "source": "79748",
             "relationship": "dept",
+            "value": "2",
             "target": "11747"
         },
         {
             "source": "79748",
             "relationship": "dept",
+            "value": "2",
             "target": "11775"
         },
         {
             "source": "79748",
             "relationship": "dept",
+            "value": "2",
             "target": "11781"
         },
         {
             "source": "79748",
             "relationship": "dept",
+            "value": "2",
             "target": "11794"
         },
         {
             "source": "79748",
             "relationship": "dept",
+            "value": "2",
             "target": "11828"
         },
         {
             "source": "79748",
             "relationship": "dept",
+            "value": "2",
             "target": "11868"
         },
         {
             "source": "79748",
             "relationship": "dept",
+            "value": "2",
             "target": "11922"
         },
         {
             "source": "79748",
             "relationship": "dept",
+            "value": "2",
             "target": "11955"
         },
         {
             "source": "79748",
             "relationship": "dept",
+            "value": "2",
             "target": "11988"
         },
         {
             "source": "79748",
             "relationship": "dept",
+            "value": "2",
             "target": "12396"
         },
         {
             "source": "79748",
             "relationship": "dept",
+            "value": "2",
             "target": "12590"
         },
         {
             "source": "79748",
             "relationship": "dept",
+            "value": "2",
             "target": "12591"
         },
         {
             "source": "79748",
             "relationship": "dept",
+            "value": "2",
             "target": "43743"
         },
         {
             "source": "79748",
             "relationship": "dept",
+            "value": "2",
             "target": "50888"
         },
         {
             "source": "79748",
             "relationship": "dept",
+            "value": "2",
             "target": "71252"
         },
         {
             "source": "79748",
             "relationship": "dept",
+            "value": "2",
             "target": "79748"
         },
         {
             "source": "11775",
             "relationship": "dept",
+            "value": "2",
             "target": "11537"
         },
         {
             "source": "11775",
             "relationship": "dept",
+            "value": "2",
             "target": "11747"
         },
         {
             "source": "11775",
             "relationship": "dept",
+            "value": "2",
             "target": "11781"
         },
         {
             "source": "11775",
             "relationship": "dept",
+            "value": "2",
             "target": "11794"
         },
         {
             "source": "11775",
             "relationship": "dept",
+            "value": "2",
             "target": "11828"
         },
         {
             "source": "11775",
             "relationship": "dept",
+            "value": "2",
             "target": "11868"
         },
         {
             "source": "11775",
             "relationship": "dept",
+            "value": "2",
             "target": "11922"
         },
         {
             "source": "11775",
             "relationship": "dept",
+            "value": "2",
             "target": "11955"
         },
         {
             "source": "11775",
             "relationship": "dept",
+            "value": "2",
             "target": "11988"
         },
         {
             "source": "11775",
             "relationship": "dept",
+            "value": "2",
             "target": "12396"
         },
         {
             "source": "11775",
             "relationship": "dept",
+            "value": "2",
             "target": "12590"
         },
         {
             "source": "11775",
             "relationship": "dept",
+            "value": "2",
             "target": "12591"
         },
         {
             "source": "11775",
             "relationship": "dept",
+            "value": "2",
             "target": "43743"
         },
         {
             "source": "11775",
             "relationship": "dept",
+            "value": "2",
             "target": "50888"
         },
         {
             "source": "11775",
             "relationship": "dept",
+            "value": "2",
             "target": "71252"
         },
         {
             "source": "11775",
             "relationship": "dept",
+            "value": "2",
             "target": "79748"
         },
         {
             "source": "11775",
             "relationship": "fund",
+            "value": "3",
             "target": "11537"
         },
         {
             "source": "11775",
             "relationship": "fund",
+            "value": "3",
             "target": "11747"
         },
         {
             "source": "11775",
             "relationship": "fund",
+            "value": "3",
             "target": "11781"
         },
         {
             "source": "11775",
             "relationship": "fund",
+            "value": "3",
             "target": "11794"
         },
         {
             "source": "11775",
             "relationship": "fund",
+            "value": "3",
             "target": "11828"
         },
         {
             "source": "11775",
             "relationship": "fund",
+            "value": "3",
             "target": "11868"
         },
         {
             "source": "11775",
             "relationship": "fund",
+            "value": "3",
             "target": "11922"
         },
         {
             "source": "11775",
             "relationship": "fund",
+            "value": "3",
             "target": "11955"
         },
         {
             "source": "11775",
             "relationship": "fund",
+            "value": "3",
             "target": "11988"
         },
         {
             "source": "11775",
             "relationship": "fund",
+            "value": "3",
             "target": "43743"
         },
         {
             "source": "11775",
             "relationship": "fund",
+            "value": "3",
             "target": "50888"
         },
         {
             "source": "83056",
             "relationship": "dept",
+            "value": "2",
             "target": "82651"
         },
         {
             "source": "83056",
             "relationship": "dept",
+            "value": "2",
             "target": "8821"
         },
         {
             "source": "83056",
             "relationship": "fund",
+            "value": "3",
             "target": "71252"
         },
         {
             "source": "83056",
             "relationship": "fund",
+            "value": "3",
             "target": "71252"
         },
         {
             "source": "83056",
             "relationship": "fund",
+            "value": "3",
             "target": "8821"
         },
         {
             "source": "83056",
             "relationship": "class",
+            "value": "1",
             "target": "11537"
         },
         {
             "source": "11781",
             "relationship": "dept",
+            "value": "2",
             "target": "11537"
         },
         {
             "source": "11781",
             "relationship": "dept",
+            "value": "2",
             "target": "11747"
         },
         {
             "source": "11781",
             "relationship": "dept",
+            "value": "2",
             "target": "11775"
         },
         {
             "source": "11781",
             "relationship": "dept",
+            "value": "2",
             "target": "11794"
         },
         {
             "source": "11781",
             "relationship": "dept",
+            "value": "2",
             "target": "11828"
         },
         {
             "source": "11781",
             "relationship": "dept",
+            "value": "2",
             "target": "11868"
         },
         {
             "source": "11781",
             "relationship": "dept",
+            "value": "2",
             "target": "11922"
         },
         {
             "source": "11781",
             "relationship": "dept",
+            "value": "2",
             "target": "11955"
         },
         {
             "source": "11781",
             "relationship": "dept",
+            "value": "2",
             "target": "11988"
         },
         {
             "source": "11781",
             "relationship": "dept",
+            "value": "2",
             "target": "12396"
         },
         {
             "source": "11781",
             "relationship": "dept",
+            "value": "2",
             "target": "12590"
         },
         {
             "source": "11781",
             "relationship": "dept",
+            "value": "2",
             "target": "12591"
         },
         {
             "source": "11781",
             "relationship": "dept",
+            "value": "2",
             "target": "43743"
         },
         {
             "source": "11781",
             "relationship": "dept",
+            "value": "2",
             "target": "50888"
         },
         {
             "source": "11781",
             "relationship": "dept",
+            "value": "2",
             "target": "71252"
         },
         {
             "source": "11781",
             "relationship": "dept",
+            "value": "2",
             "target": "79748"
         },
         {
             "source": "11781",
             "relationship": "fund",
+            "value": "3",
             "target": "11537"
         },
         {
             "source": "11781",
             "relationship": "fund",
+            "value": "3",
             "target": "11747"
         },
         {
             "source": "11781",
             "relationship": "fund",
+            "value": "3",
             "target": "11775"
         },
         {
             "source": "11781",
             "relationship": "fund",
+            "value": "3",
             "target": "11794"
         },
         {
             "source": "11781",
             "relationship": "fund",
+            "value": "3",
             "target": "11828"
         },
         {
             "source": "11781",
             "relationship": "fund",
+            "value": "3",
             "target": "11868"
         },
         {
             "source": "11781",
             "relationship": "fund",
+            "value": "3",
             "target": "11922"
         },
         {
             "source": "11781",
             "relationship": "fund",
+            "value": "3",
             "target": "11955"
         },
         {
             "source": "11781",
             "relationship": "fund",
+            "value": "3",
             "target": "11988"
         },
         {
             "source": "11781",
             "relationship": "fund",
+            "value": "3",
             "target": "43743"
         },
         {
             "source": "11781",
             "relationship": "fund",
+            "value": "3",
             "target": "50888"
         },
         {
             "source": "11781",
             "relationship": "class",
+            "value": "1",
             "target": "11747"
         },
         {
             "source": "11781",
             "relationship": "class",
+            "value": "1",
             "target": "11828"
         },
         {
             "source": "11781",
             "relationship": "class",
+            "value": "1",
             "target": "11868"
         },
         {
             "source": "11781",
             "relationship": "class",
+            "value": "1",
             "target": "11922"
         },
         {
             "source": "11781",
             "relationship": "class",
+            "value": "1",
             "target": "11955"
         },
         {
             "source": "11781",
             "relationship": "class",
+            "value": "1",
             "target": "11988"
         },
         {
             "source": "11781",
             "relationship": "class",
+            "value": "1",
             "target": "12396"
         },
         {
             "source": "11781",
             "relationship": "class",
+            "value": "1",
             "target": "12590"
         },
         {
             "source": "11781",
             "relationship": "class",
+            "value": "1",
             "target": "71252"
         },
         {
             "source": "11781",
             "relationship": "class",
+            "value": "1",
             "target": "82651"
         },
         {
             "source": "11781",
             "relationship": "manufacturer",
+            "value": "4",
             "target": "11868"
         },
         {
             "source": "11988",
             "relationship": "dept",
+            "value": "2",
             "target": "11537"
         },
         {
             "source": "11988",
             "relationship": "dept",
+            "value": "2",
             "target": "11747"
         },
         {
             "source": "11988",
             "relationship": "dept",
+            "value": "2",
             "target": "11775"
         },
         {
             "source": "11988",
             "relationship": "dept",
+            "value": "2",
             "target": "11781"
         },
         {
             "source": "11988",
             "relationship": "dept",
+            "value": "2",
             "target": "11794"
         },
         {
             "source": "11988",
             "relationship": "dept",
+            "value": "2",
             "target": "11828"
         },
         {
             "source": "11988",
             "relationship": "dept",
+            "value": "2",
             "target": "11868"
         },
         {
             "source": "11988",
             "relationship": "dept",
+            "value": "2",
             "target": "11922"
         },
         {
             "source": "11988",
             "relationship": "dept",
+            "value": "2",
             "target": "11955"
         },
         {
             "source": "11988",
             "relationship": "dept",
+            "value": "2",
             "target": "12396"
         },
         {
             "source": "11988",
             "relationship": "dept",
+            "value": "2",
             "target": "12590"
         },
         {
             "source": "11988",
             "relationship": "dept",
+            "value": "2",
             "target": "12591"
         },
         {
             "source": "11988",
             "relationship": "dept",
+            "value": "2",
             "target": "43743"
         },
         {
             "source": "11988",
             "relationship": "dept",
+            "value": "2",
             "target": "50888"
         },
         {
             "source": "11988",
             "relationship": "dept",
+            "value": "2",
             "target": "71252"
         },
         {
             "source": "11988",
             "relationship": "dept",
+            "value": "2",
             "target": "79748"
         },
         {
             "source": "11988",
             "relationship": "fund",
+            "value": "3",
             "target": "11537"
         },
         {
             "source": "11988",
             "relationship": "fund",
+            "value": "3",
             "target": "11747"
         },
         {
             "source": "11988",
             "relationship": "fund",
+            "value": "3",
             "target": "11775"
         },
         {
             "source": "11988",
             "relationship": "fund",
+            "value": "3",
             "target": "11781"
         },
         {
             "source": "11988",
             "relationship": "fund",
+            "value": "3",
             "target": "11794"
         },
         {
             "source": "11988",
             "relationship": "fund",
+            "value": "3",
             "target": "11828"
         },
         {
             "source": "11988",
             "relationship": "fund",
+            "value": "3",
             "target": "11868"
         },
         {
             "source": "11988",
             "relationship": "fund",
+            "value": "3",
             "target": "11922"
         },
         {
             "source": "11988",
             "relationship": "fund",
+            "value": "3",
             "target": "11955"
         },
         {
             "source": "11988",
             "relationship": "fund",
+            "value": "3",
             "target": "43743"
         },
         {
             "source": "11988",
             "relationship": "fund",
+            "value": "3",
             "target": "50888"
         },
         {
             "source": "11988",
             "relationship": "class",
+            "value": "1",
             "target": "11747"
         },
         {
             "source": "11988",
             "relationship": "class",
+            "value": "1",
             "target": "11781"
         },
         {
             "source": "11988",
             "relationship": "class",
+            "value": "1",
             "target": "11828"
         },
         {
             "source": "11988",
             "relationship": "class",
+            "value": "1",
             "target": "11868"
         },
         {
             "source": "11988",
             "relationship": "class",
+            "value": "1",
             "target": "11922"
         },
         {
             "source": "11988",
             "relationship": "class",
+            "value": "1",
             "target": "11955"
         },
         {
             "source": "11988",
             "relationship": "class",
+            "value": "1",
             "target": "12396"
         },
         {
             "source": "11988",
             "relationship": "class",
+            "value": "1",
             "target": "12590"
         },
         {
             "source": "11988",
             "relationship": "class",
+            "value": "1",
             "target": "71252"
         },
         {
             "source": "11988",
             "relationship": "class",
+            "value": "1",
             "target": "82651"
         },
         {
             "source": "12590",
             "relationship": "dept",
+            "value": "2",
             "target": "11537"
         },
         {
             "source": "12590",
             "relationship": "dept",
+            "value": "2",
             "target": "11747"
         },
         {
             "source": "12590",
             "relationship": "dept",
+            "value": "2",
             "target": "11775"
         },
         {
             "source": "12590",
             "relationship": "dept",
+            "value": "2",
             "target": "11781"
         },
         {
             "source": "12590",
             "relationship": "dept",
+            "value": "2",
             "target": "11794"
         },
         {
             "source": "12590",
             "relationship": "dept",
+            "value": "2",
             "target": "11828"
         },
         {
             "source": "12590",
             "relationship": "dept",
+            "value": "2",
             "target": "11868"
         },
         {
             "source": "12590",
             "relationship": "dept",
+            "value": "2",
             "target": "11922"
         },
         {
             "source": "12590",
             "relationship": "dept",
+            "value": "2",
             "target": "11955"
         },
         {
             "source": "12590",
             "relationship": "dept",
+            "value": "2",
             "target": "11988"
         },
         {
             "source": "12590",
             "relationship": "dept",
+            "value": "2",
             "target": "12396"
         },
         {
             "source": "12590",
             "relationship": "dept",
+            "value": "2",
             "target": "12591"
         },
         {
             "source": "12590",
             "relationship": "dept",
+            "value": "2",
             "target": "43743"
         },
         {
             "source": "12590",
             "relationship": "dept",
+            "value": "2",
             "target": "50888"
         },
         {
             "source": "12590",
             "relationship": "dept",
+            "value": "2",
             "target": "71252"
         },
         {
             "source": "12590",
             "relationship": "dept",
+            "value": "2",
             "target": "79748"
         },
         {
             "source": "12590",
             "relationship": "class",
+            "value": "1",
             "target": "11747"
         },
         {
             "source": "12590",
             "relationship": "class",
+            "value": "1",
             "target": "11781"
         },
         {
             "source": "12590",
             "relationship": "class",
+            "value": "1",
             "target": "11828"
         },
         {
             "source": "12590",
             "relationship": "class",
+            "value": "1",
             "target": "11868"
         },
         {
             "source": "12590",
             "relationship": "class",
+            "value": "1",
             "target": "11922"
         },
         {
             "source": "12590",
             "relationship": "class",
+            "value": "1",
             "target": "11955"
         },
         {
             "source": "12590",
             "relationship": "class",
+            "value": "1",
             "target": "11988"
         },
         {
             "source": "12590",
             "relationship": "class",
+            "value": "1",
             "target": "12396"
         },
         {
             "source": "12590",
             "relationship": "class",
+            "value": "1",
             "target": "71252"
         },
         {
             "source": "12590",
             "relationship": "class",
+            "value": "1",
             "target": "82651"
         },
         {
             "source": "12591",
             "relationship": "dept",
+            "value": "2",
             "target": "11537"
         },
         {
             "source": "12591",
             "relationship": "dept",
+            "value": "2",
             "target": "11747"
         },
         {
             "source": "12591",
             "relationship": "dept",
+            "value": "2",
             "target": "11775"
         },
         {
             "source": "12591",
             "relationship": "dept",
+            "value": "2",
             "target": "11781"
         },
         {
             "source": "12591",
             "relationship": "dept",
+            "value": "2",
             "target": "11794"
         },
         {
             "source": "12591",
             "relationship": "dept",
+            "value": "2",
             "target": "11828"
         },
         {
             "source": "12591",
             "relationship": "dept",
+            "value": "2",
             "target": "11868"
         },
         {
             "source": "12591",
             "relationship": "dept",
+            "value": "2",
             "target": "11922"
         },
         {
             "source": "12591",
             "relationship": "dept",
+            "value": "2",
             "target": "11955"
         },
         {
             "source": "12591",
             "relationship": "dept",
+            "value": "2",
             "target": "11988"
         },
         {
             "source": "12591",
             "relationship": "dept",
+            "value": "2",
             "target": "12396"
         },
         {
             "source": "12591",
             "relationship": "dept",
+            "value": "2",
             "target": "12590"
         },
         {
             "source": "12591",
             "relationship": "dept",
+            "value": "2",
             "target": "43743"
         },
         {
             "source": "12591",
             "relationship": "dept",
+            "value": "2",
             "target": "50888"
         },
         {
             "source": "12591",
             "relationship": "dept",
+            "value": "2",
             "target": "71252"
         },
         {
             "source": "12591",
             "relationship": "dept",
+            "value": "2",
             "target": "79748"
         },
         {
             "source": "12591",
             "relationship": "fund",
+            "value": "3",
             "target": "12590"
         },
         {
             "source": "11537",
             "relationship": "dept",
+            "value": "2",
             "target": "11747"
         },
         {
             "source": "11537",
             "relationship": "dept",
+            "value": "2",
             "target": "11775"
         },
         {
             "source": "11537",
             "relationship": "dept",
+            "value": "2",
             "target": "11781"
         },
         {
             "source": "11537",
             "relationship": "dept",
+            "value": "2",
             "target": "11794"
         },
         {
             "source": "11537",
             "relationship": "dept",
+            "value": "2",
             "target": "11828"
         },
         {
             "source": "11537",
             "relationship": "dept",
+            "value": "2",
             "target": "11868"
         },
         {
             "source": "11537",
             "relationship": "dept",
+            "value": "2",
             "target": "11922"
         },
         {
             "source": "11537",
             "relationship": "dept",
+            "value": "2",
             "target": "11955"
         },
         {
             "source": "11537",
             "relationship": "dept",
+            "value": "2",
             "target": "11988"
         },
         {
             "source": "11537",
             "relationship": "dept",
+            "value": "2",
             "target": "12396"
         },
         {
             "source": "11537",
             "relationship": "dept",
+            "value": "2",
             "target": "12590"
         },
         {
             "source": "11537",
             "relationship": "dept",
+            "value": "2",
             "target": "12591"
         },
         {
             "source": "11537",
             "relationship": "dept",
+            "value": "2",
             "target": "43743"
         },
         {
             "source": "11537",
             "relationship": "dept",
+            "value": "2",
             "target": "50888"
         },
         {
             "source": "11537",
             "relationship": "dept",
+            "value": "2",
             "target": "71252"
         },
         {
             "source": "11537",
             "relationship": "dept",
+            "value": "2",
             "target": "79748"
         },
         {
             "source": "11537",
             "relationship": "fund",
+            "value": "3",
             "target": "11747"
         },
         {
             "source": "11537",
             "relationship": "fund",
+            "value": "3",
             "target": "11775"
         },
         {
             "source": "11537",
             "relationship": "fund",
+            "value": "3",
             "target": "11781"
         },
         {
             "source": "11537",
             "relationship": "fund",
+            "value": "3",
             "target": "11794"
         },
         {
             "source": "11537",
             "relationship": "fund",
+            "value": "3",
             "target": "11828"
         },
         {
             "source": "11537",
             "relationship": "fund",
+            "value": "3",
             "target": "11868"
         },
         {
             "source": "11537",
             "relationship": "fund",
+            "value": "3",
             "target": "11922"
         },
         {
             "source": "11537",
             "relationship": "fund",
+            "value": "3",
             "target": "11955"
         },
         {
             "source": "11537",
             "relationship": "fund",
+            "value": "3",
             "target": "11988"
         },
         {
             "source": "11537",
             "relationship": "fund",
+            "value": "3",
             "target": "43743"
         },
         {
             "source": "11537",
             "relationship": "fund",
+            "value": "3",
             "target": "50888"
         },
         {
             "source": "11537",
             "relationship": "class",
+            "value": "1",
             "target": "83056"
         },
         {
             "source": "11747",
             "relationship": "dept",
+            "value": "2",
             "target": "11537"
         },
         {
             "source": "11747",
             "relationship": "dept",
+            "value": "2",
             "target": "11775"
         },
         {
             "source": "11747",
             "relationship": "dept",
+            "value": "2",
             "target": "11781"
         },
         {
             "source": "11747",
             "relationship": "dept",
+            "value": "2",
             "target": "11794"
         },
         {
             "source": "11747",
             "relationship": "dept",
+            "value": "2",
             "target": "11828"
         },
         {
             "source": "11747",
             "relationship": "dept",
+            "value": "2",
             "target": "11868"
         },
         {
             "source": "11747",
             "relationship": "dept",
+            "value": "2",
             "target": "11922"
         },
         {
             "source": "11747",
             "relationship": "dept",
+            "value": "2",
             "target": "11955"
         },
         {
             "source": "11747",
             "relationship": "dept",
+            "value": "2",
             "target": "11988"
         },
         {
             "source": "11747",
             "relationship": "dept",
+            "value": "2",
             "target": "12396"
         },
         {
             "source": "11747",
             "relationship": "dept",
+            "value": "2",
             "target": "12590"
         },
         {
             "source": "11747",
             "relationship": "dept",
+            "value": "2",
             "target": "12591"
         },
         {
             "source": "11747",
             "relationship": "dept",
+            "value": "2",
             "target": "43743"
         },
         {
             "source": "11747",
             "relationship": "dept",
+            "value": "2",
             "target": "50888"
         },
         {
             "source": "11747",
             "relationship": "dept",
+            "value": "2",
             "target": "71252"
         },
         {
             "source": "11747",
             "relationship": "dept",
+            "value": "2",
             "target": "79748"
         },
         {
             "source": "11747",
             "relationship": "fund",
+            "value": "3",
             "target": "11537"
         },
         {
             "source": "11747",
             "relationship": "fund",
+            "value": "3",
             "target": "11775"
         },
         {
             "source": "11747",
             "relationship": "fund",
+            "value": "3",
             "target": "11781"
         },
         {
             "source": "11747",
             "relationship": "fund",
+            "value": "3",
             "target": "11794"
         },
         {
             "source": "11747",
             "relationship": "fund",
+            "value": "3",
             "target": "11828"
         },
         {
             "source": "11747",
             "relationship": "fund",
+            "value": "3",
             "target": "11868"
         },
         {
             "source": "11747",
             "relationship": "fund",
+            "value": "3",
             "target": "11922"
         },
         {
             "source": "11747",
             "relationship": "fund",
+            "value": "3",
             "target": "11955"
         },
         {
             "source": "11747",
             "relationship": "fund",
+            "value": "3",
             "target": "11988"
         },
         {
             "source": "11747",
             "relationship": "fund",
+            "value": "3",
             "target": "43743"
         },
         {
             "source": "11747",
             "relationship": "fund",
+            "value": "3",
             "target": "50888"
         },
         {
             "source": "11747",
             "relationship": "class",
+            "value": "1",
             "target": "11781"
         },
         {
             "source": "11747",
             "relationship": "class",
+            "value": "1",
             "target": "11828"
         },
         {
             "source": "11747",
             "relationship": "class",
+            "value": "1",
             "target": "11868"
         },
         {
             "source": "11747",
             "relationship": "class",
+            "value": "1",
             "target": "11922"
         },
         {
             "source": "11747",
             "relationship": "class",
+            "value": "1",
             "target": "11955"
         },
         {
             "source": "11747",
             "relationship": "class",
+            "value": "1",
             "target": "11988"
         },
         {
             "source": "11747",
             "relationship": "class",
+            "value": "1",
             "target": "12396"
         },
         {
             "source": "11747",
             "relationship": "class",
+            "value": "1",
             "target": "12590"
         },
         {
             "source": "11747",
             "relationship": "class",
+            "value": "1",
             "target": "71252"
         },
         {
             "source": "11747",
             "relationship": "class",
+            "value": "1",
             "target": "82651"
         },
         {
             "source": "11922",
             "relationship": "dept",
+            "value": "2",
             "target": "11537"
         },
         {
             "source": "11922",
             "relationship": "dept",
+            "value": "2",
             "target": "11747"
         },
         {
             "source": "11922",
             "relationship": "dept",
+            "value": "2",
             "target": "11775"
         },
         {
             "source": "11922",
             "relationship": "dept",
+            "value": "2",
             "target": "11781"
         },
         {
             "source": "11922",
             "relationship": "dept",
+            "value": "2",
             "target": "11794"
         },
         {
             "source": "11922",
             "relationship": "dept",
+            "value": "2",
             "target": "11828"
         },
         {
             "source": "11922",
             "relationship": "dept",
+            "value": "2",
             "target": "11868"
         },
         {
             "source": "11922",
             "relationship": "dept",
+            "value": "2",
             "target": "11955"
         },
         {
             "source": "11922",
             "relationship": "dept",
+            "value": "2",
             "target": "11988"
         },
         {
             "source": "11922",
             "relationship": "dept",
+            "value": "2",
             "target": "12396"
         },
         {
             "source": "11922",
             "relationship": "dept",
+            "value": "2",
             "target": "12590"
         },
         {
             "source": "11922",
             "relationship": "dept",
+            "value": "2",
             "target": "12591"
         },
         {
             "source": "11922",
             "relationship": "dept",
+            "value": "2",
             "target": "43743"
         },
         {
             "source": "11922",
             "relationship": "dept",
+            "value": "2",
             "target": "50888"
         },
         {
             "source": "11922",
             "relationship": "dept",
+            "value": "2",
             "target": "71252"
         },
         {
             "source": "11922",
             "relationship": "dept",
+            "value": "2",
             "target": "79748"
         },
         {
             "source": "11922",
             "relationship": "fund",
+            "value": "3",
             "target": "11537"
         },
         {
             "source": "11922",
             "relationship": "fund",
+            "value": "3",
             "target": "11747"
         },
         {
             "source": "11922",
             "relationship": "fund",
+            "value": "3",
             "target": "11775"
         },
         {
             "source": "11922",
             "relationship": "fund",
+            "value": "3",
             "target": "11781"
         },
         {
             "source": "11922",
             "relationship": "fund",
+            "value": "3",
             "target": "11794"
         },
         {
             "source": "11922",
             "relationship": "fund",
+            "value": "3",
             "target": "11828"
         },
         {
             "source": "11922",
             "relationship": "fund",
+            "value": "3",
             "target": "11868"
         },
         {
             "source": "11922",
             "relationship": "fund",
+            "value": "3",
             "target": "11955"
         },
         {
             "source": "11922",
             "relationship": "fund",
+            "value": "3",
             "target": "11988"
         },
         {
             "source": "11922",
             "relationship": "fund",
+            "value": "3",
             "target": "43743"
         },
         {
             "source": "11922",
             "relationship": "fund",
+            "value": "3",
             "target": "50888"
         },
         {
             "source": "11922",
             "relationship": "class",
+            "value": "1",
             "target": "11747"
         },
         {
             "source": "11922",
             "relationship": "class",
+            "value": "1",
             "target": "11781"
         },
         {
             "source": "11922",
             "relationship": "class",
+            "value": "1",
             "target": "11828"
         },
         {
             "source": "11922",
             "relationship": "class",
+            "value": "1",
             "target": "11868"
         },
         {
             "source": "11922",
             "relationship": "class",
+            "value": "1",
             "target": "11955"
         },
         {
             "source": "11922",
             "relationship": "class",
+            "value": "1",
             "target": "11988"
         },
         {
             "source": "11922",
             "relationship": "class",
+            "value": "1",
             "target": "12396"
         },
         {
             "source": "11922",
             "relationship": "class",
+            "value": "1",
             "target": "12590"
         },
         {
             "source": "11922",
             "relationship": "class",
+            "value": "1",
             "target": "71252"
         },
         {
             "source": "11922",
             "relationship": "class",
+            "value": "1",
             "target": "82651"
         },
         {
             "source": "71252",
             "relationship": "dept",
+            "value": "2",
             "target": "11537"
         },
         {
             "source": "71252",
             "relationship": "dept",
+            "value": "2",
             "target": "11747"
         },
         {
             "source": "71252",
             "relationship": "dept",
+            "value": "2",
             "target": "11775"
         },
         {
             "source": "71252",
             "relationship": "dept",
+            "value": "2",
             "target": "11781"
         },
         {
             "source": "71252",
             "relationship": "dept",
+            "value": "2",
             "target": "11794"
         },
         {
             "source": "71252",
             "relationship": "dept",
+            "value": "2",
             "target": "11828"
         },
         {
             "source": "71252",
             "relationship": "dept",
+            "value": "2",
             "target": "11868"
         },
         {
             "source": "71252",
             "relationship": "dept",
+            "value": "2",
             "target": "11922"
         },
         {
             "source": "71252",
             "relationship": "dept",
+            "value": "2",
             "target": "11955"
         },
         {
             "source": "71252",
             "relationship": "dept",
+            "value": "2",
             "target": "11988"
         },
         {
             "source": "71252",
             "relationship": "dept",
+            "value": "2",
             "target": "12396"
         },
         {
             "source": "71252",
             "relationship": "dept",
+            "value": "2",
             "target": "12590"
         },
         {
             "source": "71252",
             "relationship": "dept",
+            "value": "2",
             "target": "12591"
         },
         {
             "source": "71252",
             "relationship": "dept",
+            "value": "2",
             "target": "43743"
         },
         {
             "source": "71252",
             "relationship": "dept",
+            "value": "2",
             "target": "50888"
         },
         {
             "source": "71252",
             "relationship": "dept",
+            "value": "2",
             "target": "79748"
         },
         {
             "source": "71252",
             "relationship": "fund",
+            "value": "3",
             "target": "83056"
         },
         {
             "source": "71252",
             "relationship": "fund",
+            "value": "3",
             "target": "8821"
         },
         {
             "source": "71252",
             "relationship": "class",
+            "value": "1",
             "target": "11747"
         },
         {
             "source": "71252",
             "relationship": "class",
+            "value": "1",
             "target": "11781"
         },
         {
             "source": "71252",
             "relationship": "class",
+            "value": "1",
             "target": "11828"
         },
         {
             "source": "71252",
             "relationship": "class",
+            "value": "1",
             "target": "11868"
         },
         {
             "source": "71252",
             "relationship": "class",
+            "value": "1",
             "target": "11922"
         },
         {
             "source": "71252",
             "relationship": "class",
+            "value": "1",
             "target": "11955"
         },
         {
             "source": "71252",
             "relationship": "class",
+            "value": "1",
             "target": "11988"
         },
         {
             "source": "71252",
             "relationship": "class",
+            "value": "1",
             "target": "12396"
         },
         {
             "source": "71252",
             "relationship": "class",
+            "value": "1",
             "target": "12590"
         },
         {
             "source": "71252",
             "relationship": "class",
+            "value": "1",
             "target": "82651"
         },
         {
             "source": "11828",
             "relationship": "dept",
+            "value": "2",
             "target": "11537"
         },
         {
             "source": "11828",
             "relationship": "dept",
+            "value": "2",
             "target": "11747"
         },
         {
             "source": "11828",
             "relationship": "dept",
+            "value": "2",
             "target": "11775"
         },
         {
             "source": "11828",
             "relationship": "dept",
+            "value": "2",
             "target": "11781"
         },
         {
             "source": "11828",
             "relationship": "dept",
+            "value": "2",
             "target": "11794"
         },
         {
             "source": "11828",
             "relationship": "dept",
+            "value": "2",
             "target": "11868"
         },
         {
             "source": "11828",
             "relationship": "dept",
+            "value": "2",
             "target": "11922"
         },
         {
             "source": "11828",
             "relationship": "dept",
+            "value": "2",
             "target": "11955"
         },
         {
             "source": "11828",
             "relationship": "dept",
+            "value": "2",
             "target": "11988"
         },
         {
             "source": "11828",
             "relationship": "dept",
+            "value": "2",
             "target": "12396"
         },
         {
             "source": "11828",
             "relationship": "dept",
+            "value": "2",
             "target": "12590"
         },
         {
             "source": "11828",
             "relationship": "dept",
+            "value": "2",
             "target": "12591"
         },
         {
             "source": "11828",
             "relationship": "dept",
+            "value": "2",
             "target": "43743"
         },
         {
             "source": "11828",
             "relationship": "dept",
+            "value": "2",
             "target": "50888"
         },
         {
             "source": "11828",
             "relationship": "dept",
+            "value": "2",
             "target": "71252"
         },
         {
             "source": "11828",
             "relationship": "dept",
+            "value": "2",
             "target": "79748"
         },
         {
             "source": "11828",
             "relationship": "fund",
+            "value": "3",
             "target": "11537"
         },
         {
             "source": "11828",
             "relationship": "fund",
+            "value": "3",
             "target": "11747"
         },
         {
             "source": "11828",
             "relationship": "fund",
+            "value": "3",
             "target": "11775"
         },
         {
             "source": "11828",
             "relationship": "fund",
+            "value": "3",
             "target": "11781"
         },
         {
             "source": "11828",
             "relationship": "fund",
+            "value": "3",
             "target": "11794"
         },
         {
             "source": "11828",
             "relationship": "fund",
+            "value": "3",
             "target": "11868"
         },
         {
             "source": "11828",
             "relationship": "fund",
+            "value": "3",
             "target": "11922"
         },
         {
             "source": "11828",
             "relationship": "fund",
+            "value": "3",
             "target": "11955"
         },
         {
             "source": "11828",
             "relationship": "fund",
+            "value": "3",
             "target": "11988"
         },
         {
             "source": "11828",
             "relationship": "fund",
+            "value": "3",
             "target": "43743"
         },
         {
             "source": "11828",
             "relationship": "fund",
+            "value": "3",
             "target": "50888"
         },
         {
             "source": "11828",
             "relationship": "class",
+            "value": "1",
             "target": "11747"
         },
         {
             "source": "11828",
             "relationship": "class",
+            "value": "1",
             "target": "11781"
         },
         {
             "source": "11828",
             "relationship": "class",
+            "value": "1",
             "target": "11868"
         },
         {
             "source": "11828",
             "relationship": "class",
+            "value": "1",
             "target": "11922"
         },
         {
             "source": "11828",
             "relationship": "class",
+            "value": "1",
             "target": "11955"
         },
         {
             "source": "11828",
             "relationship": "class",
+            "value": "1",
             "target": "11988"
         },
         {
             "source": "11828",
             "relationship": "class",
+            "value": "1",
             "target": "12396"
         },
         {
             "source": "11828",
             "relationship": "class",
+            "value": "1",
             "target": "12590"
         },
         {
             "source": "11828",
             "relationship": "class",
+            "value": "1",
             "target": "71252"
         },
         {
             "source": "11828",
             "relationship": "class",
+            "value": "1",
             "target": "82651"
         },
         {
             "source": "11794",
             "relationship": "dept",
+            "value": "2",
             "target": "11537"
         },
         {
             "source": "11794",
             "relationship": "dept",
+            "value": "2",
             "target": "11747"
         },
         {
             "source": "11794",
             "relationship": "dept",
+            "value": "2",
             "target": "11775"
         },
         {
             "source": "11794",
             "relationship": "dept",
+            "value": "2",
             "target": "11781"
         },
         {
             "source": "11794",
             "relationship": "dept",
+            "value": "2",
             "target": "11828"
         },
         {
             "source": "11794",
             "relationship": "dept",
+            "value": "2",
             "target": "11868"
         },
         {
             "source": "11794",
             "relationship": "dept",
+            "value": "2",
             "target": "11922"
         },
         {
             "source": "11794",
             "relationship": "dept",
+            "value": "2",
             "target": "11955"
         },
         {
             "source": "11794",
             "relationship": "dept",
+            "value": "2",
             "target": "11988"
         },
         {
             "source": "11794",
             "relationship": "dept",
+            "value": "2",
             "target": "12396"
         },
         {
             "source": "11794",
             "relationship": "dept",
+            "value": "2",
             "target": "12590"
         },
         {
             "source": "11794",
             "relationship": "dept",
+            "value": "2",
             "target": "12591"
         },
         {
             "source": "11794",
             "relationship": "dept",
+            "value": "2",
             "target": "43743"
         },
         {
             "source": "11794",
             "relationship": "dept",
+            "value": "2",
             "target": "50888"
         },
         {
             "source": "11794",
             "relationship": "dept",
+            "value": "2",
             "target": "71252"
         },
         {
             "source": "11794",
             "relationship": "dept",
+            "value": "2",
             "target": "79748"
         },
         {
             "source": "11794",
             "relationship": "fund",
+            "value": "3",
             "target": "11537"
         },
         {
             "source": "11794",
             "relationship": "fund",
+            "value": "3",
             "target": "11747"
         },
         {
             "source": "11794",
             "relationship": "fund",
+            "value": "3",
             "target": "11775"
         },
         {
             "source": "11794",
             "relationship": "fund",
+            "value": "3",
             "target": "11781"
         },
         {
             "source": "11794",
             "relationship": "fund",
+            "value": "3",
             "target": "11828"
         },
         {
             "source": "11794",
             "relationship": "fund",
+            "value": "3",
             "target": "11868"
         },
         {
             "source": "11794",
             "relationship": "fund",
+            "value": "3",
             "target": "11922"
         },
         {
             "source": "11794",
             "relationship": "fund",
+            "value": "3",
             "target": "11955"
         },
         {
             "source": "11794",
             "relationship": "fund",
+            "value": "3",
             "target": "11988"
         },
         {
             "source": "11794",
             "relationship": "fund",
+            "value": "3",
             "target": "43743"
         },
         {
             "source": "11794",
             "relationship": "fund",
+            "value": "3",
             "target": "50888"
         },
         {
             "source": "12396",
             "relationship": "dept",
+            "value": "2",
             "target": "11537"
         },
         {
             "source": "12396",
             "relationship": "dept",
+            "value": "2",
             "target": "11747"
         },
         {
             "source": "12396",
             "relationship": "dept",
+            "value": "2",
             "target": "11775"
         },
         {
             "source": "12396",
             "relationship": "dept",
+            "value": "2",
             "target": "11781"
         },
         {
             "source": "12396",
             "relationship": "dept",
+            "value": "2",
             "target": "11794"
         },
         {
             "source": "12396",
             "relationship": "dept",
+            "value": "2",
             "target": "11828"
         },
         {
             "source": "12396",
             "relationship": "dept",
+            "value": "2",
             "target": "11868"
         },
         {
             "source": "12396",
             "relationship": "dept",
+            "value": "2",
             "target": "11922"
         },
         {
             "source": "12396",
             "relationship": "dept",
+            "value": "2",
             "target": "11955"
         },
         {
             "source": "12396",
             "relationship": "dept",
+            "value": "2",
             "target": "11988"
         },
         {
             "source": "12396",
             "relationship": "dept",
+            "value": "2",
             "target": "12590"
         },
         {
             "source": "12396",
             "relationship": "dept",
+            "value": "2",
             "target": "12591"
         },
         {
             "source": "12396",
             "relationship": "dept",
+            "value": "2",
             "target": "43743"
         },
         {
             "source": "12396",
             "relationship": "dept",
+            "value": "2",
             "target": "50888"
         },
         {
             "source": "12396",
             "relationship": "dept",
+            "value": "2",
             "target": "71252"
         },
         {
             "source": "12396",
             "relationship": "dept",
+            "value": "2",
             "target": "79748"
         },
         {
             "source": "12396",
             "relationship": "class",
+            "value": "1",
             "target": "11747"
         },
         {
             "source": "12396",
             "relationship": "class",
+            "value": "1",
             "target": "11781"
         },
         {
             "source": "12396",
             "relationship": "class",
+            "value": "1",
             "target": "11828"
         },
         {
             "source": "12396",
             "relationship": "class",
+            "value": "1",
             "target": "11868"
         },
         {
             "source": "12396",
             "relationship": "class",
+            "value": "1",
             "target": "11922"
         },
         {
             "source": "12396",
             "relationship": "class",
+            "value": "1",
             "target": "11955"
         },
         {
             "source": "12396",
             "relationship": "class",
+            "value": "1",
             "target": "11988"
         },
         {
             "source": "12396",
             "relationship": "class",
+            "value": "1",
             "target": "12590"
         },
         {
             "source": "12396",
             "relationship": "class",
+            "value": "1",
             "target": "71252"
         },
         {
             "source": "12396",
             "relationship": "class",
+            "value": "1",
             "target": "82651"
         },
         {
             "source": "11868",
             "relationship": "dept",
+            "value": "2",
             "target": "11537"
         },
         {
             "source": "11868",
             "relationship": "dept",
+            "value": "2",
             "target": "11747"
         },
         {
             "source": "11868",
             "relationship": "dept",
+            "value": "2",
             "target": "11775"
         },
         {
             "source": "11868",
             "relationship": "dept",
+            "value": "2",
             "target": "11781"
         },
         {
             "source": "11868",
             "relationship": "dept",
+            "value": "2",
             "target": "11794"
         },
         {
             "source": "11868",
             "relationship": "dept",
+            "value": "2",
             "target": "11828"
         },
         {
             "source": "11868",
             "relationship": "dept",
+            "value": "2",
             "target": "11922"
         },
         {
             "source": "11868",
             "relationship": "dept",
+            "value": "2",
             "target": "11955"
         },
         {
             "source": "11868",
             "relationship": "dept",
+            "value": "2",
             "target": "11988"
         },
         {
             "source": "11868",
             "relationship": "dept",
+            "value": "2",
             "target": "12396"
         },
         {
             "source": "11868",
             "relationship": "dept",
+            "value": "2",
             "target": "12590"
         },
         {
             "source": "11868",
             "relationship": "dept",
+            "value": "2",
             "target": "12591"
         },
         {
             "source": "11868",
             "relationship": "dept",
+            "value": "2",
             "target": "43743"
         },
         {
             "source": "11868",
             "relationship": "dept",
+            "value": "2",
             "target": "50888"
         },
         {
             "source": "11868",
             "relationship": "dept",
+            "value": "2",
             "target": "71252"
         },
         {
             "source": "11868",
             "relationship": "dept",
+            "value": "2",
             "target": "79748"
         },
         {
             "source": "11868",
             "relationship": "fund",
+            "value": "3",
             "target": "11537"
         },
         {
             "source": "11868",
             "relationship": "fund",
+            "value": "3",
             "target": "11747"
         },
         {
             "source": "11868",
             "relationship": "fund",
+            "value": "3",
             "target": "11775"
         },
         {
             "source": "11868",
             "relationship": "fund",
+            "value": "3",
             "target": "11781"
         },
         {
             "source": "11868",
             "relationship": "fund",
+            "value": "3",
             "target": "11794"
         },
         {
             "source": "11868",
             "relationship": "fund",
+            "value": "3",
             "target": "11828"
         },
         {
             "source": "11868",
             "relationship": "fund",
+            "value": "3",
             "target": "11922"
         },
         {
             "source": "11868",
             "relationship": "fund",
+            "value": "3",
             "target": "11955"
         },
         {
             "source": "11868",
             "relationship": "fund",
+            "value": "3",
             "target": "11988"
         },
         {
             "source": "11868",
             "relationship": "fund",
+            "value": "3",
             "target": "43743"
         },
         {
             "source": "11868",
             "relationship": "fund",
+            "value": "3",
             "target": "50888"
         },
         {
             "source": "11868",
             "relationship": "class",
+            "value": "1",
             "target": "11747"
         },
         {
             "source": "11868",
             "relationship": "class",
+            "value": "1",
             "target": "11781"
         },
         {
             "source": "11868",
             "relationship": "class",
+            "value": "1",
             "target": "11828"
         },
         {
             "source": "11868",
             "relationship": "class",
+            "value": "1",
             "target": "11922"
         },
         {
             "source": "11868",
             "relationship": "class",
+            "value": "1",
             "target": "11955"
         },
         {
             "source": "11868",
             "relationship": "class",
+            "value": "1",
             "target": "11988"
         },
         {
             "source": "11868",
             "relationship": "class",
+            "value": "1",
             "target": "12396"
         },
         {
             "source": "11868",
             "relationship": "class",
+            "value": "1",
             "target": "12590"
         },
         {
             "source": "11868",
             "relationship": "class",
+            "value": "1",
             "target": "71252"
         },
         {
             "source": "11868",
             "relationship": "class",
+            "value": "1",
             "target": "82651"
         },
         {
             "source": "11868",
             "relationship": "manufacturer",
+            "value": "4",
             "target": "11781"
         },
         {
             "source": "8821",
             "relationship": "dept",
+            "value": "2",
             "target": "82651"
         },
         {
             "source": "8821",
             "relationship": "dept",
+            "value": "2",
             "target": "83056"
         },
         {
             "source": "8821",
             "relationship": "fund",
+            "value": "3",
             "target": "71252"
         },
         {
             "source": "8821",
             "relationship": "fund",
+            "value": "3",
             "target": "83056"
         },
         {
             "source": "8821",
             "relationship": "fund",
+            "value": "3",
             "target": "71252"
         }
     ]
