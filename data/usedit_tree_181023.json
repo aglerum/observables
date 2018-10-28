@@ -16,31 +16,31 @@
         {
             "name": "Analyzer",
             "value": 100,
-            "definiton": "A device used to analyse data, signals, equipment performance, etc., or to measure and collect data for analysis.",
+            "definiton": "A device used to analyse data, signals, equipment performance, etc., or to measure and collect data for analysis",
             "definition_source": "http://www.oed.com/view/Entry/7043"
         },
         {
             "name": "Aspirator",
             "value": 100,
-            "definiton": "A device that aspirates, breathes, or blows upon; A device that draws a stream of air or gas through a tube.",
+            "definiton": "A device that aspirates, breathes, or blows upon; A device that draws a stream of air or gas through a tube",
             "definition_source": "http://www.oed.com/view/Entry/11674"
         },
         {
             "name": "Stainer",
             "value": 100,
-            "definiton": "Definition coming soon!",
+            "definiton": "Definition coming soon",
             "definition_source": ""
         },
         {
             "name": "Balancer",
             "value": 100,
-            "definiton": "Definition coming soon!",
+            "definiton": "Definition coming soon",
             "definition_source": ""
         },
         {
             "name": "Bander",
             "value": 100,
-            "definiton": "Definition coming soon!",
+            "definiton": "Definition coming soon",
             "definition_source": ""
         },
         {
@@ -76,13 +76,13 @@
         {
             "name": "Buffer",
             "value": 100,
-            "definiton": "Definition coming soon!",
+            "definiton": "Definition coming soon",
             "definition_source": ""
         },
         {
             "name": "Burner",
             "value": 100,
-            "definiton": "Definition coming soon!",
+            "definiton": "Definition coming soon",
             "definition_source": ""
         },
         {
@@ -94,7 +94,7 @@
         {
             "name": "Chiller",
             "value": 100,
-            "definiton": "A device that recirculates chilled fluids that is used for applications requiring heat removal across a wide temperature range.",
+            "definiton": "A device that recirculates chilled fluids that is used for applications requiring heat removal across a wide temperature range",
             "definition_source": " http://purl.obolibrary.org/obo/ERO_0000992"
         },
         {
@@ -106,7 +106,7 @@
         {
             "name": "Cleaner",
             "value": 100,
-            "definiton": "Definition coming soon!",
+            "definiton": "Definition coming soon",
             "definition_source": ""
         },
         {
@@ -154,7 +154,7 @@
         {
             "name": "Cooker",
             "value": 100,
-            "definiton": "A device that prepares or makes ready food; to make fit for eating by due application of heat, as by boiling, baking, roasting, broiling, etc.",
+            "definiton": "A device that prepares or makes ready food; to make fit for eating by due application of heat, as by boiling, baking, roasting, broiling, etc",
             "definition_source": "http://www.oed.com/view/Entry/40948"
         },
         {
@@ -166,25 +166,25 @@
         {
             "name": "Counter",
             "value": 100,
-            "definiton": "A device designed to keep track of the number of times something happens.",
+            "definiton": "A device designed to keep track of the number of times something happens",
             "definition_source": "http://purl.obolibrary.org/obo/NCIT_C49894"
         },
         {
             "name": "Crimper",
             "value": 100,
-            "definiton": "A device that compresses something into small regular folds or ridges, corrugates, or frills.",
+            "definiton": "A device that compresses something into small regular folds or ridges, corrugates, or frills",
             "definition_source": "http://www.oed.com/view/Entry/44452"
         },
         {
             "name": "Crusher",
             "value": 100,
-            "definiton": "A device that compresses with violence, so as to break, bruise, destroy, or squeeze out of natural shape or condition.",
+            "definiton": "A device that compresses with violence, so as to break, bruise, destroy, or squeeze out of natural shape or condition",
             "definition_source": "http://www.oed.com/view/Entry/45270"
         },
         {
             "name": "Culturer",
             "value": 100,
-            "definiton": "A device that propagates, grows, or develops (microorganisms, cells, tissues, etc.) under artificial conditions on or in a nutrient medium.",
+            "definiton": "A device that propagates, grows, or develops (microorganisms, cells, tissues, etc.) under artificial conditions on or in a nutrient medium",
             "definition_source": "http://www.oed.com/view/Entry/45747"
         },
         {
@@ -196,25 +196,25 @@
         {
             "name": "Cycler",
             "value": 100,
-            "definition": "A device that moves or revolves materials in a period in which a certain round of events or phenomena is completed, recurring in the same order in succeeding periods of the same length.",
+            "definition": "A device that moves or revolves materials in a period in which a certain round of events or phenomena is completed, recurring in the same order in succeeding periods of the same length",
             "definition_source": "http://www.oed.com/view/Entry/46505"
         },
         {
             "name": "Decapper",
             "value": 100,
-            "definiton": "Definition coming soon!",
+            "definiton": "Definition coming soon",
             "definition_source": ""
         },
         {
             "name": "Deduster",
             "value": 100,
-            "definiton": "A device used to separate dust or other fine particles from another material.",
+            "definiton": "A device used to separate dust or other fine particles from another material",
             "definition_source": "https://en.wiktionary.org/wiki/deduster"
         },
         {
             "name": "Defibrillator",
             "value": 100,
-            "definiton": "A device that delivers a therapeutic dose of electrical energy to the heart. This depolarizes a critical mass of the heart muscle, terminates the arrhythmia, and allows normal sinus rhythm to be reestablished by the body's natural pacemaker, in the sinoatrial node of the heart. Defibrillators can be external, transvenous, or implanted, depending on the type of device used or needed.",
+            "definiton": "A device that delivers a therapeutic dose of electrical energy to the heart. This depolarizes a critical mass of the heart muscle, terminates the arrhythmia, and allows normal sinus rhythm to be reestablished by the body's natural pacemaker, in the sinoatrial node of the heart. Defibrillators can be external, transvenous, or implanted, depending on the type of device used or needed",
             "definition_source": "http://purl.obolibrary.org/obo/ERO_0000830"
         },
         {
@@ -232,7 +232,7 @@
         {
             "name": "Detector",
             "value": 100,
-            "definiton": "A mechanical, electrical, or chemical device with sensor properties, that automatically identifies and records or registers a stimulus, such as change in pressure or temperature or content, movement, an electrical signal, radiation from a radioactive material or presence of subatomic particles, etc.",
+            "definiton": "A mechanical, electrical, or chemical device with sensor properties, that automatically identifies and records or registers a stimulus, such as change in pressure or temperature or content, movement, an electrical signal, radiation from a radioactive material or presence of subatomic particles, etc",
             "definition_source": "http://purl.obolibrary.org/obo/NCIT_C41276"
         },
         {
@@ -244,25 +244,25 @@
         {
             "name": "Dispenser",
             "value": 100,
-            "definiton": "A device designed to give out the contents in convenient or/and prescribed amounts.",
+            "definiton": "A device designed to give out the contents in convenient or/and prescribed amounts",
             "definition_source": "http://purl.obolibrary.org/obo/NCIT_C69095"
         },
         {
             "name": "Disperser",
             "value": 100,
-            "definiton": "A device that causes materials to separate in different directions; to throw or drive about in all directions, to scatter; to rout.",
+            "definiton": "A device that causes materials to separate in different directions; to throw or drive about in all directions, to scatter; to rout",
             "definition_source": "http://www.oed.com/view/Entry/55006"
         },
         {
             "name": "Digester",
             "value": 100,
-            "definiton": "Definition coming soon!",
+            "definiton": "Definition coming soon",
             "definition_source": ""
         },
         {
             "name": "Dissector",
             "value": 100,
-            "definiton": "A device that cuts up (an animal body, a plant, etc.) for the purpose of displaying the position, structure, and relations of the various internal parts; to anatomize.",
+            "definiton": "A device that cuts up (an animal body, a plant, etc.) for the purpose of displaying the position, structure, and relations of the various internal parts; to anatomize",
             "definition_source": "http://www.oed.com/view/Entry/55367"
         },
         {
@@ -280,25 +280,25 @@
         {
             "name": "Emulsifier",
             "value": 100,
-            "definiton": "A chemical substance/A device that that functions to stabilize an emulsion.",
+            "definiton": "A chemical substance/A device that that functions to stabilize an emulsion",
             "definition_source": "http://purl.obolibrary.org/obo/NCIT_C73477"
         },
         {
             "name": "Etcher",
             "value": 100,
-            "definiton": "A device that engraves (metals, sometimes glass, stone) by \u2018eating away\u2019 the surface with acids or other corrosives; chiefly, to engrave by this process (a copper or other metal plate) for the purpose of printing from it. Hence, to produce (figures), copy or reproduce (pictures, drawings, etc.), represent or portray (subjects) by this method.",
+            "definiton": "A device that engraves (metals, sometimes glass, stone) by \u2018eating away\u2019 the surface with acids or other corrosives; chiefly, to engrave by this process (a copper or other metal plate) for the purpose of printing from it. Hence, to produce (figures), copy or reproduce (pictures, drawings, etc.), represent or portray (subjects) by this method",
             "definition_source": "http://www.oed.com/view/Entry/64677"
         },
         {
             "name": "Evaporator",
             "value": 100,
-            "definiton": "A device designed either to drive a volatile solvent from a material or to cause vaporization within a heating/cooling system.",
+            "definiton": "A device designed either to drive a volatile solvent from a material or to cause vaporization within a heating/cooling system",
             "definition_source": "http://purl.obolibrary.org/obo/NCIT_C49942"
         },
         {
             "name": "Extractor",
             "value": 100,
-            "definiton": "A device designed to remove or separate a material or object from some other material or object.",
+            "definiton": "A device designed to remove or separate a material or object from some other material or object",
             "definition_source": "http://purl.obolibrary.org/obo/NCIT_C49945"
         },
         {
@@ -310,31 +310,31 @@
         {
             "name": "Fermentor",
             "value": 100,
-            "definiton": "A bioreactor that provides a sterilie environment, ideal for growth of any bacteria, yeast, or fungi.",
+            "definiton": "A bioreactor that provides a sterilie environment, ideal for growth of any bacteria, yeast, or fungi",
             "definition_source": "http://purl.obolibrary.org/obo/ERO_0000263"
         },
         {
             "name": "Filler",
             "value": 100,
-            "definiton": "Definition coming soon!",
+            "definiton": "Definition coming soon",
             "definition_source": ""
         },
         {
             "name": "Fluidizer",
             "value": 100,
-            "definiton": "A device that causes (a mass of finely divided solid) to assume fluidity and other characteristics of a liquid by passing a current of gas, vapour, or liquid upwards through it.",
+            "definiton": "A device that causes (a mass of finely divided solid) to assume fluidity and other characteristics of a liquid by passing a current of gas, vapour, or liquid upwards through it",
             "definition_source": "http://www.oed.com/view/Entry/72095"
         },
         {
             "name": "Fractionator",
             "value": 100,
-            "definiton": "A device that separates (a mixture) by distillation or otherwise into portions of differing properties.",
+            "definiton": "A device that separates (a mixture) by distillation or otherwise into portions of differing properties",
             "definition_source": "http://www.oed.com/view/Entry/74101"
         },
         {
             "name": "Freezer",
             "value": 100,
-            "definiton": "A refrigerated cabinet or room for preserving materials at or below 32F (0C).",
+            "definiton": "A refrigerated cabinet or room for preserving materials at or below 32F (0C)",
             "definition_source": "http://purl.obolibrary.org/obo/NCIT_C84327"
         },
         {
@@ -346,7 +346,7 @@
         {
             "name": "Generator",
             "value": 100,
-            "definiton": "An engine designed to produce electricity or a device designed to produce a vapor or gas.",
+            "definiton": "An engine designed to produce electricity or a device designed to produce a vapor or gas",
             "definition_source": "http://purl.obolibrary.org/obo/NCIT_C49970"
         },
         {
@@ -370,7 +370,7 @@
         {
             "name": "Handler",
             "value": 100,
-            "definition": "",
+            "definiton": "Definition coming soon",
             "definition_source": ""
         },
         {
@@ -382,7 +382,7 @@
         {
             "name": "Homogenizer",
             "value": 100,
-            "definition": "A device that renders materials homogeneous, unites or incorporates into a single whole of uniform composition; makes uniform or similar.",
+            "definition": "A device that renders materials homogeneous, unites or incorporates into a single whole of uniform composition; makes uniform or similar",
             "definition_source": "http://www.oed.com/view/Entry/88052"
         },
         {
@@ -406,19 +406,19 @@
         {
             "name": "Identifier",
             "value": 100,
-            "definition": "A device that ascertains or asserts what a thing or who a person is; to determine the identity of; to recognize as belonging to a particular category or kind; to refer (a plant, animal, or mineral specimen) to its correct species.",
+            "definition": "A device that ascertains or asserts what a thing or who a person is; to determine the identity of; to recognize as belonging to a particular category or kind; to refer (a plant, animal, or mineral specimen) to its correct species",
             "definition_source": "http://www.oed.com/view/Entry/90999"
         },
         {
             "name": "Illuminator",
             "value": 100,
-            "definition": "A device that illuminates or gives light.",
+            "definition": "A device that illuminates or gives light",
             "definition_source": "http://www.oed.com/view/Entry/91546"
         },
         {
             "name": "Imager",
             "value": 100,
-            "definition": "A device designed to create or record a visual representation of something.",
+            "definition": "A device designed to create or record a visual representation of something",
             "definition_source": "http://purl.obolibrary.org/obo/NCIT_C49997"
         },
         {
@@ -430,25 +430,25 @@
         {
             "name": "Inhibitor",
             "value": 100,
-            "definition": "",
+            "definiton": "Definition coming soon",
             "definition_source": ""
         },
         {
             "name": "Lighter",
             "value": 100,
-            "definition": "",
+            "definiton": "Definition coming soon",
             "definition_source": ""
         },
         {
             "name": "Inlet Liner",
             "value": 100,
-            "definition": "",
+            "definiton": "Definition coming soon",
             "definition_source": ""
         },
         {
             "name": "Integrator",
             "value": 100,
-            "definition": "A device that indicates or registers the total amount or mean value of some physical quantity, as area, temperature, etc.",
+            "definition": "A device that indicates or registers the total amount or mean value of some physical quantity, as area, temperature, etc",
             "definition_source": "http://www.oed.com/view/Entry/97360"
         },
         {
@@ -460,19 +460,19 @@
         {
             "name": "Logger",
             "value": 100,
-            "definition": "",
+            "definiton": "Definition coming soon",
             "definition_source": ""
         },
         {
             "name": "Lyophilizer",
             "value": 100,
-            "definition": "A device that is used to freeze dry material.",
+            "definition": "A device that is used to freeze dry material",
             "definition_source": "http://purl.obolibrary.org/obo/OBI_0001087"
         },
         {
             "name": "Manipulator",
             "value": 100,
-            "definition": "A mechanical device for handling radioactive or hazardous material, operated by remote control from behind a protective shield.",
+            "definition": "A mechanical device for handling radioactive or hazardous material, operated by remote control from behind a protective shield",
             "definition_source": "http://www.oed.com/view/Entry/113527"
         },
         {
@@ -484,25 +484,25 @@
         {
             "name": "Monitor",
             "value": 100,
-            "definition": "A device than includes a sensor designed to give information about the presence of a substance or the state of a system.",
+            "definition": "A device than includes a sensor designed to give information about the presence of a substance or the state of a system",
             "definition_source": "http://purl.obolibrary.org/obo/NCIT_C50074"
         },
         {
             "name": "Magnifier",
             "value": 100,
-            "definition": "An optical device that enlarges the apparent size of an image or object.",
+            "definition": "An optical device that enlarges the apparent size of an image or object",
             "definition_source": "http://purl.obolibrary.org/obo/NCIT_C60803"
         },
         {
             "name": "Marker",
             "value": 100,
-            "definition": "",
+            "definiton": "Definition coming soon",
             "definition_source": ""
         },
         {
             "name": "Nebulizer",
             "value": 100,
-            "definition": "A device that administers medicinal substance(s) in the form of a liquid mist to the patient airways. Nebulizer pumps air or oxygen through a liquid medicine to turn it into a vapor, which is then inhaled by the patient.",
+            "definition": "A device that administers medicinal substance(s) in the form of a liquid mist to the patient airways. Nebulizer pumps air or oxygen through a liquid medicine to turn it into a vapor, which is then inhaled by the patient",
             "definition_source": "http://purl.obolibrary.org/obo/NCIT_C28172"
         },
         {
@@ -514,37 +514,37 @@
         {
             "name": "Pipettor",
             "value": 100,
-            "definition": "A device that allows remote operation of a pipette, usually by the attachment of an extension tube. Also: a machine that automates multiple pipetting.",
+            "definition": "A device that allows remote operation of a pipette, usually by the attachment of an extension tube. Also: a machine that automates multiple pipetting",
             "definition_source": "http://www.oed.com/view/Entry/261967"
         },
         {
             "name": "Plotter",
             "value": 100,
-            "definition": "A computer driven device designed for drawing graphs and pictures.",
+            "definition": "A computer driven device designed for drawing graphs and pictures",
             "definition_source": "http://purl.obolibrary.org/obo/NCIT_C50107"
         },
         {
             "name": "Polisher",
             "value": 100,
-            "definition": "An mechanical device that enables precise sample thinning and polishing of a wide range of materials.",
+            "definition": "An mechanical device that enables precise sample thinning and polishing of a wide range of materials",
             "definition_source": "http://purl.obolibrary.org/obo/ERO_0000527"
         },
         {
             "name": "Presser",
             "value": 100,
-            "definition": "A device that applies pressure.",
+            "definition": "A device that applies pressure",
             "definition_source": "http://www.oed.com/view/Entry/150783"
         },
         {
             "name": "Primer",
             "value": 100,
-            "definition": "",
+            "definiton": "Definition coming soon",
             "definition_source": ""
         },
         {
             "name": "Reactor",
             "value": 100,
-            "definition": "A device in which a chemical reaction takes place or an electronic device designed to add reactance to a circuit.",
+            "definition": "A device in which a chemical reaction takes place or an electronic device designed to add reactance to a circuit",
             "definition_source": "http://purl.obolibrary.org/obo/NCIT_C50131"
         },
         {
@@ -562,19 +562,19 @@
         {
             "name": "Scanner",
             "value": 100,
-            "definition": "An electronic device that generates a digital representation of an image for data input to a computer or a receiver designed to search for a signal within a specified frequency range.",
+            "definition": "An electronic device that generates a digital representation of an image for data input to a computer or a receiver designed to search for a signal within a specified frequency range",
             "definition_source": "http://purl.obolibrary.org/obo/NCIT_C50158"
         },
         {
             "name": "Sequencer",
             "value": 100,
-            "definition": "A device that arranges materials in a definite order.",
+            "definition": "A device that arranges materials in a definite order",
             "definition_source": "http://www.oed.com/view/Entry/176290"
         },
         {
             "name": "Shaker",
             "value": 100,
-            "definition": "A device that moves irregularly and quickly to and fro, up and down, or from side to side.",
+            "definition": "A device that moves irregularly and quickly to and fro, up and down, or from side to side",
             "definition_source": "http://www.oed.com/view/Entry/177308"
         },
         {
@@ -592,7 +592,7 @@
         {
             "name": "Stabilizer",
             "value": 100,
-            "definition": "A device designed to reduce unwanted movement.",
+            "definition": "A device designed to reduce unwanted movement",
             "definition_source": "http://purl.obolibrary.org/obo/NCIT_C50188"
         },
         {
@@ -610,7 +610,7 @@
         {
             "name": "Tracer",
             "value": 100,
-            "definition": "",
+            "definiton": "Definition coming soon",
             "definition_source": ""
         },
         {
