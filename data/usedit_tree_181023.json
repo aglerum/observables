@@ -10,7 +10,7 @@
         {
             "name": "Amplifier",
             "value": 100,
-            "definiton": "An electronic device designed to take an input signal and output an increased signal strength.",
+            "definiton": "An electronic device designed to take an input signal and output an increased signal strength",
             "definition_source": "http://purl.obolibrary.org/obo/NCIT_C49825"
         },
         {
