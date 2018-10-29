@@ -434,16 +434,16 @@
             "definition_source": ""
         },
         {
-            "name": "Inlet Liner",
-            "value": 100,
-            "definition": "Definition coming soon",
-            "definition_source": ""
-        },
-        {
             "name": "Integrator",
             "value": 100,
             "definition": "A device that indicates or registers the total amount or mean value of some physical quantity, as area, temperature, etc",
             "definition_source": "http://www.oed.com/view/Entry/97360"
+        },
+        {
+            "name": "Liner",
+            "value": 100,
+            "definition": "Definition coming soon",
+            "definition_source": ""
         },
         {
             "name": "Liquefier",
