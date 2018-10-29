@@ -10,6 +10,12 @@
         {
             "name": "Amplifier",
             "value": 100,
+            "definition": "A device designed to make different pieces of apparatus compatible",
+            "definition_source": "http://purl.obolibrary.org/obo/NCIT_C49825"
+        },
+        {
+            "name": "Amplifier",
+            "value": 100,
             "definiton": "An electronic device designed to take an input signal and output an increased signal strength",
             "definition_source": "http://purl.obolibrary.org/obo/NCIT_C49825"
         },
@@ -24,12 +30,6 @@
             "value": 100,
             "definiton": "A device that aspirates, breathes, or blows upon; A device that draws a stream of air or gas through a tube",
             "definition_source": "http://www.oed.com/view/Entry/11674"
-        },
-        {
-            "name": "Stainer",
-            "value": 100,
-            "definiton": "Definition coming soon",
-            "definition_source": ""
         },
         {
             "name": "Balancer",
@@ -594,6 +594,12 @@
             "value": 100,
             "definition": "A device designed to reduce unwanted movement",
             "definition_source": "http://purl.obolibrary.org/obo/NCIT_C50188"
+        },
+        {
+            "name": "Stainer",
+            "value": 100,
+            "definiton": "Definition coming soon",
+            "definition_source": ""
         },
         {
             "name": "Stirrer",
