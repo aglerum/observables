@@ -4,7 +4,7 @@
             "id": "50888",
             "Descr": "Lamp Source (Arc)",
             "Class": "Illuminator",
-            "Dept": "75000",
+            "Department": "75000",
             "Fund": "110",
             "Acq Date": "Wed Sep 29 00:00:00 EDT 2004",
             "Cost": 7956.22,
@@ -15,7 +15,7 @@
             "id": "43743",
             "Descr": "Detector System (CCD)",
             "Class": "Detector",
-            "Dept": "75000",
+            "Department": "75000",
             "Fund": "110",
             "Acq Date": "Tue Aug 14 00:00:00 EDT 2001",
             "Cost": 42924.55,
@@ -26,7 +26,7 @@
             "id": "11955",
             "Descr": "Mass Spectrometer H-R (JMS-RSV)",
             "Class": "Analyzer",
-            "Dept": "75000",
+            "Department": "75000",
             "Fund": "110",
             "Acq Date": "Tue Dec 04 00:00:00 EST 2001",
             "Cost": 217000,
@@ -37,7 +37,7 @@
             "id": "82651",
             "Descr": "HiLoad 26/60 SuperDex 200 pkg",
             "Class": "Analyzer",
-            "Dept": "73002",
+            "Department": "73002",
             "Fund": "520",
             "Acq Date": "Thu Oct 07 00:00:00 EDT 2010",
             "Cost": 10934.4,
@@ -48,7 +48,7 @@
             "id": "79748",
             "Descr": "Microscope Video MZ-CCD-5X-FOI",
             "Class": "Magnifier",
-            "Dept": "75000",
+            "Department": "75000",
             "Fund": "521",
             "Acq Date": "Tue Feb 23 00:00:00 EST 2010",
             "Cost": 7135,
@@ -59,7 +59,7 @@
             "id": "11775",
             "Descr": "Oven Annealing Unit with Control",
             "Class": "Heater",
-            "Dept": "75000",
+            "Department": "75000",
             "Fund": "110",
             "Acq Date": "Thu Apr 06 00:00:00 EDT 2000",
             "Cost": 11738.7,
@@ -70,7 +70,7 @@
             "id": "83056",
             "Descr": "Refrigerated Shaker SHKE8000-7",
             "Class": "Shaker",
-            "Dept": "73002",
+            "Department": "73002",
             "Fund": "520",
             "Acq Date": "Fri Nov 19 00:00:00 EST 2010",
             "Cost": 11994.57,
@@ -81,7 +81,7 @@
             "id": "11781",
             "Descr": "Spectrophotometer Luminescence",
             "Class": "Analyzer",
-            "Dept": "75000",
+            "Department": "75000",
             "Fund": "110",
             "Acq Date": "Wed Apr 12 00:00:00 EDT 2000",
             "Cost": 10000,
@@ -92,7 +92,7 @@
             "id": "11988",
             "Descr": "Spectrometer TRIAX-320",
             "Class": "Analyzer",
-            "Dept": "75000",
+            "Department": "75000",
             "Fund": "110",
             "Acq Date": "Thu Mar 14 00:00:00 EST 2002",
             "Cost": 34669.8,
@@ -103,7 +103,7 @@
             "id": "12590",
             "Descr": "Spectrophotometer Cary-300",
             "Class": "Analyzer",
-            "Dept": "75000",
+            "Department": "75000",
             "Fund": "550",
             "Acq Date": "Mon Aug 12 00:00:00 EDT 2002",
             "Cost": 13595,
@@ -114,7 +114,7 @@
             "id": "12591",
             "Descr": "Cryostat System OptiDNA/OptiST",
             "Class": "Freezer",
-            "Dept": "75000",
+            "Department": "75000",
             "Fund": "550",
             "Acq Date": "Thu Jun 05 00:00:00 EDT 2003",
             "Cost": 8446.5,
@@ -125,7 +125,7 @@
             "id": "11537",
             "Descr": "Cooler Air-Jet Crystal XR401A0",
             "Class": "Cooler",
-            "Dept": "75000",
+            "Department": "75000",
             "Fund": "110",
             "Acq Date": "Mon Aug 25 00:00:00 EDT 1997",
             "Cost": 7075,
@@ -136,7 +136,7 @@
             "id": "11747",
             "Descr": "Stopped-Flow Apparatus SF-2001",
             "Class": "Analyzer",
-            "Dept": "75000",
+            "Department": "75000",
             "Fund": "110",
             "Acq Date": "Wed Feb 23 00:00:00 EST 2000",
             "Cost": 61600,
@@ -147,7 +147,7 @@
             "id": "11922",
             "Descr": "Calorimeter Scanning Differential System",
             "Class": "Analyzer",
-            "Dept": "75000",
+            "Department": "75000",
             "Fund": "110",
             "Acq Date": "Mon Sep 10 00:00:00 EDT 2001",
             "Cost": 171608.95,
@@ -158,7 +158,7 @@
             "id": "71252",
             "Descr": "Cabinet 10-X 4 (BIO UV)",
             "Class": "Analyzer",
-            "Dept": "75000",
+            "Department": "75000",
             "Fund": "520",
             "Acq Date": "Fri May 30 00:00:00 EDT 2008",
             "Cost": 5618.38,
@@ -169,7 +169,7 @@
             "id": "11828",
             "Descr": "Spectrophotometer UV-VIS-8453",
             "Class": "Analyzer",
-            "Dept": "75000",
+            "Department": "75000",
             "Fund": "110",
             "Acq Date": "Thu Jul 06 00:00:00 EDT 2000",
             "Cost": 11262.6,
@@ -180,7 +180,7 @@
             "id": "11794",
             "Descr": "Digital Camera SLR/D1",
             "Class": "Imager",
-            "Dept": "75000",
+            "Department": "75000",
             "Fund": "110",
             "Acq Date": "Fri Jun 02 00:00:00 EDT 2000",
             "Cost": 7059.15,
@@ -191,7 +191,7 @@
             "id": "12396",
             "Descr": "Spectrophotometer/Fluorescence",
             "Class": "Analyzer",
-            "Dept": "75000",
+            "Department": "75000",
             "Fund": "140",
             "Acq Date": "Mon May 10 00:00:00 EDT 2004",
             "Cost": 17254.63,
@@ -202,7 +202,7 @@
             "id": "11868",
             "Descr": "Polarmeter Model-341",
             "Class": "Analyzer",
-            "Dept": "75000",
+            "Department": "75000",
             "Fund": "110",
             "Acq Date": "Fri May 25 00:00:00 EDT 2001",
             "Cost": 21500,
@@ -213,7 +213,7 @@
             "id": "8821",
             "Descr": "Ultracentrifuge Optima/TLX",
             "Class": "Spinner",
-            "Dept": "73002",
+            "Department": "73002",
             "Fund": "520",
             "Acq Date": "Thu Aug 14 00:00:00 EDT 2003",
             "Cost": 24845.45,
@@ -224,1165 +224,1165 @@
     "links": [
         {
             "source": "50888",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11537"
         },
         {
             "source": "50888",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11747"
         },
         {
             "source": "50888",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11775"
         },
         {
             "source": "50888",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11781"
         },
         {
             "source": "50888",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11794"
         },
         {
             "source": "50888",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11828"
         },
         {
             "source": "50888",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11868"
         },
         {
             "source": "50888",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11922"
         },
         {
             "source": "50888",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11955"
         },
         {
             "source": "50888",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11988"
         },
         {
             "source": "50888",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12396"
         },
         {
             "source": "50888",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12590"
         },
         {
             "source": "50888",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12591"
         },
         {
             "source": "50888",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "43743"
         },
         {
             "source": "50888",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "71252"
         },
         {
             "source": "50888",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "79748"
         },
         {
             "source": "50888",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11537"
         },
         {
             "source": "50888",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11747"
         },
         {
             "source": "50888",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11775"
         },
         {
             "source": "50888",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11781"
         },
         {
             "source": "50888",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11794"
         },
         {
             "source": "50888",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11828"
         },
         {
             "source": "50888",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11868"
         },
         {
             "source": "50888",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11922"
         },
         {
             "source": "50888",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11955"
         },
         {
             "source": "50888",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11988"
         },
         {
             "source": "50888",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "43743"
         },
         {
             "source": "43743",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11537"
         },
         {
             "source": "43743",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11747"
         },
         {
             "source": "43743",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11775"
         },
         {
             "source": "43743",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11781"
         },
         {
             "source": "43743",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11794"
         },
         {
             "source": "43743",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11828"
         },
         {
             "source": "43743",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11868"
         },
         {
             "source": "43743",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11922"
         },
         {
             "source": "43743",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11955"
         },
         {
             "source": "43743",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11988"
         },
         {
             "source": "43743",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12396"
         },
         {
             "source": "43743",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12590"
         },
         {
             "source": "43743",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12591"
         },
         {
             "source": "43743",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "50888"
         },
         {
             "source": "43743",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "71252"
         },
         {
             "source": "43743",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "79748"
         },
         {
             "source": "43743",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11537"
         },
         {
             "source": "43743",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11747"
         },
         {
             "source": "43743",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11775"
         },
         {
             "source": "43743",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11781"
         },
         {
             "source": "43743",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11794"
         },
         {
             "source": "43743",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11828"
         },
         {
             "source": "43743",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11868"
         },
         {
             "source": "43743",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11922"
         },
         {
             "source": "43743",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11955"
         },
         {
             "source": "43743",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11988"
         },
         {
             "source": "43743",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "50888"
         },
         {
             "source": "11955",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11537"
         },
         {
             "source": "11955",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11747"
         },
         {
             "source": "11955",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11775"
         },
         {
             "source": "11955",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11781"
         },
         {
             "source": "11955",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11794"
         },
         {
             "source": "11955",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11828"
         },
         {
             "source": "11955",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11868"
         },
         {
             "source": "11955",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11922"
         },
         {
             "source": "11955",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11988"
         },
         {
             "source": "11955",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12396"
         },
         {
             "source": "11955",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12590"
         },
         {
             "source": "11955",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12591"
         },
         {
             "source": "11955",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "43743"
         },
         {
             "source": "11955",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "50888"
         },
         {
             "source": "11955",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "71252"
         },
         {
             "source": "11955",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "79748"
         },
         {
             "source": "11955",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11537"
         },
         {
             "source": "11955",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11747"
         },
         {
             "source": "11955",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11775"
         },
         {
             "source": "11955",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11781"
         },
         {
             "source": "11955",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11794"
         },
         {
             "source": "11955",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11828"
         },
         {
             "source": "11955",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11868"
         },
         {
             "source": "11955",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11922"
         },
         {
             "source": "11955",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11988"
         },
         {
             "source": "11955",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "43743"
         },
         {
             "source": "11955",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "50888"
         },
         {
             "source": "11955",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11747"
         },
         {
             "source": "11955",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11781"
         },
         {
             "source": "11955",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11828"
         },
         {
             "source": "11955",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11868"
         },
         {
             "source": "11955",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11922"
         },
         {
             "source": "11955",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11988"
         },
         {
             "source": "11955",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "12396"
         },
         {
             "source": "11955",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "12590"
         },
         {
             "source": "11955",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "71252"
         },
         {
             "source": "11955",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "82651"
         },
         {
             "source": "82651",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "83056"
         },
         {
             "source": "82651",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "8821"
         },
         {
             "source": "82651",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "71252"
         },
         {
             "source": "82651",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "83056"
         },
         {
             "source": "82651",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "71252"
         },
         {
             "source": "82651",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "8821"
         },
         {
             "source": "82651",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11747"
         },
         {
             "source": "82651",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11781"
         },
         {
             "source": "82651",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11828"
         },
         {
             "source": "82651",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11868"
         },
         {
             "source": "82651",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11922"
         },
         {
             "source": "82651",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11955"
         },
         {
             "source": "82651",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11988"
         },
         {
             "source": "82651",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "12396"
         },
         {
             "source": "82651",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "12590"
         },
         {
             "source": "82651",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "71252"
         },
         {
             "source": "79748",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11537"
         },
         {
             "source": "79748",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11747"
         },
         {
             "source": "79748",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11775"
         },
         {
             "source": "79748",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11781"
         },
         {
             "source": "79748",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11794"
         },
         {
             "source": "79748",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11828"
         },
         {
             "source": "79748",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11868"
         },
         {
             "source": "79748",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11922"
         },
         {
             "source": "79748",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11955"
         },
         {
             "source": "79748",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11988"
         },
         {
             "source": "79748",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12396"
         },
         {
             "source": "79748",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12590"
         },
         {
             "source": "79748",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12591"
         },
         {
             "source": "79748",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "43743"
         },
         {
             "source": "79748",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "50888"
         },
         {
             "source": "79748",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "71252"
         },
         {
             "source": "79748",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "79748"
         },
         {
             "source": "11775",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11537"
         },
         {
             "source": "11775",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11747"
         },
         {
             "source": "11775",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11781"
         },
         {
             "source": "11775",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11794"
         },
         {
             "source": "11775",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11828"
         },
         {
             "source": "11775",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11868"
         },
         {
             "source": "11775",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11922"
         },
         {
             "source": "11775",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11955"
         },
         {
             "source": "11775",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11988"
         },
         {
             "source": "11775",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12396"
         },
         {
             "source": "11775",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12590"
         },
         {
             "source": "11775",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12591"
         },
         {
             "source": "11775",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "43743"
         },
         {
             "source": "11775",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "50888"
         },
         {
             "source": "11775",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "71252"
         },
         {
             "source": "11775",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "79748"
         },
         {
             "source": "11775",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11537"
         },
         {
             "source": "11775",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11747"
         },
         {
             "source": "11775",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11781"
         },
         {
             "source": "11775",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11794"
         },
         {
             "source": "11775",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11828"
         },
         {
             "source": "11775",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11868"
         },
         {
             "source": "11775",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11922"
         },
         {
             "source": "11775",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11955"
         },
         {
             "source": "11775",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11988"
         },
         {
             "source": "11775",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "43743"
         },
         {
             "source": "11775",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "50888"
         },
         {
             "source": "83056",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "82651"
         },
         {
             "source": "83056",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "8821"
         },
         {
             "source": "83056",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "71252"
         },
         {
             "source": "83056",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "71252"
         },
         {
             "source": "83056",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "8821"
         },
         {
             "source": "83056",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11537"
         },
         {
             "source": "11781",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11537"
         },
         {
             "source": "11781",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11747"
         },
         {
             "source": "11781",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11775"
         },
         {
             "source": "11781",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11794"
         },
         {
             "source": "11781",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11828"
         },
         {
             "source": "11781",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11868"
         },
         {
             "source": "11781",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11922"
         },
         {
             "source": "11781",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11955"
         },
         {
             "source": "11781",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11988"
         },
         {
             "source": "11781",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12396"
         },
         {
             "source": "11781",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12590"
         },
         {
             "source": "11781",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12591"
         },
         {
             "source": "11781",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "43743"
         },
         {
             "source": "11781",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "50888"
         },
         {
             "source": "11781",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "71252"
         },
         {
             "source": "11781",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "79748"
         },
         {
             "source": "11781",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11537"
         },
         {
             "source": "11781",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11747"
         },
         {
             "source": "11781",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11775"
         },
         {
             "source": "11781",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11794"
         },
         {
             "source": "11781",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11828"
         },
         {
             "source": "11781",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11868"
         },
         {
             "source": "11781",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11922"
         },
         {
             "source": "11781",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11955"
         },
         {
             "source": "11781",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11988"
         },
         {
             "source": "11781",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "43743"
         },
         {
             "source": "11781",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "50888"
         },
         {
             "source": "11781",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11747"
         },
         {
             "source": "11781",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11828"
         },
         {
             "source": "11781",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11868"
         },
         {
             "source": "11781",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11922"
         },
         {
             "source": "11781",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11955"
         },
         {
             "source": "11781",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11988"
         },
         {
             "source": "11781",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "12396"
         },
         {
             "source": "11781",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "12590"
         },
         {
             "source": "11781",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "71252"
         },
         {
             "source": "11781",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "82651"
         },
@@ -1394,2023 +1394,2023 @@
         },
         {
             "source": "11988",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11537"
         },
         {
             "source": "11988",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11747"
         },
         {
             "source": "11988",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11775"
         },
         {
             "source": "11988",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11781"
         },
         {
             "source": "11988",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11794"
         },
         {
             "source": "11988",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11828"
         },
         {
             "source": "11988",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11868"
         },
         {
             "source": "11988",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11922"
         },
         {
             "source": "11988",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11955"
         },
         {
             "source": "11988",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12396"
         },
         {
             "source": "11988",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12590"
         },
         {
             "source": "11988",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12591"
         },
         {
             "source": "11988",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "43743"
         },
         {
             "source": "11988",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "50888"
         },
         {
             "source": "11988",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "71252"
         },
         {
             "source": "11988",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "79748"
         },
         {
             "source": "11988",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11537"
         },
         {
             "source": "11988",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11747"
         },
         {
             "source": "11988",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11775"
         },
         {
             "source": "11988",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11781"
         },
         {
             "source": "11988",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11794"
         },
         {
             "source": "11988",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11828"
         },
         {
             "source": "11988",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11868"
         },
         {
             "source": "11988",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11922"
         },
         {
             "source": "11988",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11955"
         },
         {
             "source": "11988",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "43743"
         },
         {
             "source": "11988",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "50888"
         },
         {
             "source": "11988",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11747"
         },
         {
             "source": "11988",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11781"
         },
         {
             "source": "11988",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11828"
         },
         {
             "source": "11988",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11868"
         },
         {
             "source": "11988",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11922"
         },
         {
             "source": "11988",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11955"
         },
         {
             "source": "11988",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "12396"
         },
         {
             "source": "11988",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "12590"
         },
         {
             "source": "11988",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "71252"
         },
         {
             "source": "11988",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "82651"
         },
         {
             "source": "12590",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11537"
         },
         {
             "source": "12590",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11747"
         },
         {
             "source": "12590",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11775"
         },
         {
             "source": "12590",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11781"
         },
         {
             "source": "12590",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11794"
         },
         {
             "source": "12590",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11828"
         },
         {
             "source": "12590",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11868"
         },
         {
             "source": "12590",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11922"
         },
         {
             "source": "12590",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11955"
         },
         {
             "source": "12590",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11988"
         },
         {
             "source": "12590",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12396"
         },
         {
             "source": "12590",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12591"
         },
         {
             "source": "12590",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "43743"
         },
         {
             "source": "12590",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "50888"
         },
         {
             "source": "12590",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "71252"
         },
         {
             "source": "12590",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "79748"
         },
         {
             "source": "12590",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11747"
         },
         {
             "source": "12590",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11781"
         },
         {
             "source": "12590",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11828"
         },
         {
             "source": "12590",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11868"
         },
         {
             "source": "12590",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11922"
         },
         {
             "source": "12590",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11955"
         },
         {
             "source": "12590",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11988"
         },
         {
             "source": "12590",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "12396"
         },
         {
             "source": "12590",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "71252"
         },
         {
             "source": "12590",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "82651"
         },
         {
             "source": "12591",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11537"
         },
         {
             "source": "12591",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11747"
         },
         {
             "source": "12591",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11775"
         },
         {
             "source": "12591",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11781"
         },
         {
             "source": "12591",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11794"
         },
         {
             "source": "12591",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11828"
         },
         {
             "source": "12591",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11868"
         },
         {
             "source": "12591",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11922"
         },
         {
             "source": "12591",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11955"
         },
         {
             "source": "12591",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11988"
         },
         {
             "source": "12591",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12396"
         },
         {
             "source": "12591",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12590"
         },
         {
             "source": "12591",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "43743"
         },
         {
             "source": "12591",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "50888"
         },
         {
             "source": "12591",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "71252"
         },
         {
             "source": "12591",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "79748"
         },
         {
             "source": "12591",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "12590"
         },
         {
             "source": "11537",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11747"
         },
         {
             "source": "11537",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11775"
         },
         {
             "source": "11537",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11781"
         },
         {
             "source": "11537",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11794"
         },
         {
             "source": "11537",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11828"
         },
         {
             "source": "11537",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11868"
         },
         {
             "source": "11537",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11922"
         },
         {
             "source": "11537",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11955"
         },
         {
             "source": "11537",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11988"
         },
         {
             "source": "11537",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12396"
         },
         {
             "source": "11537",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12590"
         },
         {
             "source": "11537",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12591"
         },
         {
             "source": "11537",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "43743"
         },
         {
             "source": "11537",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "50888"
         },
         {
             "source": "11537",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "71252"
         },
         {
             "source": "11537",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "79748"
         },
         {
             "source": "11537",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11747"
         },
         {
             "source": "11537",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11775"
         },
         {
             "source": "11537",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11781"
         },
         {
             "source": "11537",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11794"
         },
         {
             "source": "11537",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11828"
         },
         {
             "source": "11537",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11868"
         },
         {
             "source": "11537",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11922"
         },
         {
             "source": "11537",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11955"
         },
         {
             "source": "11537",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11988"
         },
         {
             "source": "11537",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "43743"
         },
         {
             "source": "11537",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "50888"
         },
         {
             "source": "11537",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "83056"
         },
         {
             "source": "11747",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11537"
         },
         {
             "source": "11747",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11775"
         },
         {
             "source": "11747",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11781"
         },
         {
             "source": "11747",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11794"
         },
         {
             "source": "11747",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11828"
         },
         {
             "source": "11747",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11868"
         },
         {
             "source": "11747",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11922"
         },
         {
             "source": "11747",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11955"
         },
         {
             "source": "11747",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11988"
         },
         {
             "source": "11747",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12396"
         },
         {
             "source": "11747",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12590"
         },
         {
             "source": "11747",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12591"
         },
         {
             "source": "11747",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "43743"
         },
         {
             "source": "11747",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "50888"
         },
         {
             "source": "11747",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "71252"
         },
         {
             "source": "11747",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "79748"
         },
         {
             "source": "11747",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11537"
         },
         {
             "source": "11747",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11775"
         },
         {
             "source": "11747",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11781"
         },
         {
             "source": "11747",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11794"
         },
         {
             "source": "11747",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11828"
         },
         {
             "source": "11747",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11868"
         },
         {
             "source": "11747",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11922"
         },
         {
             "source": "11747",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11955"
         },
         {
             "source": "11747",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11988"
         },
         {
             "source": "11747",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "43743"
         },
         {
             "source": "11747",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "50888"
         },
         {
             "source": "11747",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11781"
         },
         {
             "source": "11747",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11828"
         },
         {
             "source": "11747",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11868"
         },
         {
             "source": "11747",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11922"
         },
         {
             "source": "11747",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11955"
         },
         {
             "source": "11747",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11988"
         },
         {
             "source": "11747",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "12396"
         },
         {
             "source": "11747",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "12590"
         },
         {
             "source": "11747",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "71252"
         },
         {
             "source": "11747",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "82651"
         },
         {
             "source": "11922",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11537"
         },
         {
             "source": "11922",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11747"
         },
         {
             "source": "11922",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11775"
         },
         {
             "source": "11922",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11781"
         },
         {
             "source": "11922",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11794"
         },
         {
             "source": "11922",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11828"
         },
         {
             "source": "11922",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11868"
         },
         {
             "source": "11922",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11955"
         },
         {
             "source": "11922",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11988"
         },
         {
             "source": "11922",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12396"
         },
         {
             "source": "11922",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12590"
         },
         {
             "source": "11922",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12591"
         },
         {
             "source": "11922",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "43743"
         },
         {
             "source": "11922",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "50888"
         },
         {
             "source": "11922",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "71252"
         },
         {
             "source": "11922",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "79748"
         },
         {
             "source": "11922",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11537"
         },
         {
             "source": "11922",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11747"
         },
         {
             "source": "11922",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11775"
         },
         {
             "source": "11922",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11781"
         },
         {
             "source": "11922",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11794"
         },
         {
             "source": "11922",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11828"
         },
         {
             "source": "11922",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11868"
         },
         {
             "source": "11922",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11955"
         },
         {
             "source": "11922",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11988"
         },
         {
             "source": "11922",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "43743"
         },
         {
             "source": "11922",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "50888"
         },
         {
             "source": "11922",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11747"
         },
         {
             "source": "11922",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11781"
         },
         {
             "source": "11922",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11828"
         },
         {
             "source": "11922",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11868"
         },
         {
             "source": "11922",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11955"
         },
         {
             "source": "11922",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11988"
         },
         {
             "source": "11922",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "12396"
         },
         {
             "source": "11922",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "12590"
         },
         {
             "source": "11922",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "71252"
         },
         {
             "source": "11922",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "82651"
         },
         {
             "source": "71252",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11537"
         },
         {
             "source": "71252",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11747"
         },
         {
             "source": "71252",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11775"
         },
         {
             "source": "71252",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11781"
         },
         {
             "source": "71252",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11794"
         },
         {
             "source": "71252",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11828"
         },
         {
             "source": "71252",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11868"
         },
         {
             "source": "71252",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11922"
         },
         {
             "source": "71252",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11955"
         },
         {
             "source": "71252",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11988"
         },
         {
             "source": "71252",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12396"
         },
         {
             "source": "71252",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12590"
         },
         {
             "source": "71252",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12591"
         },
         {
             "source": "71252",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "43743"
         },
         {
             "source": "71252",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "50888"
         },
         {
             "source": "71252",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "79748"
         },
         {
             "source": "71252",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "83056"
         },
         {
             "source": "71252",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "8821"
         },
         {
             "source": "71252",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11747"
         },
         {
             "source": "71252",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11781"
         },
         {
             "source": "71252",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11828"
         },
         {
             "source": "71252",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11868"
         },
         {
             "source": "71252",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11922"
         },
         {
             "source": "71252",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11955"
         },
         {
             "source": "71252",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11988"
         },
         {
             "source": "71252",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "12396"
         },
         {
             "source": "71252",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "12590"
         },
         {
             "source": "71252",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "82651"
         },
         {
             "source": "11828",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11537"
         },
         {
             "source": "11828",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11747"
         },
         {
             "source": "11828",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11775"
         },
         {
             "source": "11828",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11781"
         },
         {
             "source": "11828",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11794"
         },
         {
             "source": "11828",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11868"
         },
         {
             "source": "11828",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11922"
         },
         {
             "source": "11828",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11955"
         },
         {
             "source": "11828",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11988"
         },
         {
             "source": "11828",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12396"
         },
         {
             "source": "11828",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12590"
         },
         {
             "source": "11828",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12591"
         },
         {
             "source": "11828",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "43743"
         },
         {
             "source": "11828",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "50888"
         },
         {
             "source": "11828",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "71252"
         },
         {
             "source": "11828",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "79748"
         },
         {
             "source": "11828",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11537"
         },
         {
             "source": "11828",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11747"
         },
         {
             "source": "11828",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11775"
         },
         {
             "source": "11828",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11781"
         },
         {
             "source": "11828",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11794"
         },
         {
             "source": "11828",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11868"
         },
         {
             "source": "11828",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11922"
         },
         {
             "source": "11828",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11955"
         },
         {
             "source": "11828",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11988"
         },
         {
             "source": "11828",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "43743"
         },
         {
             "source": "11828",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "50888"
         },
         {
             "source": "11828",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11747"
         },
         {
             "source": "11828",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11781"
         },
         {
             "source": "11828",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11868"
         },
         {
             "source": "11828",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11922"
         },
         {
             "source": "11828",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11955"
         },
         {
             "source": "11828",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11988"
         },
         {
             "source": "11828",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "12396"
         },
         {
             "source": "11828",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "12590"
         },
         {
             "source": "11828",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "71252"
         },
         {
             "source": "11828",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "82651"
         },
         {
             "source": "11794",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11537"
         },
         {
             "source": "11794",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11747"
         },
         {
             "source": "11794",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11775"
         },
         {
             "source": "11794",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11781"
         },
         {
             "source": "11794",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11828"
         },
         {
             "source": "11794",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11868"
         },
         {
             "source": "11794",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11922"
         },
         {
             "source": "11794",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11955"
         },
         {
             "source": "11794",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11988"
         },
         {
             "source": "11794",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12396"
         },
         {
             "source": "11794",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12590"
         },
         {
             "source": "11794",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12591"
         },
         {
             "source": "11794",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "43743"
         },
         {
             "source": "11794",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "50888"
         },
         {
             "source": "11794",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "71252"
         },
         {
             "source": "11794",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "79748"
         },
         {
             "source": "11794",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11537"
         },
         {
             "source": "11794",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11747"
         },
         {
             "source": "11794",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11775"
         },
         {
             "source": "11794",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11781"
         },
         {
             "source": "11794",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11828"
         },
         {
             "source": "11794",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11868"
         },
         {
             "source": "11794",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11922"
         },
         {
             "source": "11794",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11955"
         },
         {
             "source": "11794",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11988"
         },
         {
             "source": "11794",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "43743"
         },
         {
             "source": "11794",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "50888"
         },
         {
             "source": "12396",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11537"
         },
         {
             "source": "12396",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11747"
         },
         {
             "source": "12396",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11775"
         },
         {
             "source": "12396",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11781"
         },
         {
             "source": "12396",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11794"
         },
         {
             "source": "12396",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11828"
         },
         {
             "source": "12396",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11868"
         },
         {
             "source": "12396",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11922"
         },
         {
             "source": "12396",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11955"
         },
         {
             "source": "12396",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11988"
         },
         {
             "source": "12396",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12590"
         },
         {
             "source": "12396",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12591"
         },
         {
             "source": "12396",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "43743"
         },
         {
             "source": "12396",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "50888"
         },
         {
             "source": "12396",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "71252"
         },
         {
             "source": "12396",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "79748"
         },
         {
             "source": "12396",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11747"
         },
         {
             "source": "12396",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11781"
         },
         {
             "source": "12396",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11828"
         },
         {
             "source": "12396",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11868"
         },
         {
             "source": "12396",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11922"
         },
         {
             "source": "12396",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11955"
         },
         {
             "source": "12396",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11988"
         },
         {
             "source": "12396",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "12590"
         },
         {
             "source": "12396",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "71252"
         },
         {
             "source": "12396",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "82651"
         },
         {
             "source": "11868",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11537"
         },
         {
             "source": "11868",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11747"
         },
         {
             "source": "11868",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11775"
         },
         {
             "source": "11868",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11781"
         },
         {
             "source": "11868",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11794"
         },
         {
             "source": "11868",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11828"
         },
         {
             "source": "11868",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11922"
         },
         {
             "source": "11868",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11955"
         },
         {
             "source": "11868",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "11988"
         },
         {
             "source": "11868",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12396"
         },
         {
             "source": "11868",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12590"
         },
         {
             "source": "11868",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "12591"
         },
         {
             "source": "11868",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "43743"
         },
         {
             "source": "11868",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "50888"
         },
         {
             "source": "11868",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "71252"
         },
         {
             "source": "11868",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "79748"
         },
         {
             "source": "11868",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11537"
         },
         {
             "source": "11868",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11747"
         },
         {
             "source": "11868",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11775"
         },
         {
             "source": "11868",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11781"
         },
         {
             "source": "11868",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11794"
         },
         {
             "source": "11868",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11828"
         },
         {
             "source": "11868",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11922"
         },
         {
             "source": "11868",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11955"
         },
         {
             "source": "11868",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "11988"
         },
         {
             "source": "11868",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "43743"
         },
         {
             "source": "11868",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "50888"
         },
         {
             "source": "11868",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11747"
         },
         {
             "source": "11868",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11781"
         },
         {
             "source": "11868",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11828"
         },
         {
             "source": "11868",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11922"
         },
         {
             "source": "11868",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11955"
         },
         {
             "source": "11868",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "11988"
         },
         {
             "source": "11868",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "12396"
         },
         {
             "source": "11868",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "12590"
         },
         {
             "source": "11868",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "71252"
         },
         {
             "source": "11868",
-            "relationship": "class",
+            "relationship": "Class",
             "value": "1",
             "target": "82651"
         },
@@ -3422,31 +3422,31 @@
         },
         {
             "source": "8821",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "82651"
         },
         {
             "source": "8821",
-            "relationship": "dept",
+            "relationship": "Department",
             "value": "2",
             "target": "83056"
         },
         {
             "source": "8821",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "71252"
         },
         {
             "source": "8821",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "83056"
         },
         {
             "source": "8821",
-            "relationship": "fund",
+            "relationship": "Fund",
             "value": "3",
             "target": "71252"
         }
