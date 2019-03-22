@@ -1,0 +1,1573 @@
+{
+    "name": "USEDiT",
+    "definition": "Universal Scientific Equipment Discovery Tool",
+    "children": [
+        {
+            "name": "Adapter",
+            "definition": "A device designed to make different pieces of apparatus compatible",
+            "definition_source": "http://purl.obolibrary.org/obo/NCIT_C49808"
+        },
+        {
+            "name": "Amplifier",
+            "definition": "A device that amplifies.",
+            "definition_source": "https://www.merriam-webster.com/dictionary/amplifier",
+            "children": [
+                {
+                    "name": "Amplifier (Biology)",
+                    "definition": "A device that increases the frequency of a gene or chromosomal region, as a result of replicating a DNA segment by in vivo or in vitro process, such as by gene duplication or polymerase chain reaction, respectively.",
+                    "definition_source": "https://www.biology-online.org/dictionary/Amplification",
+                    "children": [
+                        {
+                            "name": "Polymerase Chain Reaction Equipment",
+                            "definition": "Definition forthcoming",
+                            "definition_source": "",
+                            "acronym": "PCR Equipment",
+                            "children": [
+                                {
+                                    "name": "Thermal Cycler",
+                                    "definition": "Definition forthcoming",
+                                    "definition_source": ""
+                                },
+                                {
+                                    "name": "Qualitative Polymerase Chain Reaction Equipment",
+                                    "definition": "Definition forthcoming",
+                                    "definition_source": "",
+                                    "acronym": "QPCR Equipment"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Amplifier (Electronics)",
+                    "definition": "An electronic device designed to take an input signal and output an increased signal strength",
+                    "definition_source": "http://purl.obolibrary.org/obo/NCIT_C49825"
+                }
+            ]
+        },
+        {
+            "name": "Analyzer",
+            "definition": "A device used to analyse data, signals, equipment performance, etc., or to measure and collect data for analysis",
+            "definition_source": "http://www.oed.com/view/Entry/7043",
+            "children": [
+                {
+                    "name": "Arsenic Analyzer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Bioanalyzer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Chemistry Analyzer (Clinical)",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Coagulation Analyzer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Elemental Analyzer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Flow Injection Analyzer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Gas Analyzer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": "",
+                    "children": [
+                        {
+                            "name": "Oxygen Analyzer",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Hematology Analyzer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Mercury Analyzer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Moisture Analyzer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Power Analyzer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Signal Analyzer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Spectrum Analyzer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Thermal Analyzer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Total Organic Carbon Analyzer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": "",
+                    "acronym": "TOC Analyzer"
+                }
+            ]
+        },
+        {
+            "name": "Aspirator",
+            "definition": "A device that aspirates, breathes, or blows upon; A device that draws a stream of air or gas through a tube",
+            "definition_source": "http://www.oed.com/view/Entry/11674"
+        },
+        {
+            "name": "Balancer",
+            "definition": "Definition forthcoming",
+            "definition_source": "http://www.oed.com/view/Entry/11674",
+            "children": [
+                {
+                    "name": "Balance",
+                    "definition": "Definition forthcoming",
+                    "definition_source": "",
+                    "children": [
+                        {
+                            "name": "Analytical Balance",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Bander",
+            "definition": "Definition forthcoming",
+            "definition_source": "http://www.oed.com/view/Entry/11674"
+        },
+        {
+            "name": "Blancher",
+            "definition": "A device used to turn something white (chiefly by loss of colour)",
+            "definition_source": "http://www.oed.com/view/Entry/19851|http://www.oed.com/view/Entry/19845"
+        },
+        {
+            "name": "Blender",
+            "definition": "A device that mixes, mingles, unites intimately, so as to form a uniform or harmonious mixture",
+            "definition_source": "http://www.oed.com/view/Entry/20135"
+        },
+        {
+            "name": "Blower",
+            "definition": "A device that produces a current of air; a device that sets something in motion with a current of air",
+            "definition_source": "http://www.oed.com/view/Entry/20523"
+        },
+        {
+            "name": "Boiler",
+            "definition": "A device that, through the action of heat, causes a liquid to bubble up and pass into the gaseous form",
+            "definition_source": "http://www.oed.com/view/Entry/21011"
+        },
+        {
+            "name": "Bonder",
+            "definition": "A device that holds objects together so as to give solidity",
+            "definition_source": "http://www.oed.com/view/Entry/21265",
+            "children": [
+                {
+                    "name": "Wire Bonder",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                }
+            ]
+        },
+        {
+            "name": "Buffer",
+            "definition": "Definition forthcoming",
+            "definition_source": "http://www.oed.com/view/Entry/21265"
+        },
+        {
+            "name": "Burner",
+            "definition": "Definition forthcoming",
+            "definition_source": "http://www.oed.com/view/Entry/21265"
+        },
+        {
+            "name": "Calibrater",
+            "definition": "A device that determines the correct position, value, capacity, etc., of an instrument so that readings taken from it are absolute rather than relative",
+            "definition_source": "http://www.oed.com/view/Entry/26350"
+        },
+        {
+            "name": "Chamber",
+            "definition": "Definition forthcoming",
+            "definition_source": "http://www.oed.com/view/Entry/26350",
+            "children": [
+                {
+                    "name": "Environmental Chamber",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Fabrication Chamber",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Hybridization Chamber",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                }
+            ]
+        },
+        {
+            "name": "Chiller",
+            "definition": "A device that recirculates chilled fluids that is used for applications requiring heat removal across a wide temperature range",
+            "definition_source": " http://purl.obolibrary.org/obo/ERO_0000992"
+        },
+        {
+            "name": "Circulator",
+            "definition": "A device that moves materials round a circuit or circuitous course through a system of pipes, or the like",
+            "definition_source": "http://www.oed.com/view/Entry/33228"
+        },
+        {
+            "name": "Cleaner",
+            "definition": "Definition forthcoming",
+            "definition_source": "http://www.oed.com/view/Entry/33228"
+        },
+        {
+            "name": "Clipper",
+            "definition": "A device that cuts with scissors or shears, often with the notion of making trim and tidy",
+            "definition_source": "http://www.oed.com/view/Entry/34430"
+        },
+        {
+            "name": "Coater",
+            "definition": "A device that covers an object with a surface layer or coating (or with successive layers) of any substance",
+            "definition_source": "http://www.oed.com/view/Entry/35151"
+        },
+        {
+            "name": "Collector",
+            "definition": "A device that gathers or makes a collection of given materials",
+            "definition_source": "http://www.oed.com/view/Entry/36263"
+        },
+        {
+            "name": "Concentrator",
+            "definition": "A device designed to increase the weight per unit volume of a substance",
+            "definition_source": "http://purl.obolibrary.org/obo/NCIT_C49883"
+        },
+        {
+            "name": "Condenser",
+            "definition": "A device that reduces vapour to the liquid condition (esp. by cooling)",
+            "definition_source": "http://www.oed.com/view/Entry/38503"
+        },
+        {
+            "name": "Controller",
+            "definition": "A mechanism or apparatus for controlling a device or some aspect of its operation; a component which regulates or restricts the operation of another part of a device",
+            "definition_source": "http://www.oed.com/view/Entry/40567"
+        },
+        {
+            "name": "Conveyor",
+            "definition": "A device that carries or transmits",
+            "definition_source": "http://www.oed.com/view/Entry/40816"
+        },
+        {
+            "name": "Cooker",
+            "definition": "A device that prepares or makes ready food; to make fit for eating by due application of heat, as by boiling, baking, roasting, broiling, etc.",
+            "definition_source": "http://www.oed.com/view/Entry/40948"
+        },
+        {
+            "name": "Cooler",
+            "definition": "A device that makes a substance become less hot or warm",
+            "definition_source": "http://www.oed.com/view/Entry/40979",
+            "children": [
+                {
+                    "name": "Cryostat",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Freezer",
+                    "definition": "A refrigerated cabinet or room for preserving materials at or below 32F (0C).",
+                    "definition_source": "http://purl.obolibrary.org/obo/NCIT_C84327"
+                }
+            ]
+        },
+        {
+            "name": "Counter",
+            "definition": "A device designed to keep track of the number of times something happens",
+            "definition_source": "http://purl.obolibrary.org/obo/NCIT_C49894",
+            "children": [
+                {
+                    "name": "Gamma Counter",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                }
+            ]
+        },
+        {
+            "name": "Crimper",
+            "definition": "A device that compresses something into small regular folds or ridges, corrugates, or frills",
+            "definition_source": "http://www.oed.com/view/Entry/44452"
+        },
+        {
+            "name": "Crusher",
+            "definition": "A device that compresses with violence, so as to break, bruise, destroy, or squeeze out of natural shape or condition",
+            "definition_source": "http://www.oed.com/view/Entry/45270"
+        },
+        {
+            "name": "Culturer",
+            "definition": "A device that propagates, grows, or develops (microorganisms, cells, tissues, etc.) under artificial conditions on or in a nutrient medium",
+            "definition_source": "http://www.oed.com/view/Entry/45747"
+        },
+        {
+            "name": "Cutter",
+            "definition": "A device that penetrates with an edged instrument which severs the continuity of the substance",
+            "definition_source": "http://www.oed.com/view/Entry/46341"
+        },
+        {
+            "name": "Cycler",
+            "definition": "A device that moves or revolves materials in a period in which a certain round of events or phenomena is completed, recurring in the same order in succeeding periods of the same length",
+            "definition_source": "http://www.oed.com/view/Entry/46505"
+        },
+        {
+            "name": "Decapper",
+            "definition": "",
+            "definition_source": "http://www.oed.com/view/Entry/46505"
+        },
+        {
+            "name": "Deduster",
+            "definition": "A device used to separate dust or other fine particles from another material",
+            "definition_source": "https://en.wiktionary.org/wiki/deduster"
+        },
+        {
+            "name": "Defibrillator",
+            "definition": "A device that delivers a therapeutic dose of electrical energy to the heart. This depolarizes a critical mass of the heart muscle, terminates the arrhythmia, and allows normal sinus rhythm to be reestablished by the body's natural pacemaker, in the sinoatrial node of the heart. Defibrillators can be external, transvenous, or implanted, depending on the type of device used or needed",
+            "definition_source": "http://purl.obolibrary.org/obo/ERO_0000830"
+        },
+        {
+            "name": "Degasser",
+            "definition": "A device that removes unwanted gas from a given substance",
+            "definition_source": "http://www.oed.com/view/Entry/49045"
+        },
+        {
+            "name": "Desiccator",
+            "definition": "A device that desiccates or dries; a name given to an apparatus used to dry substances through heat or by exposure to the air",
+            "definition_source": "http://www.oed.com/view/Entry/50821"
+        },
+        {
+            "name": "Detector",
+            "definition": "A mechanical, electrical, or chemical device with sensor properties, that automatically identifies and records or registers a stimulus, such as change in pressure or temperature or content, movement, an electrical signal, radiation from a radioactive material or presence of subatomic particles, etc",
+            "definition_source": "http://purl.obolibrary.org/obo/NCIT_C41276",
+            "children": [
+                {
+                    "name": "Gas Detector",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Index Detectors ",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Light Scattering Detector",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Optical Detector",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                }
+            ]
+        },
+        {
+            "name": "Dicer",
+            "definition": "A device that cuts into dice or cubes",
+            "definition_source": "http://www.oed.com/view/Entry/52194"
+        },
+        {
+            "name": "Digester",
+            "definition": "Definition forthcoming",
+            "definition_source": "http://www.oed.com/view/Entry/52194"
+        },
+        {
+            "name": "Dispenser",
+            "definition": "A device designed to give out the contents in convenient or/and prescribed amounts",
+            "definition_source": "http://purl.obolibrary.org/obo/NCIT_C69095"
+        },
+        {
+            "name": "Disperser",
+            "definition": "A device that causes materials to separate in different directions; to throw or drive about in all directions, to scatter; to rout",
+            "definition_source": "http://www.oed.com/view/Entry/55006"
+        },
+        {
+            "name": "Dissector",
+            "definition": "A device that cuts up (an animal body, a plant, etc.) for the purpose of displaying the position, structure, and relations of the various internal parts; to anatomize",
+            "definition_source": "http://www.oed.com/view/Entry/55367"
+        },
+        {
+            "name": "Distiller",
+            "definition": "A device that subjects materials to the process of distillation; to vaporize a substance by means of heat, and then condense the vapour by exposing it to cold, so as to obtain the substance or one of its constituents in a state of concentration or purity. Primarily said of a liquid, the vapour of which when condensed is again deposited in minute drops of pure liquid; but extended also to the volatilizing of solids, the products of which may be gaseous. ",
+            "definition_source": "http://www.oed.com/view/Entry/55653"
+        },
+        {
+            "name": "Dryer",
+            "definition": "A device that removes moisture",
+            "definition_source": "http://www.oed.com/view/Entry/57710",
+            "children": [
+                {
+                    "name": "Dehydrator",
+                    "definition": "A device that removes bound water or hydrogen and oxygen from (a chemical compound) in the proportion in which they form water.",
+                    "definition_source": "https://www.merriam-webster.com/dictionary/dehydrator",
+                    "children": [
+                        {
+                            "name": "Freeze Dryer",
+                            "definition": "Definition forthcoming",
+                            "definition_source": "",
+                            "children": [
+                                {
+                                    "name": "Lyophilizer",
+                                    "definition": "A device that is used to freeze dry material",
+                                    "definition_source": "http://purl.obolibrary.org/obo/OBI_0001087"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Emitter",
+            "definition": "Definition forthcoming",
+            "definition_source": "http://www.oed.com/view/Entry/57710",
+            "children": [
+                {
+                    "name": "Light Emitter",
+                    "definition": "Definition forthcoming",
+                    "definition_source": "",
+                    "children": [
+                        {
+                            "name": "Laser",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Emulsifier",
+            "definition": "A device that that functions to stabilize an emulsion",
+            "definition_source": "http://purl.obolibrary.org/obo/NCIT_C73477"
+        },
+        {
+            "name": "Etcher",
+            "definition": "A device that engraves (metals, sometimes glass, stone) by \\u2018eating away\\u2019 the surface with acids or other corrosives; chiefly, to engrave by this process (a copper or other metal plate) for the purpose of printing from it. Hence, to produce (figures), copy or reproduce (pictures, drawings, etc.), represent or portray (subjects) by this method",
+            "definition_source": "http://www.oed.com/view/Entry/64677"
+        },
+        {
+            "name": "Evaporator",
+            "definition": "A device designed either to drive a volatile solvent from a material or to cause vaporization within a heating/cooling system",
+            "definition_source": "http://purl.obolibrary.org/obo/NCIT_C49942"
+        },
+        {
+            "name": "Extractor",
+            "definition": "A device designed to remove or separate a material or object from some other material or object",
+            "definition_source": "http://purl.obolibrary.org/obo/NCIT_C49945"
+        },
+        {
+            "name": "Extruder",
+            "definition": "A device that urges, forces, or expels a substance from something",
+            "definition_source": "http://www.oed.com/view/Entry/67201"
+        },
+        {
+            "name": "Fermentor",
+            "definition": "A bioreactor that provides a sterilie environment, ideal for growth of any bacteria, yeast, or fungi",
+            "definition_source": "http://purl.obolibrary.org/obo/ERO_0000263"
+        },
+        {
+            "name": "Filler",
+            "definition": "Definition forthcoming",
+            "definition_source": "http://purl.obolibrary.org/obo/ERO_0000263"
+        },
+        {
+            "name": "Fluidizer",
+            "definition": "A device that causes (a mass of finely divided solid) to assume fluidity and other characteristics of a liquid by passing a current of gas, vapour, or liquid upwards through it",
+            "definition_source": "http://www.oed.com/view/Entry/72095",
+            "children": [
+                {
+                    "name": "Microfluidizer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                }
+            ]
+        },
+        {
+            "name": "Fractionator",
+            "definition": "A device that separates (a mixture) by distillation or otherwise into portions of differing properties",
+            "definition_source": "http://www.oed.com/view/Entry/74101",
+            "children": [
+                {
+                    "name": "Gradient Fractionator",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                }
+            ]
+        },
+        {
+            "name": "Fryer",
+            "definition": "A device that cooks (food) with fat in a shallow pan over the fire",
+            "definition_source": "http://www.oed.com/view/Entry/75166"
+        },
+        {
+            "name": "Gamma Counters",
+            "definition": "Definition forthcoming",
+            "definition_source": "http://www.oed.com/view/Entry/75166"
+        },
+        {
+            "name": "Generator",
+            "definition": "An engine designed to produce electricity or a device designed to produce a vapor or gas",
+            "definition_source": "http://purl.obolibrary.org/obo/NCIT_C49970",
+            "children": [
+                {
+                    "name": "Generator (Biology)",
+                    "definition": "Definition forthcoming",
+                    "definition_source": "",
+                    "children": [
+                        {
+                            "name": "Cell Cluster Generator",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        },
+                        {
+                            "name": "Pulse Generator",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Generator (Electrical)",
+                    "definition": "Definition forthcoming",
+                    "definition_source": "",
+                    "children": [
+                        {
+                            "name": "Power Supplies",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Grabber",
+            "definition": "A device that grasps or seizes",
+            "definition_source": "http://www.oed.com/view/Entry/80363"
+        },
+        {
+            "name": "Grapher",
+            "definition": "Definition forthcoming",
+            "definition_source": "",
+            "children": [
+                {
+                    "name": "Spectrograph",
+                    "definition": "A spectrograph is an instrument that separates incoming light by its wavelength or frequency and records the resulting spectrum in some kind of multichannel detector, like a photographic plate.",
+                    "definition_source": "https://spie.org/publications/fg08_p02_spectrometerspectroscopespectrograph?SSO=1"
+                }
+            ]
+        },
+        {
+            "name": "Granulator",
+            "definition": "A device that transforms a substance into small grains, small compact particles, or pellets",
+            "definition_source": "http://www.oed.com/view/Entry/80791"
+        },
+        {
+            "name": "Grinder",
+            "definition": "A device that reduces a substance to small particles or powder by crushing between two hard surfaces",
+            "definition_source": "http://www.oed.com/view/Entry/81524"
+        },
+        {
+            "name": "Handler",
+            "definition": "Definition forthcoming",
+            "definition_source": "http://www.oed.com/view/Entry/81524"
+        },
+        {
+            "name": "Heater",
+            "definition": "A device that communicates heat to, makes hot, warms, or raises the temperature of a substance",
+            "definition_source": "http://www.oed.com/view/Entry/85145",
+            "children": [
+                {
+                    "name": "Furnace",
+                    "definition": "Definition forthcoming",
+                    "definition_source": "",
+                    "children": [
+                        {
+                            "name": "Thermofurnace",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Homogenizer",
+            "definition": "A device that renders materials homogeneous, unites or incorporates into a single whole of uniform composition; makes uniform or similar",
+            "definition_source": "http://www.oed.com/view/Entry/88052"
+        },
+        {
+            "name": "Husker",
+            "definition": "A device that removes the the dry outer integument of certain fruits and seeds; esp. the hard fibrous sheath of grain, nuts, etc.; a glume or rind",
+            "definition_source": "http://www.oed.com/view/Entry/89698|http://www.oed.com/view/Entry/89702"
+        },
+        {
+            "name": "Hybridizer",
+            "definition": "A device that subjects species or varieties of plants or animals to cross-breed and produce hybrid entities",
+            "definition_source": "http://www.oed.com/view/Entry/89816"
+        },
+        {
+            "name": "Ice Maker",
+            "note": "Is this a subclass of freezer?",
+            "definition": "A device that produces water frozen in the solid state",
+            "definition_source": "http://purl.obolibrary.org/obo/NCIT_C67342"
+        },
+        {
+            "name": "Identifier",
+            "definition": "A device that ascertains or asserts what a thing or who a person is; to determine the identity of; to recognize as belonging to a particular category or kind; to refer (a plant, animal, or mineral specimen) to its correct species",
+            "definition_source": "http://www.oed.com/view/Entry/90999"
+        },
+        {
+            "name": "Illuminator",
+            "definition": "A device that illuminates or gives light",
+            "definition_source": "http://www.oed.com/view/Entry/91546"
+        },
+        {
+            "name": "Imager",
+            "definition": "A device designed to display or record a visual representation of something",
+            "definition_source": "http://purl.obolibrary.org/obo/NCIT_C49997",
+            "children": [
+                {
+                    "name": "Camera",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Scanner",
+                    "definition": "An electronic device that generates a digital representation of an image for data input to a computer or a receiver designed to search for a signal within a specified frequency range",
+                    "definition_source": "http://purl.obolibrary.org/obo/NCIT_C50158",
+                    "children": [
+                        {
+                            "name": "Imaging Scanner",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        },
+                        {
+                            "name": "Photoscanner",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Scope",
+                    "definition": "Definition forthcoming",
+                    "definition_source": "",
+                    "children": [
+                        {
+                            "name": "Oscilloscope",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        },
+                        {
+                            "name": "Radiograph",
+                            "definition": "Definition forthcoming",
+                            "definition_source": "",
+                            "children": [
+                                {
+                                    "name": "X-ray Equipment",
+                                    "children": [
+                                        {
+                                            "name": "X-ray Diffraction Equipment",
+                                            "definition": "Definition forthcoming",
+                                            "definition_source": ""
+                                        },
+                                        {
+                                            "name": "X-ray Fluorescence Equipment",
+                                            "definition": "Definition forthcoming",
+                                            "definition_source": ""
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Spectroscope",
+                            "definition": "A spectroscope is a device that measures the spectrum of light. Early versions had a slit, a prism, and a screen with markings to indicate various wavelengths or frequencies; later versions were calibrated to electronic detectors.",
+                            "definition_source": "https://spie.org/publications/fg08_p02_spectrometerspectroscopespectrograph?SSO=1",
+                            "children": [
+                                {
+                                    "name": "Atomic Spectroscope",
+                                    "definition": "Definition forthcoming",
+                                    "definition_source": ""
+                                },
+                                {
+                                    "name": "Nuclear Magnetic Resonance Spectroscope",
+                                    "definition": "Definition forthcoming",
+                                    "definition_source": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Incubator",
+            "definition": "A device in which environmental conditions (light, photoperiod, temperature, humidity, etc.) can be controlled",
+            "definition_source": "http://purl.obolibrary.org/obo/OBI_0000136",
+            "children": [
+                {
+                    "name": "CO2 Incubator",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                }
+            ]
+        },
+        {
+            "name": "Indicator",
+            "definition": "A device in which environmental conditions (light, photoperiod, temperature, humidity, etc.) can be controlled",
+            "definition_source": "http://purl.obolibrary.org/obo/OBI_0000136",
+            "children": [
+                {
+                    "name": "Gauge",
+                    "definition": "A device designed to give a visual indication of the condition of a system",
+                    "definition_source": "http://purl.obolibrary.org/obo/NCIT_C50052"
+                }
+            ]
+        },
+        {
+            "name": "Inhibitor",
+            "definition": "A device in which environmental conditions (light, photoperiod, temperature, humidity, etc.) can be controlled",
+            "definition_source": "http://purl.obolibrary.org/obo/OBI_0000136"
+        },
+        {
+            "name": "Integrator",
+            "definition": "A device that indicates or registers the total amount or mean value of some physical quantity, as area, temperature, etc",
+            "definition_source": "http://www.oed.com/view/Entry/97360"
+        },
+        {
+            "name": "Lighter",
+            "definition": "A device that indicates or registers the total amount or mean value of some physical quantity, as area, temperature, etc",
+            "definition_source": "http://www.oed.com/view/Entry/97360"
+        },
+        {
+            "name": "Liner",
+            "definition": "A device that indicates or registers the total amount or mean value of some physical quantity, as area, temperature, etc",
+            "definition_source": "http://www.oed.com/view/Entry/97360",
+            "children": [
+                {
+                    "name": "Inlet Liner",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                }
+            ]
+        },
+        {
+            "name": "Liquefier",
+            "definition": "A device that reduces a substance into a liquid condition",
+            "definition_source": "http://www.oed.com/view/Entry/108906"
+        },
+        {
+            "name": "Logger",
+            "definition": "A device that reduces a substance into a liquid condition",
+            "definition_source": "http://www.oed.com/view/Entry/108906"
+        },
+        {
+            "name": "Magnifier",
+            "definition": "An optical device that enlarges the apparent size of an image or object",
+            "definition_source": "http://purl.obolibrary.org/obo/NCIT_C60803",
+            "children": [
+                {
+                    "name": "Microscope",
+                    "definition": "Definition forthcoming",
+                    "definition_source": "",
+                    "children": [
+                        {
+                            "name": "Confocal Microscope",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        },
+                        {
+                            "name": "Electron Microscope",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Manipulator",
+            "definition": "A mechanical device for handling radioactive or hazardous material, operated by remote control from behind a protective shield",
+            "definition_source": "http://www.oed.com/view/Entry/113527",
+            "children": [
+                {
+                    "name": "Micromanipulator",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                }
+            ]
+        },
+        {
+            "name": "Marker",
+            "definition": "A mechanical device for handling radioactive or hazardous material, operated by remote control from behind a protective shield",
+            "definition_source": "http://www.oed.com/view/Entry/113527"
+        },
+        {
+            "name": "Measurer",
+            "definition": "A mechanical device for handling radioactive or hazardous material, operated by remote control from behind a protective shield",
+            "definition_source": "http://www.oed.com/view/Entry/113527"
+        },
+        {
+            "name": "Meter",
+            "definition": "An instrument for measuring and sometimes recording the time or amount of something",
+            "definition_source": "https://www.merriam-webster.com/dictionary/meter",
+            "children": [
+                {
+                    "name": "Spectrophotometer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Photometer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": "",
+                    "children": [
+                        {
+                            "name": "Plate Reader",
+                            "definition": "Definition forthcoming",
+                            "definition_source": "",
+                            "synonym": [
+                                {"name": "microplate reader"},
+                                {"name": "microplate photometer"}
+                            ],
+                            "children": [
+                                {
+                                    "name": "Microtiter Plate Reader",
+                                    "definition": "Definition forthcoming",
+                                    "definition_source": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Anemometer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Tympanometer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Barometer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Densitometer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": "",
+                    "children": [
+                        {
+                            "name": "Bone Densitometer",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Colorimeter",
+                    "definition": "Definition forthcoming",
+                    "definition_source": "",
+                    "children": [
+                        {
+                            "name": "Oil Testing Colorimeter",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Conductivity Meter",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Thermometer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": "",
+                    "children": [
+                        {
+                            "name": "Digital Thermometer",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        },
+                        {
+                            "name": "Non-Digital Thermometer",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Oxygen Meter",
+                    "definition": "Definition forthcoming",
+                    "definition_source": "",
+                    "children": [
+                        {
+                            "name": "Dissolved Oxygen Meter",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Durometer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Environmental Quality Meter",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Flow Meter",
+                    "definition": "Definition forthcoming",
+                    "definition_source": "",
+                    "children": [
+                        {
+                            "name": "Flow Cytometer",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Fluorometer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": "",
+                    "synonym": "Fluorimeter"
+                },
+                {
+                    "name": "Fluoride Meter",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Viscometer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": "",
+                    "children": [
+                        {
+                            "name": "Glass Viscometer",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Gloss Meter",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Hydrometer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Hygrometer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Manometer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Light Meter",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Multimeter",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Power Meter",
+                    "definition": "Definition forthcoming",
+                    "definition_source": "",
+                    "children": [
+                        {
+                            "name": "RF Power Meter",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Osmometer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "pH Meter",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Polarimeter",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Oximeter",
+                    "definition": "Definition forthcoming",
+                    "definition_source": "",
+                    "children": [
+                        {
+                            "name": "Pulse Oximeter",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Radiation Meter",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Refractometer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Total Dissolved Solids Meter",
+                    "definition": "Definition forthcoming",
+                    "definition_source": "",
+                    "acronym": "TDS Meter",
+                    "children": [
+                        {
+                            "name": "Salt Meter",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Audiometer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": "",
+                    "synonym": "Sound Meter"
+                },
+                {
+                    "name": "Tachometer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Tensiometer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Turbidity Meters",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Urinometer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Rheometer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Voltmeter",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Ammeter",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Ohmmeter",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Calorimeter",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Ellipsometer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                },
+                {
+                    "name": "Magnetometer",
+                    "definition": "Definition forthcoming",
+                    "definition_source": "",
+                    "children": [
+                        {
+                            "name": "Superconducting Quantum Interference Device",
+                            "definition": "Definition forthcoming",
+                            "definition_source": "",
+                            "acronym": "SQUID"
+                        }
+                    ]
+                },
+                {
+                    "name": "Spectrometer",
+                    "definition": "A spectrometer is any instrument used to probe a property of light as a function of its portion of the electromagnetic spectrum, typically its wavelength, frequency, or energy. The property being measured is usually intensity of light, but other variables like polarization can also be measured.",
+                    "definition_source": "https://spie.org/publications/fg08_p02_spectrometerspectroscopespectrograph?SSO=1",
+                    "children": [
+                        {
+                            "name": "Infrared Spectrometer",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        },
+                        {
+                            "name": "Mass Spectrometer",
+                            "definition": "Definition forthcoming",
+                            "definition_source": "",
+                            "children": [
+                                {
+                                    "name": "Nanoelectrospray Instrument",
+                                    "definition": "Definition forthcoming",
+                                    "definition_source": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Raman Spectrometer",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Mixer",
+            "definition": "A mechanical device designed to blend materials or an electronic device designed to blend signals",
+            "definition_source": "http://purl.obolibrary.org/obo/NCIT_C50071"
+        },
+        {
+            "name": "Monitor",
+            "definition": "A device than includes a sensor designed to give information about the presence of a substance or the state of a system",
+            "definition_source": "http://purl.obolibrary.org/obo/NCIT_C50074"
+        },
+        {
+            "name": "Motor",
+            "definition": "Any of various power units that develop energy or impart motion: such as a rotating machine that transforms electrical energy into mechanical energy.",
+            "definition_source": "https://www.merriam-webster.com/dictionary/motor",
+            "children": [
+                {
+                    "name": "Linear motor",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                }
+            ]
+        },
+        {
+            "name": "Driver",
+            "definition": "Any of various power units that develop energy or impart motion: such as a rotating machine that transforms electrical energy into mechanical energy.",
+            "definition_source": "https://www.merriam-webster.com/dictionary/motor",
+            "children": [
+                {
+                    "name": "Hydraulic Drive System",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                }
+            ]
+        },
+        {
+            "name": "Nebulizer",
+            "definition": "A device that administers medicinal substance(s) in the form of a liquid mist to the patient airways. Nebulizer pumps air or oxygen through a liquid medicine to turn it into a vapor, which is then inhaled by the patient",
+            "definition_source": "http://purl.obolibrary.org/obo/NCIT_C28172"
+        },
+        {
+            "name": "Peeler",
+            "definition": "A device that removes the natural outer layer of something",
+            "definition_source": "http://www.oed.com/view/Entry/139682"
+        },
+        {
+            "name": "Pipettor",
+            "definition": "A device that allows remote operation of a pipette, usually by the attachment of an extension tube. Also: a machine that automates multiple pipetting",
+            "definition_source": "http://www.oed.com/view/Entry/261967"
+        },
+        {
+            "name": "Plotter",
+            "definition": "A computer driven device designed for drawing graphs and pictures",
+            "definition_source": "http://purl.obolibrary.org/obo/NCIT_C50107"
+        },
+        {
+            "name": "Polisher",
+            "definition": "An mechanical device that enables precise sample thinning and polishing of a wide range of materials",
+            "definition_source": "http://purl.obolibrary.org/obo/ERO_0000527"
+        },
+        {
+            "name": "Preparer",
+            "definition": "An mechanical device that enables precise sample thinning and polishing of a wide range of materials",
+            "definition_source": "http://purl.obolibrary.org/obo/ERO_0000527",
+            "children": [
+                {
+                    "name": "Sample Preparation Equipment",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                }
+            ]
+        },
+        {
+            "name": "Presser",
+            "definition": "A device that applies pressure",
+            "definition_source": "http://www.oed.com/view/Entry/150783",
+            "children": [
+                {
+                    "name": "French Pressure Cell Press",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                }
+            ]
+        },
+        {
+            "name": "Processor",
+            "definition": "A device that applies pressure",
+            "definition_source": "http://www.oed.com/view/Entry/150783",
+            "children": [
+                {
+                    "name": "Polymer Processor",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                }
+            ]
+        },
+        {
+            "name": "Primer",
+            "definition": "A device that applies pressure",
+            "definition_source": "http://www.oed.com/view/Entry/150783"
+        },
+        {
+            "name": "Pumper",
+            "definition": "A device that applies pressure",
+            "definition_source": "http://www.oed.com/view/Entry/150783",
+            "children": [
+                {
+                    "name": "Pump",
+                    "definition": "Definition forthcoming",
+                    "definition_source": "",
+                    "children": [
+                        {
+                            "name": "Solvent Pump",
+                            "children": [
+                                {"name": ""}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Purifier",
+            "definition": "A device that applies pressure",
+            "definition_source": "http://www.oed.com/view/Entry/150783"
+        },
+        {
+            "name": "Reactor",
+            "definition": "A device in which a chemical reaction takes place or an electronic device designed to add reactance to a circuit",
+            "definition_source": "http://purl.obolibrary.org/obo/NCIT_C50131",
+            "children": [
+                {
+                    "name": "Bioreactor",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                }
+            ]
+        },
+        {
+            "name": "Refrigerator",
+            "definition": "A device which consists of a thermally insulated compartment and a mechanical, chemical, or electronic heat pump that transfers heat from the inside of the fridge to its external environment such that the inside of the fridge is cooled to a temperature below the ambient temperature of the room",
+            "definition_source": "http://purl.obolibrary.org/obo/ENVO_01000583"
+        },
+        {
+            "name": "Regulator",
+            "definition": "A device that controls the rate or manner in which a process progresses or a product is formed",
+            "definition_source": "http://purl.obolibrary.org/obo/NCIT_C48806"
+        },
+        {
+            "name": "Separator",
+            "definition": "A device that arranges materials in a definite order",
+            "definition_source": "http://www.oed.com/view/Entry/176290",
+            "children": [
+                {
+                    "name": "Chromatograph",
+                    "definition": "Definition forthcoming",
+                    "definition_source": "",
+                    "children": [
+                        {
+                            "name": "Gas Chromatograph",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        },
+                        {
+                            "name": "Liquid Chromatograph",
+                            "definition": "Definition forthcoming",
+                            "definition_source": "",
+                            "children": [
+                                {
+                                    "name": "High-Performance Liquid Chromatograph",
+                                    "definition": "Definition forthcoming",
+                                    "definition_source": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sequencer",
+            "definition": "A device that arranges materials in a definite order",
+            "definition_source": "http://www.oed.com/view/Entry/176290"
+        },
+        {
+            "name": "Shaker",
+            "definition": "A device that moves irregularly and quickly to and fro, up and down, or from side to side",
+            "definition_source": "http://www.oed.com/view/Entry/177308",
+            "children": [
+                {
+                    "name": "Ambient Temperature Shaker",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                }
+            ]
+        },
+        {
+            "name": "Shredder",
+            "definition": "A device that cuts or tears into shreds or narrow strips;",
+            "definition_source": "http://www.oed.com/view/Entry/178808"
+        },
+        {
+            "name": "Sonicator",
+            "definition": "Definition forthcoming",
+            "definition_source": ""
+        },
+        {
+            "name": "Synthesizer",
+            "definition": "Defintion forthcoming",
+            "definition_source": ""
+        },
+        {
+            "name": "Sorter",
+            "definition": "A device that allots, apportions, or assigns order",
+            "definition_source": "http://www.oed.com/view/Entry/184956"
+        },
+        {
+            "name": "Spinner",
+            "definition": "Definition forthcoming",
+            "definition_source": "",
+            "children": [
+                {
+                    "name": "Centrifuge",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                }
+            ]
+        },
+        {
+            "name": "Sputter",
+            "definition": "A device that allots, apportions, or assigns order",
+            "definition_source": "http://www.oed.com/view/Entry/184956",
+            "children": [
+                {
+                    "name": "Sputter Coater",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                }
+            ]
+        },
+        {
+            "name": "Stabilizer",
+            "definition": "A device designed to reduce unwanted movement",
+            "definition_source": "http://purl.obolibrary.org/obo/NCIT_C50188"
+        },
+        {
+            "name": "Stainer",
+            "definition": "Definition forthcoming",
+            "definition_source": "http://purl.obolibrary.org/obo/NCIT_C50188"
+        },
+        {
+            "name": "Sterilizer",
+            "definition": "Definition forthcoming",
+            "definition_source": "",
+            "children": [
+                {
+                    "name": "Autoclave",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                }
+            ]
+        },
+        {
+            "name": "Stirrer",
+            "definition": "A device that agitates so as to alter the relative position of the parts of a liquid, or a soft or semi-liquid mass; esp. to agitate with a more or less circular continuous movement, as with a spoon, so as to mix the particles or promote solution of solid matter",
+            "definition_source": "http://www.oed.com/view/Entry/190495"
+        },
+        {
+            "name": "Storager",
+            "definition": "Definition forthcoming",
+            "definition_source": "",
+            "children": [
+                {
+                    "name": "Storage System",
+                    "definition": "Definition forthcoming",
+                    "definition_source": "",
+                    "children": [
+                        {
+                            "name": "Cell Storage System",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Supporter",
+            "definition": "Definition forthcoming",
+            "definition_source": "",
+            "children": [
+                {
+                    "name": "Supporter (Lasers)",
+                    "definition": "Definition forthcoming",
+                    "definition_source": "",
+                    "children": [
+                        {
+                            "name": "Optical Bench",
+                            "definition": "Definition forthcoming",
+                            "definition_source": "",
+                            "synonym": "Optical Rail"
+                        },
+                        {
+                            "name": "Optical Breadboard",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        },
+                        {
+                            "name": "Optical Table",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tester",
+            "definition": "A device that subjects materials to a test of any kind; to try, put to the proof; to ascertain the existence, genuineness, or quality of.",
+            "definition_source": "http://www.oed.com/view/Entry/199681",
+            "children": [
+                {
+                    "name": "Electrical Tester",
+                    "definition": "Definition forthcoming",
+                    "definition_source": "",
+                    "children": [
+                        {
+                            "name": "Electrical Conduction Tester",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        },
+                        {
+                            "name": "Electrophoresis Tester",
+                            "definition": "Definition forthcoming",
+                            "definition_source": "",
+                            "children": [
+                                {
+                                    "name": "Gel Electrophoresis Tester",
+                                    "definition": "Definition forthcoming",
+                                    "definition_source": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "High Voltage Tester",
+                            "definition": "Definition forthcoming",
+                            "definition_source": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tracer",
+            "definition": "A device that subjects materials to a test of any kind; to try, put to the proof; to ascertain the existence, genuineness, or quality of.",
+            "definition_source": "http://www.oed.com/view/Entry/199681"
+        },
+        {
+            "name": "Vacuumer",
+            "definition": "A device which vacuums",
+            "definition_source": "",
+            "children": [
+                {
+                    "name": "Speed Vacuum",
+                    "definition": "Definition forthcoming",
+                    "definition_source": ""
+                }
+            ]
+        },
+        {
+            "name": "Ventilator",
+            "definition": "Definition forthcoming",
+            "definition_source": "https://en.wiktionary.org/wiki/vacuumer"
+        },
+        {
+            "name": "Warmer",
+            "definition": "A device that makes a material object moderately hot",
+            "definition_source": "http://www.oed.com/view/Entry/225768"
+        },
+        {
+            "name": "Washer",
+            "definition": "A device designed to cleanse an object",
+            "definition_source": "http://purl.obolibrary.org/obo/NCIT_C50267"
+        }
+    ]
+}
