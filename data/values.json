@@ -7,8 +7,8 @@
            "leadsTo: Recognition",
            "leadsTo: Diversity",
            "leadsTo: Inclusion",
-           "leadsTo: Critical Thinking & Healthy Discussion",
-           "values.Collegiality.Collegiality.leadsTo.Engagement",
+           "leadsTo: Critical Thinking",
+           "leadsTo: Engagement",
            "leadsTo: Empowerment",
            "leadsTo: Innovation"
         ]
@@ -19,7 +19,7 @@
         "relationships": [
            "leadsTo: Collegiality",
            "leadsTo: Inclusion",
-           "leaimportsdsTo: Critical Thinking & Healthy Discussion",
+           "leadsTo: Critical Thinking",
            "leadsTo: Engagement",
            "leadsTo: Empowerment",
            "leadsTo: Innovation"
@@ -45,7 +45,7 @@
            "leadsTo: Trust",
            "leadsTo: Diversity",
            "leadsTo: Inclusion",
-           "leadsTo: Critical Thinking & Healthy Discussion",
+           "leadsTo: Critical Thinking",
            "leadsTo: Engagement",
            "leadsTo: Empowerment",
            "leadsTo: Innovation"
@@ -59,19 +59,19 @@
            "leadsTo: Trust",
            "leadsTo: Diversity",
            "leadsTo: Inclusion",
-           "leadsTo: Critical Thinking & Healthy Discussion",
+           "leadsTo: Critical Thinking",
            "leadsTo: Engagement",
            "leadsTo: Empowerment",
            "leadsTo: Innovation"
         ]
     },
     {
-        "name": "values: Critical Thinking & Healthy Discussion",
+        "name": "values: Critical Thinking",
         "size": 6000,
         "relationships": [
            "leadsTo: Diversity",
            "leadsTo: Inclusion",
-           "leadsTo: Critical Thinking & Healthy Discussion",
+           "leadsTo: Critical Thinking",
            "leadsTo: Engagement",
            "leadsTo: Empowerment",
            "leadsTo: Innovation"
@@ -85,7 +85,7 @@
            "leadsTo: Trust",
            "leadsTo: Diversity",
            "leadsTo: Inclusion",
-           "leadsTo: Critical Thinking & Healthy Discussion",
+           "leadsTo: Critical Thinking",
            "leadsTo: Engagement",
            "leadsTo: Empowerment",
            "leadsTo: Innovation"
@@ -100,7 +100,7 @@
            "leadsTo: Recognition",
            "leadsTo: Diversity",
            "leadsTo: Inclusion",
-           "leadsTo: Critical Thinking & Healthy Discussion",
+           "leadsTo: Critical Thinking",
            "leadsTo: Engagement",
            "leadsTo: Empowerment",
            "leadsTo: Innovation"
@@ -114,7 +114,7 @@
            "leadsTo: Recognition",
            "leadsTo: Diversity",
            "leadsTo: Inclusion",
-           "leadsTo: Critical Thinking & Healthy Discussion",
+           "leadsTo: Critical Thinking",
            "leadsTo: Engagement",
            "leadsTo: Empowerment",
            "leadsTo: Innovation"
