@@ -2,7 +2,7 @@
     {
         "name": "values: Collegiality",
         "size": 8,
-        "imports": [
+        "relationships": [
            "leadsTo: Trust",
            "leadsTo: Recognition",
            "leadsTo: Diversity",
@@ -16,10 +16,10 @@
     {
         "name": "values: Trust",
         "size": 6,
-        "imports": [
+        "relationships": [
            "leadsTo: Collegiality",
            "leadsTo: Inclusion",
-           "leadsTo: Critical Thinking & Healthy Discussion",
+           "leaimportsdsTo: Critical Thinking & Healthy Discussion",
            "leadsTo: Engagement",
            "leadsTo: Empowerment",
            "leadsTo: Innovation"
@@ -28,7 +28,7 @@
     {
         "name": "values: Recognition",
         "size": 6,
-        "imports": [
+        "relationships": [
            "leadsTo: Collegiality",
            "leadsTo: Trust",
            "leadsTo: Inclusion",
@@ -40,7 +40,7 @@
     {
         "name": "values: Diversity",
         "size": 8,
-        "imports": [
+        "relationships": [
            "leadsTo: Collegiality",
            "leadsTo: Trust",
            "leadsTo: Diversity",
@@ -54,7 +54,7 @@
     {
         "name": "values: Inclusion",
         "size": 8,
-        "imports": [
+        "relationships": [
            "leadsTo: Collegiality",
            "leadsTo: Trust",
            "leadsTo: Diversity",
@@ -68,7 +68,7 @@
     {
         "name": "values: Critical Thinking & Healthy Discussion",
         "size": 6,
-        "imports": [
+        "relationships": [
            "leadsTo: Diversity",
            "leadsTo: Inclusion",
            "leadsTo: Critical Thinking & Healthy Discussion",
@@ -80,7 +80,7 @@
     {
         "name": "values: Engagement",
         "size": 8,
-        "imports": [
+        "relationships": [
            "leadsTo: Collegiality",
            "leadsTo: Trust",
            "leadsTo: Diversity",
@@ -94,7 +94,7 @@
     {
         "name": "values: Empowerment",
         "size": 9,
-        "imports": [
+        "relationships": [
            "leadsTo: Collegiality",
            "leadsTo: Trust",
            "leadsTo: Recognition",
@@ -109,7 +109,7 @@
     {
         "name": "values: Innovation",
         "size": 8,
-        "imports": [
+        "relationships": [
            "leadsTo: Collegiality",
            "leadsTo: Recognition",
            "leadsTo: Diversity",
