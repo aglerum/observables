@@ -1,123 +1,122 @@
 [
     {
-        "name": "values: Collegiality",
+        "name": "Values: Collegiality",
         "size": 8000,
         "relationships": [
-           "Collegiality.LeadsTo: Trust",
-           "Collegiality.LeadsTo: Recognition",
-           "Collegiality.LeadsTo: Diversity",
-           "Collegiality.LeadsTo: Inclusion",
-           "Collegiality.LeadsTo: Critical_Thinking",
-           "Collegiality.LeadsTo: Engagement",
-           "Collegiality.LeadsTo: Empowerment",
-           "Collegiality.LeadsTo: Innovation"
+           "Collegiality: Trust",
+           "Collegiality: Recognition",
+           "Collegiality: Diversity",
+           "Collegiality: Inclusion",
+           "Collegiality: Critical_Thinking",
+           "Collegiality: Engagement",
+           "Collegiality: Empowerment",
+           "Collegiality: Innovation"
         ]
     },
     {
-        "name": "values: Trust",
+        "name": "Values: Trust",
         "size": 6000,
         "relationships": [
-           "Trust.LeadsTo: Collegiality",
-           "Trust.LeadsTo: Inclusion",
-           "Trust.LeadsTo: Critical_Thinking",
-           "Trust.LeadsTo: Engagement",
-           "Trust.LeadsTo: Empowerment",
-           "Trust.LeadsTo: Innovation"
+           "Trust: Collegiality",
+           "Trust: Inclusion",
+           "Trust: Critical_Thinking",
+           "Trust: Engagement",
+           "Trust: Empowerment",
+           "Trust: Innovation"
         ]
     },
     {
-        "name": "values: Recognition",
+        "name": "Values: Recognition",
         "size": 6000,
         "relationships": [
-           "Recognition.LeadsTo: Collegiality",
-           "Recognition.LeadsTo: Trust",
-           "Recognition.LeadsTo: Inclusion",
-           "Recognition.LeadsTo: Engagement",
-           "Recognition.LeadsTo: Empowerment",
-           "Recognition.LeadsTo: Innovation"
+           "Recognition: Collegiality",
+           "Recognition: Trust",
+           "Recognition: Inclusion",
+           "Recognition: Engagement",
+           "Recognition: Empowerment",
+           "Recognition: Innovation"
         ]
     },
     {
-        "name": "values: Diversity",
+        "name": "Values: Diversity",
         "size": 8000,
         "relationships": [
-           "Diversity.LeadsTo: Collegiality",
-           "Diversity.LeadsTo: Trust",
-           "Diversity.LeadsTo: Diversity",
-           "Diversity.LeadsTo: Inclusion",
-           "Diversity.LeadsTo: Critical_Thinking",
-           "Diversity.LeadsTo: Engagement",
-           "Diversity.LeadsTo: Empowerment",
-           "Diversity.LeadsTo: Innovation"
+           "Diversity: Collegiality",
+           "Diversity: Trust",
+           "Diversity: Diversity",
+           "Diversity: Inclusion",
+           "Diversity: Critical_Thinking",
+           "Diversity: Engagement",
+           "Diversity: Empowerment",
+           "Diversity: Innovation"
         ]
     },
     {
-        "name": "values: Inclusion",
+        "name": "Values: Inclusion",
         "size": 8000,
         "relationships": [
-           "Inclusion.LeadsTo: Collegiality",
-           "Inclusion.LeadsTo: Trust",
-           "Inclusion.LeadsTo: Diversity",
-           "Inclusion.LeadsTo: Inclusion",
-           "Inclusion.LeadsTo: Critical_Thinking",
-           "Inclusion.LeadsTo: Engagement",
-           "Inclusion.LeadsTo: Empowerment",
-           "Inclusion.LeadsTo: Innovation"
+           "Inclusion: Collegiality",
+           "Inclusion: Trust",
+           "Inclusion: Diversity",
+           "Inclusion: Inclusion",
+           "Inclusion: Critical_Thinking",
+           "Inclusion: Engagement",
+           "Inclusion: Empowerment",
+           "Inclusion: Innovation"
         ]
     },
     {
-        "name": "values: Critical Thinking",
-        "size": 6000,
+        "name": "Values: Critical_Thinking",
+        "size": 5000,
         "relationships": [
-           "Critical_Thinking.LeadsTo: Diversity",
-           "Critical_Thinking.LeadsTo: Inclusion",
-           "Critical_Thinking.LeadsTo: Critical_Thinking",
-           "Critical_Thinking.LeadsTo: Engagement",
-           "Critical_Thinking.LeadsTo: Empowerment",
-           "Critical_Thinking.LeadsTo: Innovation"
+           "Critical_Thinking: Diversity",
+           "Critical_Thinking: Inclusion",
+           "Critical_Thinking: Engagement",
+           "Critical_Thinking: Empowerment",
+           "Critical_Thinking: Innovation"
         ]
     },
     {
-        "name": "values: Engagement",
+        "name": "Values: Engagement",
         "size": 8000,
         "relationships": [
-           "Engagement.LeadsTo: Collegiality",
-           "Engagement.LeadsTo: Trust",
-           "Engagement.LeadsTo: Diversity",
-           "Engagement.LeadsTo: Inclusion",
-           "Engagement.LeadsTo: Critical_Thinking",
-           "Engagement.LeadsTo: Engagement",
-           "Engagement.LeadsTo: Empowerment",
-           "Engagement.LeadsTo: Innovation"
+           "Engagement: Collegiality",
+           "Engagement: Trust",
+           "Engagement: Diversity",
+           "Engagement: Inclusion",
+           "Engagement: Critical_Thinking",
+           "Engagement: Engagement",
+           "Engagement: Empowerment",
+           "Engagement: Innovation"
         ]
     },
     {
-        "name": "values: Empowerment",
+        "name": "Values: Empowerment",
         "size": 9000,
         "relationships": [
-           "Empowerment.LeadsTo: Collegiality",
-           "Empowerment.LeadsTo: Trust",
-           "Empowerment.LeadsTo: Recognition",
-           "Empowerment.LeadsTo: Diversity",
-           "Empowerment.LeadsTo: Inclusion",
-           "Empowerment.LeadsTo: Critical_Thinking",
-           "Empowerment.LeadsTo: Engagement",
-           "Empowerment.LeadsTo: Empowerment",
-           "Empowerment.LeadsTo: Innovation"
+           "Empowerment: Collegiality",
+           "Empowerment: Trust",
+           "Empowerment: Recognition",
+           "Empowerment: Diversity",
+           "Empowerment: Inclusion",
+           "Empowerment: Critical_Thinking",
+           "Empowerment: Engagement",
+           "Empowerment: Empowerment",
+           "Empowerment: Innovation"
         ]
     },
     {
-        "name": "values: Innovation",
+        "name": "Values: Innovation",
         "size": 8000,
         "relationships": [
-           "Innovation.LeadsTo: Collegiality",
-           "Innovation.LeadsTo: Recognition",
-           "Innovation.LeadsTo: Diversity",
-           "Innovation.LeadsTo: Inclusion",
-           "Innovation.LeadsTo: Critical_Thinking",
-           "Innovation.LeadsTo: Engagement",
-           "Innovation.LeadsTo: Empowerment",
-           "Innovation.LeadsTo: Innovation"
+           "Innovation: Collegiality",
+           "Innovation: Recognition",
+           "Innovation: Diversity",
+           "Innovation: Inclusion",
+           "Innovation: Critical_Thinking",
+           "Innovation: Engagement",
+           "Innovation: Empowerment",
+           "Innovation: Innovation"
         ]
     }
     
