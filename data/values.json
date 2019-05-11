@@ -1,0 +1,124 @@
+[
+    {
+        "name": "Collegiality",
+        "size": 8,
+        "imports": [
+           "Trust",
+           "Recognition",
+           "Diversity",
+           "Inclusion",
+           "Critical Thinking & Healthy Discussion",
+           "Engagement",
+           "Empowerment",
+           "Innovation"
+        ]
+    },
+    {
+        "name": "Trust",
+        "size": 6,
+        "imports": [
+           "Collegiality",
+           "Inclusion",
+           "Critical Thinking & Healthy Discussion",
+           "Engagement",
+           "Empowerment",
+           "Innovation"
+        ]
+    },
+    {
+        "name": "Recognition",
+        "size": 6,
+        "imports": [
+           "Collegiality",
+           "Trust",
+           "Inclusion",
+           "Engagement",
+           "Empowerment",
+           "Innovation"
+        ]
+    },
+    {
+        "name": "Diversity",
+        "size": 8,
+        "imports": [
+           "Collegiality",
+           "Trust",
+           "Diversity",
+           "Inclusion",
+           "Critical Thinking & Healthy Discussion",
+           "Engagement",
+           "Empowerment",
+           "Innovation"
+        ]
+    },
+    {
+        "name": "Inclusion",
+        "size": 8,
+        "imports": [
+           "Collegiality",
+           "Trust",
+           "Diversity",
+           "Inclusion",
+           "Critical Thinking & Healthy Discussion",
+           "Engagement",
+           "Empowerment",
+           "Innovation"
+        ]
+    },
+    {
+        "name": "Critical Thinking & Healthy Discussion",
+        "size": 6,
+        "imports": [
+           "Diversity",
+           "Inclusion",
+           "Critical Thinking & Healthy Discussion",
+           "Engagement",
+           "Empowerment",
+           "Innovation"
+        ]
+    },
+    {
+        "name": "Engagement",
+        "size": 8,
+        "imports": [
+           "Collegiality",
+           "Trust",
+           "Diversity",
+           "Inclusion",
+           "Critical Thinking & Healthy Discussion",
+           "Engagement",
+           "Empowerment",
+           "Innovation"
+        ]
+    },
+    {
+        "name": "Empowerment",
+        "size": 9,
+        "imports": [
+           "Collegiality",
+           "Trust",
+           "Recognition",
+           "Diversity",
+           "Inclusion",
+           "Critical Thinking & Healthy Discussion",
+           "Engagement",
+           "Empowerment",
+           "Innovation"
+        ]
+    },
+    {
+        "name": "Innovation",
+        "size": 8,
+        "imports": [
+           "Collegiality",
+           "Recognition",
+           "Diversity",
+           "Inclusion",
+           "Critical Thinking & Healthy Discussion",
+           "Engagement",
+           "Empowerment",
+           "Innovation"
+        ]
+    }
+    
+]
