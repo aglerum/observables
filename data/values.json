@@ -1,7 +1,7 @@
 [
     {
         "name": "values: Collegiality",
-        "size": 8,
+        "size": 8000,
         "relationships": [
            "leadsTo: Trust",
            "leadsTo: Recognition",
@@ -15,7 +15,7 @@
     },
     {
         "name": "values: Trust",
-        "size": 6,
+        "size": 6000,
         "relationships": [
            "leadsTo: Collegiality",
            "leadsTo: Inclusion",
@@ -27,7 +27,7 @@
     },
     {
         "name": "values: Recognition",
-        "size": 6,
+        "size": 6000,
         "relationships": [
            "leadsTo: Collegiality",
            "leadsTo: Trust",
@@ -39,7 +39,7 @@
     },
     {
         "name": "values: Diversity",
-        "size": 8,
+        "size": 8000,
         "relationships": [
            "leadsTo: Collegiality",
            "leadsTo: Trust",
@@ -53,7 +53,7 @@
     },
     {
         "name": "values: Inclusion",
-        "size": 8,
+        "size": 8000,
         "relationships": [
            "leadsTo: Collegiality",
            "leadsTo: Trust",
@@ -67,7 +67,7 @@
     },
     {
         "name": "values: Critical Thinking & Healthy Discussion",
-        "size": 6,
+        "size": 6000,
         "relationships": [
            "leadsTo: Diversity",
            "leadsTo: Inclusion",
@@ -79,7 +79,7 @@
     },
     {
         "name": "values: Engagement",
-        "size": 8,
+        "size": 8000,
         "relationships": [
            "leadsTo: Collegiality",
            "leadsTo: Trust",
@@ -93,7 +93,7 @@
     },
     {
         "name": "values: Empowerment",
-        "size": 9,
+        "size": 9000,
         "relationships": [
            "leadsTo: Collegiality",
            "leadsTo: Trust",
@@ -108,7 +108,7 @@
     },
     {
         "name": "values: Innovation",
-        "size": 8,
+        "size": 8000,
         "relationships": [
            "leadsTo: Collegiality",
            "leadsTo: Recognition",
