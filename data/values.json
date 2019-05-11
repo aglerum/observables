@@ -7,7 +7,7 @@
            "Collegiality.LeadsTo: Recognition",
            "Collegiality.LeadsTo: Diversity",
            "Collegiality.LeadsTo: Inclusion",
-           "Collegiality.LeadsTo: Critical Thinking",
+           "Collegiality.LeadsTo: Critical_Thinking",
            "Collegiality.LeadsTo: Engagement",
            "Collegiality.LeadsTo: Empowerment",
            "Collegiality.LeadsTo: Innovation"
@@ -19,7 +19,7 @@
         "relationships": [
            "Trust.LeadsTo: Collegiality",
            "Trust.LeadsTo: Inclusion",
-           "Trust.LeadsTo: Critical Thinking",
+           "Trust.LeadsTo: Critical_Thinking",
            "Trust.LeadsTo: Engagement",
            "Trust.LeadsTo: Empowerment",
            "Trust.LeadsTo: Innovation"
@@ -45,7 +45,7 @@
            "Diversity.LeadsTo: Trust",
            "Diversity.LeadsTo: Diversity",
            "Diversity.LeadsTo: Inclusion",
-           "Diversity.LeadsTo: Critical Thinking",
+           "Diversity.LeadsTo: Critical_Thinking",
            "Diversity.LeadsTo: Engagement",
            "Diversity.LeadsTo: Empowerment",
            "Diversity.LeadsTo: Innovation"
@@ -59,7 +59,7 @@
            "Inclusion.LeadsTo: Trust",
            "Inclusion.LeadsTo: Diversity",
            "Inclusion.LeadsTo: Inclusion",
-           "Inclusion.LeadsTo: Critical Thinking",
+           "Inclusion.LeadsTo: Critical_Thinking",
            "Inclusion.LeadsTo: Engagement",
            "Inclusion.LeadsTo: Empowerment",
            "Inclusion.LeadsTo: Innovation"
@@ -71,7 +71,7 @@
         "relationships": [
            "Critical_Thinking.LeadsTo: Diversity",
            "Critical_Thinking.LeadsTo: Inclusion",
-           "Critical_Thinking.LeadsTo: Critical Thinking",
+           "Critical_Thinking.LeadsTo: Critical_Thinking",
            "Critical_Thinking.LeadsTo: Engagement",
            "Critical_Thinking.LeadsTo: Empowerment",
            "Critical_Thinking.LeadsTo: Innovation"
@@ -85,7 +85,7 @@
            "Engagement.LeadsTo: Trust",
            "Engagement.LeadsTo: Diversity",
            "Engagement.LeadsTo: Inclusion",
-           "Engagement.LeadsTo: Critical Thinking",
+           "Engagement.LeadsTo: Critical_Thinking",
            "Engagement.LeadsTo: Engagement",
            "Engagement.LeadsTo: Empowerment",
            "Engagement.LeadsTo: Innovation"
@@ -100,7 +100,7 @@
            "Empowerment.LeadsTo: Recognition",
            "Empowerment.LeadsTo: Diversity",
            "Empowerment.LeadsTo: Inclusion",
-           "Empowerment.LeadsTo: Critical Thinking",
+           "Empowerment.LeadsTo: Critical_Thinking",
            "Empowerment.LeadsTo: Engagement",
            "Empowerment.LeadsTo: Empowerment",
            "Empowerment.LeadsTo: Innovation"
@@ -114,7 +114,7 @@
            "Innovation.LeadsTo: Recognition",
            "Innovation.LeadsTo: Diversity",
            "Innovation.LeadsTo: Inclusion",
-           "Innovation.LeadsTo: Critical Thinking",
+           "Innovation.LeadsTo: Critical_Thinking",
            "Innovation.LeadsTo: Engagement",
            "Innovation.LeadsTo: Empowerment",
            "Innovation.LeadsTo: Innovation"
