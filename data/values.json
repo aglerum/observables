@@ -1,123 +1,123 @@
 [
     {
-        "name": "values.value.Collegiality",
+        "name": "values: Collegiality",
         "size": 8,
         "imports": [
-           "values.Collegiality.leadsTo.Trust",
-           "values.Collegiality.leadsTo.Recognition",
-           "values.Collegiality.leadsTo.Diversity",
-           "values.Collegiality.leadsTo.Inclusion",
-           "values.Collegiality.leadsTo.Critical Thinking & Healthy Discussion",
+           "leadsTo: Trust",
+           "leadsTo: Recognition",
+           "leadsTo: Diversity",
+           "leadsTo: Inclusion",
+           "leadsTo: Critical Thinking & Healthy Discussion",
            "values.Collegiality.Collegiality.leadsTo.Engagement",
-           "values.Collegiality.leadsTo.Empowerment",
-           "values.Collegiality.leadsTo.Innovation"
+           "leadsTo: Empowerment",
+           "leadsTo: Innovation"
         ]
     },
     {
-        "name": "values.value.Trust",
+        "name": "values: Trust",
         "size": 6,
         "imports": [
-           "values.Trust.leadsTo.Collegiality",
-           "values.Trust.leadsTo.Inclusion",
-           "values.Trust.leadsTo.Critical Thinking & Healthy Discussion",
-           "values.Trust.leadsTo.Engagement",
-           "values.Trust.leadsTo.Empowerment",
-           "values.Trust.leadsTo.Innovation"
+           "leadsTo: Collegiality",
+           "leadsTo: Inclusion",
+           "leadsTo: Critical Thinking & Healthy Discussion",
+           "leadsTo: Engagement",
+           "leadsTo: Empowerment",
+           "leadsTo: Innovation"
         ]
     },
     {
-        "name": "values.value.Recognition",
+        "name": "values: Recognition",
         "size": 6,
         "imports": [
-           "values.Recognition.leadsTo.Collegiality",
-           "values.Recognition.leadsTo.Trust",
-           "values.Recognition.leadsTo.Inclusion",
-           "values.Recognition.leadsTo.Engagement",
-           "values.Recognition.leadsTo.Empowerment",
-           "values.leadsTo.Innovation"
+           "leadsTo: Collegiality",
+           "leadsTo: Trust",
+           "leadsTo: Inclusion",
+           "leadsTo: Engagement",
+           "leadsTo: Empowerment",
+           "leadsTo: Innovation"
         ]
     },
     {
-        "name": "values.value.Diversity",
+        "name": "values: Diversity",
         "size": 8,
         "imports": [
-           "values.Diversity.leadsTo.Collegiality",
-           "values.Diversity.leadsTo.Trust",
-           "values.Diversity.leadsTo.Diversity",
-           "values.Diversity.leadsTo.Inclusion",
-           "values.Diversity.leadsTo.Critical Thinking & Healthy Discussion",
-           "values.Diversity.leadsTo.Engagement",
-           "values.Diversity.leadsTo.Empowerment",
-           "values.Diversity.leadsTo.Innovation"
+           "leadsTo: Collegiality",
+           "leadsTo: Trust",
+           "leadsTo: Diversity",
+           "leadsTo: Inclusion",
+           "leadsTo: Critical Thinking & Healthy Discussion",
+           "leadsTo: Engagement",
+           "leadsTo: Empowerment",
+           "leadsTo: Innovation"
         ]
     },
     {
-        "name": "values.value.Inclusion",
+        "name": "values: Inclusion",
         "size": 8,
         "imports": [
-           "values.Inclusion.leadsTo.Collegiality",
-           "values.Inclusion.leadsTo.Trust",
-           "values.Inclusion.leadsTo.Diversity",
-           "values.Inclusion.leadsTo.Inclusion",
-           "values.Inclusion.leadsTo.Critical Thinking & Healthy Discussion",
-           "values.Inclusion.leadsTo.Engagement",
-           "values.Inclusion.Inclusion.leadsTo.Empowerment",
-           "values.Inclusion.leadsTo.Innovation"
+           "leadsTo: Collegiality",
+           "leadsTo: Trust",
+           "leadsTo: Diversity",
+           "leadsTo: Inclusion",
+           "leadsTo: Critical Thinking & Healthy Discussion",
+           "leadsTo: Engagement",
+           "leadsTo: Empowerment",
+           "leadsTo: Innovation"
         ]
     },
     {
-        "name": "values.value.Critical Thinking & Healthy Discussion",
+        "name": "values: Critical Thinking & Healthy Discussion",
         "size": 6,
         "imports": [
-           "values.ritical Thinking & Healthy Discussion.leadsTo.Diversity",
-           "values.ritical Thinking & Healthy Discussion.leadsTo.Inclusion",
-           "values.ritical Thinking & Healthy Discussion.leadsTo.Critical Thinking & Healthy Discussion",
-           "values.ritical Thinking & Healthy Discussion.leadsTo.Engagement",
-           "values.ritical Thinking & Healthy Discussion.leadsTo.Empowerment",
-           "values.Critical Thinking & Healthy Discussion.leadsTo.Innovation"
+           "leadsTo: Diversity",
+           "leadsTo: Inclusion",
+           "leadsTo: Critical Thinking & Healthy Discussion",
+           "leadsTo: Engagement",
+           "leadsTo: Empowerment",
+           "leadsTo: Innovation"
         ]
     },
     {
-        "name": "values.value.Engagement",
+        "name": "values: Engagement",
         "size": 8,
         "imports": [
-           "values.Engagement.leadsTo.Collegiality",
-           "values.Engagement.leadsTo.Trust",
-           "values.Engagement.leadsTo.Diversity",
-           "values.Engagement.leadsTo.Inclusion",
-           "values.Engagement.leadsTo.Critical Thinking & Healthy Discussion",
-           "values.Engagement.leadsTo.Engagement",
-           "values.Engagement.leadsTo.Empowerment",
-           "values.Engagement.leadsTo.Innovation"
+           "leadsTo: Collegiality",
+           "leadsTo: Trust",
+           "leadsTo: Diversity",
+           "leadsTo: Inclusion",
+           "leadsTo: Critical Thinking & Healthy Discussion",
+           "leadsTo: Engagement",
+           "leadsTo: Empowerment",
+           "leadsTo: Innovation"
         ]
     },
     {
-        "name": "values.value.Empowerment",
+        "name": "values: Empowerment",
         "size": 9,
         "imports": [
-           "values.Empowerment.leadsTo.Collegiality",
-           "values.Empowerment.leadsTo.Trust",
-           "values.Empowerment.leadsTo.Recognition",
-           "values.Empowerment.leadsTo.Diversity",
-           "values.Empowerment.leadsTo.Inclusion",
-           "values.Empowerment.leadsTo.Critical Thinking & Healthy Discussion",
-           "values.Empowerment.leadsTo.Engagement",
-           "values.Empowerment.leadsTo.Empowerment",
-           "values.Empowerment.leadsTo.Innovation"
+           "leadsTo: Collegiality",
+           "leadsTo: Trust",
+           "leadsTo: Recognition",
+           "leadsTo: Diversity",
+           "leadsTo: Inclusion",
+           "leadsTo: Critical Thinking & Healthy Discussion",
+           "leadsTo: Engagement",
+           "leadsTo: Empowerment",
+           "leadsTo: Innovation"
         ]
     },
     {
-        "name": "values.value.Innovation",
+        "name": "values: Innovation",
         "size": 8,
         "imports": [
-           "values.Innovation.leadsTo.Collegiality",
-           "values.Innovation.leadsTo.Recognition",
-           "values.Innovation.leadsTo.Diversity",
-           "values.Innovation.leadsTo.Inclusion",
-           "values.Innovation.leadsTo.Critical Thinking & Healthy Discussion",
-           "values.Innovation.leadsTo.Engagement",
-           "values.Innovation.leadsTo.Empowerment",
-           "values.Innovation.leadsTo.Innovation"
+           "leadsTo: Collegiality",
+           "leadsTo: Recognition",
+           "leadsTo: Diversity",
+           "leadsTo: Inclusion",
+           "leadsTo: Critical Thinking & Healthy Discussion",
+           "leadsTo: Engagement",
+           "leadsTo: Empowerment",
+           "leadsTo: Innovation"
         ]
     }
     
