@@ -7,7 +7,7 @@
            "Collegiality.Recognition",
            "Collegiality.Diversity",
            "Collegiality.Inclusion",
-           "Collegiality.Critical_Thinking",
+           "Collegiality.Critical Thinking",
            "Collegiality.Engagement",
            "Collegiality.Empowerment",
            "Collegiality.Innovation"
@@ -19,7 +19,7 @@
         "relationships": [
            "Trust.Collegiality",
            "Trust.Inclusion",
-           "Trust.Critical_Thinking",
+           "Trust.Critical Thinking",
            "Trust.Engagement",
            "Trust.Empowerment",
            "Trust.Innovation"
@@ -43,9 +43,8 @@
         "relationships": [
            "Diversity.Collegiality",
            "Diversity.Trust",
-           "Diversity.Diversity",
            "Diversity.Inclusion",
-           "Diversity.Critical_Thinking",
+           "Diversity.Critical Thinking",
            "Diversity.Engagement",
            "Diversity.Empowerment",
            "Diversity.Innovation"
@@ -57,16 +56,15 @@
         "relationships": [
            "Inclusion.Collegiality",
            "Inclusion.Trust",
-           "Inclusion.Diversity",
-           "Inclusion.Inclusion",
-           "Inclusion.Critical_Thinking",
+           "Inclusion.Diversity", 
+           "Inclusion.Critical Thinking",
            "Inclusion.Engagement",
            "Inclusion.Empowerment",
            "Inclusion.Innovation"
         ]
     },
     {
-        "name": "Values.Critical_Thinking",
+        "name": "Values.Critical Thinking",
         "size": 5000,
         "relationships": [
            "Critical_Thinking.Diversity",
@@ -84,8 +82,7 @@
            "Engagement.Trust",
            "Engagement.Diversity",
            "Engagement.Inclusion",
-           "Engagement.Critical_Thinking",
-           "Engagement.Engagement",
+           "Engagement.Critical Thinking", 
            "Engagement.Empowerment",
            "Engagement.Innovation"
         ]
@@ -99,9 +96,8 @@
            "Empowerment.Recognition",
            "Empowerment.Diversity",
            "Empowerment.Inclusion",
-           "Empowerment.Critical_Thinking",
-           "Empowerment.Engagement",
-           "Empowerment.Empowerment",
+           "Empowerment.Critical Thinking",
+           "Empowerment.Engagement", 
            "Empowerment.Innovation"
         ]
     },
@@ -113,10 +109,9 @@
            "Innovation.Recognition",
            "Innovation.Diversity",
            "Innovation.Inclusion",
-           "Innovation.Critical_Thinking",
+           "Innovation.Critical Thinking",
            "Innovation.Engagement",
-           "Innovation.Empowerment",
-           "Innovation.Innovation"
+           "Innovation.Empowerment"
         ]
     }
     
