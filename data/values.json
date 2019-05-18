@@ -67,11 +67,11 @@
         "name": "Values.Critical Thinking",
         "size": 5000,
         "relationships": [
-           "Critical_Thinking.Diversity",
-           "Critical_Thinking.Inclusion",
-           "Critical_Thinking.Engagement",
-           "Critical_Thinking.Empowerment",
-           "Critical_Thinking.Innovation"
+           "Critical Thinking.Diversity",
+           "Critical Thinking.Inclusion",
+           "Critical Thinking.Engagement",
+           "Critical Thinking.Empowerment",
+           "Critical Thinking.Innovation"
         ]
     },
     {
