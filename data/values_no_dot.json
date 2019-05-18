@@ -1,0 +1,118 @@
+[
+    {
+        "name": "Collegiality",
+        "size": 8000,
+        "relationships": [
+           "Trust",
+           "Recognition",
+           "Diversity",
+           "Inclusion",
+           "Critical Thinking",
+           "Engagement",
+           "Empowerment",
+           "Innovation"
+        ]
+    },
+    {
+        "name": "Trust",
+        "size": 6000,
+        "relationships": [
+           "Collegiality",
+           "Inclusion",
+           "Critical Thinking",
+           "TrustEngagement",
+           "Empowerment",
+           "Innovation"
+        ]
+    },
+    {
+        "name": "Recognition",
+        "size": 6000,
+        "relationships": [
+           "Collegiality",
+           "Trust",
+           "Inclusion",
+           "Engagement",
+           "Empowerment",
+           "Innovation"
+        ]
+    },
+    {
+        "name": "Diversity",
+        "size": 8000,
+        "relationships": [
+           "Collegiality",
+           "Trust",
+           "Inclusion",
+           "Critical Thinking",
+           "Engagement",
+           "Empowerment",
+           "Innovation"
+        ]
+    },
+    {
+        "name": "Inclusion",
+        "size": 8000,
+        "relationships": [
+           "Collegiality",
+           "Trust",
+           "Diversity", 
+           "Critical Thinking",
+           "Engagement",
+           "Empowerment",
+           "Innovation"
+        ]
+    },
+    {
+        "name": "Critical Thinking",
+        "size": 5000,
+        "relationships": [
+           "Diversity",
+           "Inclusion",
+           "Engagement",
+           "Empowerment",
+           "Innovation"
+        ]
+    },
+    {
+        "name": "Engagement",
+        "size": 8000,
+        "relationships": [
+           "Collegiality",
+           "Trust",
+           "Diversity",
+           "Inclusion",
+           "Critical Thinking", 
+           "Empowerment",
+           "Innovation"
+        ]
+    },
+    {
+        "name": "Empowerment",
+        "size": 9000,
+        "relationships": [
+           "Collegiality",
+           "Trust",
+           "Recognition",
+           "Diversity",
+           "Inclusion",
+           "Critical Thinking",
+           "Engagement", 
+           "Innovation"
+        ]
+    },
+    {
+        "name": "Innovation",
+        "size": 8000,
+        "relationships": [
+           "Collegiality",
+           "Recognition",
+           "Diversity",
+           "Inclusion",
+           "Critical Thinking",
+           "Engagement",
+           "Empowerment"
+        ]
+    }
+    
+]
