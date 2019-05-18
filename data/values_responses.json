@@ -1,0 +1,117 @@
+[
+    {
+        "name": "Collegiality",
+        "responsesTotal": 3,
+        "leadsTo": [
+          {"name":"Trust","responses": 2},
+          {"name":"Recognition","responses": 2},
+          {"name":"Diversity","responses": 2},
+          {"name":"Inclusion","responses": 3},
+          {"name":"Critical Thinking","responses": 3},
+          {"name":"Engagement","responses": 3},
+          {"name":"Empowerment","responses": 2},
+          {"name":"Innovation","responses": 1}
+        ]
+    },
+    {
+        "name": "Trust",
+        "responsesTotal": 3,
+        "leadsTo": [
+           {"name":"Collegiality","responses": 2},
+           {"name":"Inclusion","responses": 2},
+           {"name":"Critical Thinking","responses": 2},
+           {"name":"Engagement","responses": 2},
+           {"name":"Empowerment","responses": 2},
+           {"name":"Innovation","responses": 1}
+        ]
+    },
+    {
+        "name": "Recognition",
+        "responsesTotal": 3,
+        "leadsTo": [
+           {"name":"Collegiality","responses": 3},
+           {"name":"Trust","responses": 1},
+           {"name":"Inclusion","responses": 1},
+           {"name":"Engagement","responses": 1},
+           {"name":"Empowerment","responses": 2},
+           {"name":"Innovation","responses": 2}
+        ]
+    },
+    {
+        "name": "Diversity",
+        "responsesTotal": 3,
+        "leadsTo": [
+           {"name":"Collegiality","responses": 2},
+           {"name":"Trust","responses": 1},
+           {"name":"Inclusion","responses": 2},
+           {"name":"Critical Thinking","responses": 3},
+           {"name":"Engagement","responses": 2},
+           {"name":"Empowerment","responses": 1},
+           {"name":"Innovation","responses": 3}
+        ]
+    },
+    {
+        "name": "Inclusion",
+        "responsesTotal": 3,
+        "leadsTo": [
+           {"name":"Collegiality","responses": 3},
+           {"name":"Trust","responses": 3},
+           {"name":"Diversity","responses": 2},
+           {"name":"Critical Thinking","responses": 2},
+           {"name":"Engagement","responses": 3},
+           {"name":"Empowerment","responses": 3},
+           {"name":"Innovation","responses": 3}
+        ]
+    },
+    {
+        "name": "Critical Thinking",
+        "responsesTotal": 3,
+        "leadsTo": [
+           {"name":"Diversity","responses": 1},
+           {"name":"Inclusion","responses": 1},
+           {"name":"Engagement","responses": 3},
+           {"name":"Empowerment","responses": 2},
+           {"name":"Innovation","responses": 3}
+        ]
+    },
+    {
+        "name": "Engagement",
+        "responsesTotal": 3,
+        "leadsTo": [
+           {"name":"Collegiality","responses": 2},
+           {"name":"Trust","responses": 2},
+           {"name":"Diversity","responses": 2},
+           {"name":"Inclusion","responses": 3},
+           {"name":"Critical Thinking","responses": 1},
+           {"name":"Empowerment","responses": 3},
+           {"name":"Innovation","responses": 3}
+        ]
+    },
+    {
+        "name": "Empowerment",
+        "responsesTotal": 3,
+        "leadsTo": [
+           {"name":"Collegiality","responses": 2},
+           {"name":"Trust","responses": 3},
+           {"name":"Recognition","responses": 1},
+           {"name":"Diversity","responses": 1},
+           {"name":"Inclusion","responses": 2},
+           {"name":"Critical Thinking","responses": 1},
+           {"name":"Engagement","responses": 2},
+           {"name":"Innovation","responses": 2}
+        ]
+    },
+    {
+        "name": "Innovation",
+        "responsesTotal": 3,
+        "leadsTo": [
+           {"name":"Collegiality","responses": 1},
+           {"name":"Recognition","responses": 2},
+           {"name":"Diversity","responses": 3},
+           {"name":"Inclusion","responses": 3},
+           {"name":"Critical Thinking","responses": 2},
+           {"name":"Engagement","responses": 3},
+           {"name":"Empowerment","responses": 2}
+        ]
+    }    
+]
