@@ -1,5 +1,4 @@
-{
-  "data" : [
+[
     {
       "date" : "2019-08-03T00:00:00Z",
       "total_victims" : 28,
@@ -1583,4 +1582,3 @@
       "weapon_type" : "One shotgun"
     }
   ]
-}
