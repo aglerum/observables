@@ -21,13 +21,13 @@ date,total_victims,event,location,age_of_shooter,race,gender,city,state,injured,
 2017-11-06T00:00:00Z,46,"Texas First Baptist massacre","Sutherland Springs, Texas","26","White","M","Sutherland Springs","Texas","20",26,"semiautomatic rifle"
 2027-11-02T00:00:00Z,3,"Walmart shooting in suburban Denver","Thornton, Colorado","47","White","M","Thornton","Colorado","0",3,"semiautomatic handgun"
 2017-10-19T00:00:00Z,6,"Edgewood businees park shooting","Edgewood, Maryland","37","Black","M","Edgewood","Maryland","3",3,"handgun"
-2027-10-02T00:00:00Z,604,"Las Vegas Strip massacre","Las Vegas, Nevada","64","White","M","Las Vegas","Nevada","546",58,"23 firearms, mostly rifles; including scopes, and two modified for \"fully automatic\" firing; two were mounted on tripods"
+2027-10-02T00:00:00Z,604,"Las Vegas Strip massacre","Las Vegas, Nevada","64","White","M","Las Vegas","Nevada","546",58,"semiautomatic rifles"
 2017-06-15T00:00:00Z,5,"San Francisco UPS shooting","San Francisco, California","38","Asian","M","San Francisco","California","2",3,"two handguns"
 2017-06-08T00:00:00Z,3,"Pennsylvania supermarket shooting","Tunkhannock, Pennsylvania","24","White","M","Tunkhannock","Pennsylvania","0",3,"shotguns"
 2017-06-06T00:00:00Z,5,"Florida awning manufacturer shooting","Orlando, Florida","45","Unknown race","M","Orlando","Florida","0",5,"semiautomatic handgun"
 2017-05-13T00:00:00Z,3,"Rural Ohio nursing home shooting","Kirkersville, Ohio","43","White","M","Kirkersville","Ohio","0",3,"handgun, shotgun"
 2017-04-19T00:00:00Z,3,"Fresno downtown shooting","Fresno, California","39","Black","M","Fresno","California","0",3,"handgun"
-2017-01-07T00:00:00Z,11,"Fort Lauderdale airport shooting","Fort Lauderdale, Florida","26","Latino","M","Fort Lauderdale","Florida","6",5,"semiautomatic handgun\n"
+2017-01-07T00:00:00Z,11,"Fort Lauderdale airport shooting","Fort Lauderdale, Florida","26","Latino","M","Fort Lauderdale","Florida","6",5,"semiautomatic handgun"
 2016-09-24T00:00:00Z,5,"Cascade Mall shooting","Burlington, Washington","20","Unknown race","M","Burlington","Washington","0",5,"Rifle"
 2016-07-18T00:00:00Z,6,"Baton Rouge police shooting","Baton Rouge, Lousiana","29","Black","M","Baton Rouge","Lousiana","3",3,"Two semiautomatic rifles; one semiautomatic handgun"
 2016-08-08T00:00:00Z,16,"Dallas police shooting","Dallas, Texas","25","Black","M","Dallas","Texas","11",5,"Semiautomatic rifle, semiautomatic handguns"
@@ -38,7 +38,7 @@ date,total_victims,event,location,age_of_shooter,race,gender,city,state,injured,
 2015-11-28T00:00:00Z,12,"Planned Parenthood clinic","Colorado Springs, Colorado","57","White","M","Colorado Springs","Colorado","9",3,"Long gun"
 2015-11-01T00:00:00Z,3,"Colorado Springs shooting rampage","Colorado Springs, Colorado","33","White","M","Colorado Springs","Colorado","0",3,"Two handguns and a rifle"
 2025-10-02T00:00:00Z,18,"Umpqua Community College shooting","Roseburg, Oregon","26","Other race","Male","Roseburg","Oregon","9",9,"Five pistols, one rifle, five magazines of ammunition"
-2015-07-17T00:00:00Z,7,"Chattanooga military recruitment center","Chattanooga, Tennessee","24","Other race","Male","Chattanooga","Tennessee","2",5,"2 assault rifles; semiautomatic handgun\n"
+2015-07-17T00:00:00Z,7,"Chattanooga military recruitment center","Chattanooga, Tennessee","24","Other race","Male","Chattanooga","Tennessee","2",5,"2 assault rifles; semiautomatic handgun"
 2015-06-18T00:00:00Z,10,"Charleston Church Shooting","Charleston, South Carolina","21","White","Male","Charleston","South Carolina","1",9,"Handgun"
 2015-06-12T00:00:00Z,4,"Trestle Trail bridge shooting","Menasha, Wisconsin","27","Latino","M","Menasha","Wisconsin","1",3,"Two handguns\n"
 2014-10-25T00:00:00Z,6,"Marysville-Pilchuck High School shooting","Marysville, Washington","15","Native American","Male","Marysville","Washington","1",5,"Handgun"
@@ -47,7 +47,7 @@ date,total_victims,event,location,age_of_shooter,race,gender,city,state,injured,
 2114-02-21T00:00:00Z,6,"Alturas tribal shooting","Alturas, California","44","Native American","Female","Alturas","California","2",4,"Two handguns and a butcher knife"
 2013-09-17T00:00:00Z,20,"Washington Navy Yard shooting","Washington, D.C.","34","Black","Male","Washington","D.C.","8",12,"Sawed-off shotgun, 2 boxes of shells; also a .45-caliber handgun taken from a security guard he shot at the scene."
 2013-07-27T00:00:00Z,7,"Hialeah apartment shooting","Hialeah, Florida","42","Latino","Male","Hialeah","Florida","0",7,"9mm semi-automatic handgun"
-2013-06-08T00:00:00Z,9,"Santa Monica rampage","Santa Monica, California","23","White","Male","Santa Monica","California","3",6,"Assault rifle, high capacity magazines, antique handgun\n"
+2013-06-08T00:00:00Z,9,"Santa Monica rampage","Santa Monica, California","23","White","Male","Santa Monica","California","3",6,"Assault rifle, high capacity magazines, antique handgun"
 2013-04-22T00:00:00Z,5,"Pinewood Village Apartment shooting","Federal Way, Washington","27","Black","Male","Federal Way","Washington","0",5,"Semiautomatic handgun, shotgun"
 2014-03-14T00:00:00Z,7,"Mohawk Valley shootings","Herkimer County, New York","64","White","Male","Herkimer County","New York","2",5,"Shotgun"
 2012-12-15T00:00:00Z,29,"Sandy Hook Elementary massacre","Newtown, Connecticut","20","White","Male","Newtown","Connecticut","2",27,"Two semiautomatic handguns, one rifle (assault), one shotgun (assault)"
@@ -112,123 +112,3 @@ date,total_victims,event,location,age_of_shooter,race,gender,city,state,injured,
 1984-07-19T00:00:00Z,41,"San Ysidro McDonald's massacre","San Ysidro, California","41","White","Male","San Ysidro","California","19",22,"One semiautomatic handgun, one rifle (assault), one shotgun"
 1984-06-30T00:00:00Z,7,"Dallas nightclub shooting","Dallas, Texas","39","White","Male","Dallas","Texas","1",6,"One semiautomatic handgun"
 1982-08-21T00:00:00Z,11,"Welding shop shooting","Miami, Florida","51","White","Male","Miami","Florida","3",8,"One shotgun"
-=======
-date,total_victims,event,location,age_of_shooter,race,gender,city,state,injured,fatalities,weapon_type
-2019-08-04T00:00:00Z,41,El Paso Walmart shooting,"El Paso, Texas",21,Unknown race,M,El Paso,Texas,22,19,semiautomatic rifle
-2019-07-29T00:00:00Z,15,Gilroy garlic festival shooting,"Gilroy, California",19,Unknown race,M,Gilroy,California,12,3,semiautomatic rifle
-2019-06-01T00:00:00Z,16,Virginia Bch municipal building shooting,"Virginia Beach, Virginia",40,Black,M,Virginia Beach,Virginia,4,12,2 handguns
-2019-02-16T00:00:00Z,11,Harry Pratt Co. warehouse shooting,"Aurora, Illinois",45,Black,M,Aurora,Illinois,6,5,handgun
-2019-01-25T00:00:00Z,4,Pennsylvania hotel bar shooting,"State College, Pennsylvania",21,White,M,State College,Pennsylvania,1,3,handgun
-2019-01-24T00:00:00Z,5,SunTrust bank shooting,"Sebring, Florida",21,White,M,Sebring,Florida,0,5,handgun
-2018-11-20T00:00:00Z,3,Mercy Hospital shooting,"Chicago, Illinois",32,Latino,M,Chicago,Illinois,0,3,semiautomatic handgun
-2018-11-08T00:00:00Z,34,Thousand Oaks nightclub shooting,"Thousand Oaks, California",28,Unknown race,M,Thousand Oaks,California,22,12,semiautomatic handgun
-2018-10-28T00:00:00Z,17,Tree of Life synagogue shooting,"Pittsburgh, Pennsylvania",46,White,M,Pittsburgh,Pennsylvania,6,11,semiautomatic rifle; semiautomatic handguns
-2118-09-21T00:00:00Z,6,Rite Aid warehouse shooting,"Perryman, Maryland",26,Black,F,Perryman,Maryland,3,3,semiautomatic handgun
-2018-09-13T00:00:00Z,5,T&T Trucking shooting,"Bakersfield, California",54,Latino,M,Bakersfield,California,0,5,handgun
-2018-09-07T00:00:00Z,5,Fifth Third Center shooting,"Cincinnati, Ohio",29,Latino,M,Cincinnati,Ohio,2,3,semiautomatic handgun
-2018-06-29T00:00:00Z,7,Capital Gazette shooting,"Annapolis, Maryland",38,White,M,Annapolis,Maryland,2,5,shotgun
-2019-05-19T00:00:00Z,23,Santa Fe High School shooting,"Santa Fe, Texas",17,White,M,Santa Fe,Texas,13,10,shotgun; .38 revolver
-2018-04-23T00:00:00Z,8,Waffle House shooting,"Nashville, Tennessee",29,White,M,Nashville,Tennessee,4,4,semiautomatic rifle
-2018-03-10T00:00:00Z,3,Yountville veterans home shooting,"Yountville, California",36,Asian,M,Yountville,California,0,3,semiautomatic rifle; shotgun
-2018-02-15T00:00:00Z,34,Marjory Stoneman Douglas High School shooting,"Parkland, Florida",19,White,M,Parkland,Florida,17,17,semiautomatic rifle
-2018-01-29T00:00:00Z,5,Pennsylvania carwash shooting,"Pennsylvania, Pennsylvania",28,White,M,Pennsylvania,Pennsylvania,1,4,semiautomatic rifle and semiautomatic handgun
-2017-11-15T00:00:00Z,15,Rancho Tehama shooting spree,"Rancho Tehama, California",44,White,M,Rancho Tehama,California,10,5,semiautomatic rifles
-2017-11-06T00:00:00Z,46,Texas First Baptist Church massacre,"Sutherland Springs, Texas",26,White,M,Sutherland Springs,Texas,20,26,semiautomatic rifle
-2027-11-02T00:00:00Z,3,Walmart shooting in suburban Denver,"Thornton, Colorado",47,White,M,Thornton,Colorado,0,3,semiautomatic handgun
-2017-10-19T00:00:00Z,6,Edgewood businees park shooting,"Edgewood, Maryland",37,Black,M,Edgewood,Maryland,3,3,handgun
-2027-10-02T00:00:00Z,604,Las Vegas Strip massacre,"Las Vegas, Nevada",64,White,M,Las Vegas,Nevada,546,58,"23 firearms, mostly rifles; including scopes, and two modified for ""fully automatic"" firing; two were mounted on tripods"
-2017-06-15T00:00:00Z,5,San Francisco UPS shooting,"San Francisco, California",38,Asian,M,San Francisco,California,2,3,two handguns
-2017-06-08T00:00:00Z,3,Pennsylvania supermarket shooting,"Tunkhannock, Pennsylvania",24,White,M,Tunkhannock,Pennsylvania,0,3,shotguns
-2017-06-06T00:00:00Z,5,Florida awning manufacturer shooting,"Orlando, Florida",45,Unknown race,M,Orlando,Florida,0,5,semiautomatic handgun
-2017-05-13T00:00:00Z,3,Rural Ohio nursing home shooting,"Kirkersville, Ohio",43,White,M,Kirkersville,Ohio,0,3,"handgun, shotgun"
-2017-04-19T00:00:00Z,3,Fresno downtown shooting,"Fresno, California",39,Black,M,Fresno,California,0,3,handgun
-2017-01-07T00:00:00Z,11,Fort Lauderdale airport shooting,"Fort Lauderdale, Florida",26,Latino,M,Fort Lauderdale,Florida,6,5,"semiautomatic handgun
-"
-2016-09-24T00:00:00Z,5,Cascade Mall shooting,"Burlington, Washington",20,Unknown race,M,Burlington,Washington,0,5,Rifle
-2016-07-18T00:00:00Z,6,Baton Rouge police shooting,"Baton Rouge, Lousiana",29,Black,M,Baton Rouge,Lousiana,3,3,Two semiautomatic rifles; one semiautomatic handgun
-2016-08-08T00:00:00Z,16,Dallas police shooting,"Dallas, Texas",25,Black,M,Dallas,Texas,11,5,"Semiautomatic rifle, semiautomatic handguns"
-2016-06-13T00:00:00Z,102,Orlando nightclub massacre,"Orlando, Florida",29,Other race,M,Orlando,Florida,53,49,"Semiautomatic rifle, semiautomatic handgun"
-2016-02-26T00:00:00Z,17,Excel Industries mass shooting,"Hesston, Kansas",38,Black,M,Hesston,Kansas,14,3,"Semiautomatic rifle, semiautomatic handgun"
-2116-02-21T00:00:00Z,8,Kalamazoo shooting spree,"Kalamazoo County, Michigan",45,White,M,Kalamazoo County,Michigan,2,6,Semiautomatic handgun
-2015-12-03T00:00:00Z,35,San Bernardino mass shooting,"San Bernardino, California",28,Other race,Male & Female,San Bernardino,California,21,14,"Two assault rifles and two semi-automatic pistols were used in the attack. Police found a remote controlled explosive device at the scene of the crime. At the home were 12 pipe bombs, 2,500 rounds for the AR-15 variants, 2,000 rounds for the pistols, and several hundred for a .22 calibre rifle. In the suspects' car were an additional 1,400 rounds for the rifles and 200 for the handguns."
-2015-11-28T00:00:00Z,12,Planned Parenthood clinic,"Colorado Springs, Colorado",57,White,M,Colorado Springs,Colorado,9,3,Long gun
-2015-11-01T00:00:00Z,3,Colorado Springs shooting rampage,"Colorado Springs, Colorado",33,White,M,Colorado Springs,Colorado,0,3,Two handguns and a rifle
-2025-10-02T00:00:00Z,18,Umpqua Community College shooting,"Roseburg, Oregon",26,Other race,Male,Roseburg,Oregon,9,9,"Five pistols, one rifle, five magazines of ammunition"
-2015-07-17T00:00:00Z,7,Chattanooga military recruitment center,"Chattanooga, Tennessee",24,Other race,Male,Chattanooga,Tennessee,2,5,"2 assault rifles; semiautomatic handgun
-"
-2015-06-18T00:00:00Z,10,Charleston Church Shooting,"Charleston, South Carolina",21,White,Male,Charleston,South Carolina,1,9,Handgun
-2015-06-12T00:00:00Z,4,Trestle Trail bridge shooting,"Menasha, Wisconsin",27,Latino,M,Menasha,Wisconsin,1,3,"Two handguns
-"
-2014-10-25T00:00:00Z,6,Marysville-Pilchuck High School shooting,"Marysville, Washington",15,Native American,Male,Marysville,Washington,1,5,Handgun
-2014-05-24T00:00:00Z,19,Isla Vista mass murder,"Santa Barbara, California",22,White,M,Santa Barbara,California,13,6,Three semi-automatic handguns and two hunting knives
-2014-04-04T00:00:00Z,15,Fort Hood shooting 2,"Fort Hood, Texas",34,Latino,M,Fort Hood,Texas,12,3,"handgun
-"
-2114-02-21T00:00:00Z,6,Alturas tribal shooting,"Alturas, California",44,Native American,Female,Alturas,California,2,4,Two handguns and a butcher knife
-2013-09-17T00:00:00Z,20,Washington Navy Yard shooting,"Washington, D.C.",34,Black,Male,Washington,D.C.,8,12,"Sawed-off shotgun, 2 boxes of shells; also a .45-caliber handgun taken from a security guard he shot at the scene."
-2013-07-27T00:00:00Z,7,Hialeah apartment shooting,"Hialeah, Florida",42,Latino,Male,Hialeah,Florida,0,7,9mm semi-automatic handgun
-2013-06-08T00:00:00Z,9,Santa Monica rampage,"Santa Monica, California",23,White,Male,Santa Monica,California,3,6,"Assault rifle, high capacity magazines, antique handgun
-"
-2013-04-22T00:00:00Z,5,Pinewood Village Apartment shooting,"Federal Way, Washington",27,Black,Male,Federal Way,Washington,0,5,"Semiautomatic handgun, shotgun"
-2014-03-14T00:00:00Z,7,Mohawk Valley shootings,"Herkimer County, New York",64,White,Male,Herkimer County,New York,2,5,Shotgun
-2012-12-15T00:00:00Z,29,Sandy Hook Elementary massacre,"Newtown, Connecticut",20,White,Male,Newtown,Connecticut,2,27,"Two semiautomatic handguns, one rifle (assault), one shotgun (assault)"
-2012-09-28T00:00:00Z,8,Accent Signage Systems shooting,"Minneapolis, Minnesota",36,White,Male,Minneapolis,Minnesota,1,7,One semiautomatic handgun
-2012-08-06T00:00:00Z,10,Sikh temple shooting,"Oak Creek, Wisconsin",40,White,Male,Oak Creek,Wisconsin,3,7,One semiautomatic handgun
-2112-07-21T00:00:00Z,82,Aurora theater shooting,"Aurora, Colorado",24,White,Male,Aurora,Colorado,70,12,"Two semiautomatic handguns, one rifle (assault), one shotgun"
-2112-05-21T00:00:00Z,7,Seattle cafe shooting,"Seattle, Washington",40,White,Male,Seattle,Washington,1,6,Two semiautomatic handguns
-2012-04-03T00:00:00Z,10,Oikos University killings,"Oakland, California",43,Asian,Male,Oakland,California,3,7,One semiautomatic handgun
-2012-02-22T00:00:00Z,5,Su Jung Health Sauna shooting,"Norcross, Georgia",59,Asian,Male,Norcross,Georgia,0,5,One semiautomatic handgun
-2011-10-13T00:00:00Z,9,Seal Beach shooting,"Seal Beach, California",42,White,Male,Seal Beach,California,1,8,"Two semiautomatic handguns, one revolver"
-2011-09-07T00:00:00Z,12,IHOP shooting,"Carson City, Nevada",32,Latino,Male,Carson City,Nevada,7,5,"Two rifles (both assault), one revolver"
-2011-01-09T00:00:00Z,19,Tucson shooting,"Tucson, Arizona",22,White,Male,Tucson,Arizona,13,6,One semiautomatic handgun
-2010-08-04T00:00:00Z,11,Hartford Beer Distributor shooting,"Manchester, Connecticut",34,Black,Male,Manchester,Connecticut,2,9,Two semiautomatic handguns
-2009-11-30T00:00:00Z,5,Coffee shop police killings,"Parkland, Washington",37,Black,Male,Parkland,Washington,1,4,One semiautomatic handgun
-2009-11-06T00:00:00Z,43,Fort Hood massacre,"Fort Hood, Texas",39,Other race,Male,Fort Hood,Texas,30,13,One semiautomatic handgun
-2009-04-04T00:00:00Z,18,Binghamton shootings,"Binghamton, New York",41,Asian,Male,Binghamton,New York,4,14,Two semiautomatic handguns
-2009-03-30T00:00:00Z,11,Carthage nursing home shooting,"Carthage, North Carolina",45,White,Male,Carthage,North Carolina,3,8,"One revolver, one shotgun"
-2008-06-26T00:00:00Z,7,Atlantis Plastics shooting,"Henderson, Kentucky",25,White,Male,Henderson,Kentucky,1,6,One semiautomatic handgun
-2008-02-15T00:00:00Z,26,Northern Illinois University shooting,"DeKalb, Illinois",27,White,Male,DeKalb,Illinois,21,5,"Three semiautomatic handguns, one shotgun"
-2008-02-08T00:00:00Z,8,Kirkwood City Council shooting,"Kirkwood, Missouri",52,Black,Male,Kirkwood,Missouri,2,6,"One semiautomatic handgun, one revolver"
-2007-12-06T00:00:00Z,13,Westroads Mall shooting,"Omaha, Nebraska",19,White,Male,Omaha,Nebraska,4,9,One rifle (assault)
-2008-10-08T00:00:00Z,7,Crandon shooting,"Crandon, Wisconsin",20,White,Male,Crandon,Wisconsin,1,6,One rifle (assault)
-2007-04-17T00:00:00Z,55,Virginia Tech massacre,"Blacksburg, Virginia",23,Asian,Male,Blacksburg,Virginia,23,32,Two semiautomatic handguns
-2007-02-13T00:00:00Z,10,Trolley Square shooting,"Salt Lake City, Utah",18,White,Male,Salt Lake City,Utah,4,6,"One revolver, one shotgun"
-2006-10-03T00:00:00Z,11,Amish school shooting,"Lancaster County, Pennsylvania",32,White,Male,Lancaster County,Pennsylvania,5,6,"One semiautomatic handgun, one rifle, one shotgun"
-2006-03-26T00:00:00Z,9,Capitol Hill massacre,"Seattle, Washington",28,White,Male,Seattle,Washington,2,7,"Two semiautomatic handguns, one rifle (assault), one shotgun"
-2006-01-31T00:00:00Z,8,Goleta postal shootings,"Goleta, California",44,White,Female,Goleta,California,0,8,One semiautomatic handgun
-2005-03-22T00:00:00Z,15,Red Lake massacre,"Red Lake, Minnesota",16,Native American,Male,Red Lake,Minnesota,5,10,"Two semiautomatic handguns, one shotgun"
-2005-03-13T00:00:00Z,11,Living Church of God shooting,"Brookfield, Wisconsin",44,White,Male,Brookfield,Wisconsin,4,7,One semiautomatic handgun
-2004-12-09T00:00:00Z,12,Damageplan show shooting,"Columbus, Ohio",25,White,Male,Columbus,Ohio,7,5,One semiautomatic handgun
-2003-07-09T00:00:00Z,15,Lockheed Martin shooting,"Meridian, Mississippi",48,White,Male,Meridian,Mississippi,8,7,"One semiautomatic handgun, two rifles, one derringer, one shotgun"
-2001-02-06T00:00:00Z,9,Navistar shooting,"Melrose Park, Illinois",66,Black,Male,Melrose Park,Illinois,4,5,"Two rifles, one revolver, one shotgun"
-2000-12-27T00:00:00Z,7,Wakefield massacre,"Wakefield, Massachusetts",42,White,Male,Wakefield,Massachusetts,0,7,"One semiautomatic handgun, one rifle (assault), one shotgun"
-1999-12-31T00:00:00Z,8,Hotel shooting,"Tampa, Florida",36,Latino,Male,Tampa,Florida,3,5,"One semiautomatic handgun, one revolver"
-1999-11-03T00:00:00Z,7,Xerox killings,"Honolulu, Hawaii",40,Asian,Male,Honolulu,Hawaii,0,7,One semiautomatic handgun
-1999-09-16T00:00:00Z,15,Wedgwood Baptist Church shooting,"Fort Worth, Texas",47,White,Male,Fort Worth,Texas,7,8,Two semiautomatic handguns
-1999-07-30T00:00:00Z,22,Atlanta day trading spree killings,"Atlanta, Georgia",44,White,Male,Atlanta,Georgia,13,9,"Three semiautomatic handguns, one revolver"
-1999-04-21T00:00:00Z,37,Columbine High School massacre,"Littleton, Colorado",17,White,Male,Littleton,Colorado,24,13,"One semiautomatic handgun (assault), one rifle (assault), two shotguns"
-1998-05-22T00:00:00Z,29,Thurston High School shooting,"Springfield, Oregon",15,White,Male,Springfield,Oregon,25,4,"Two semiautomatic handguns, one rifle"
-1998-03-25T00:00:00Z,15,Westside Middle School killings,"Jonesboro, Arkansas",11,White,Male,Jonesboro,Arkansas,10,5,"Two semiautomatic handguns, two rifles, three revolvers, two derringers"
-1998-03-07T00:00:00Z,6,Connecticut Lottery shooting,"Newington, Connecticut",35,White,Male,Newington,Connecticut,1,5,One semiautomatic handgun
-1997-12-19T00:00:00Z,7,Caltrans maintenance yard shooting,"Orange, California",41,Latino,Male,Orange,California,2,5,One rifle (assault)
-1997-09-16T00:00:00Z,7,R.E. Phelon Company shooting,"Aiken, South Carolina",43,Black,Male,Aiken,South Carolina,3,4,One semiautomatic handgun
-1996-02-10T00:00:00Z,7,Fort Lauderdale revenge shooting,"Fort Lauderdale, Florida",41,Black,Male,Fort Lauderdale,Florida,1,6,"One semiautomatic handgun, one revolver"
-1995-04-04T00:00:00Z,6,Walter Rossler Company massacre,"Corpus Christi, Texas",28,Unknown race,Male,Corpus Christi,Texas,0,6,"One semiautomatic handgun, one revolver"
-1994-06-21T00:00:00Z,28,Air Force base shooting,"Fairchild Air Force Base, Washington",20,White,Male,Fairchild Air Force Base,Washington,23,5,One rifle (assault)
-1993-12-15T00:00:00Z,5,Chuck E. Cheese's killings,"Aurora, Colorado",19,Black,Male,Aurora,Colorado,1,4,One semiautomatic handgun
-1993-12-08T00:00:00Z,25,Long Island Rail Road massacre,"Garden City, New York",35,Black,Male,Garden City,New York,19,6,One semiautomatic handgun
-1993-08-07T00:00:00Z,12,Luigi's shooting,"Fayetteville, North Carolina",22,White,Male,Fayetteville,North Carolina,8,4,"One rifle, two shotguns"
-1993-07-02T00:00:00Z,15,101 California Street shootings,"San Francisco, California",55,White,Male,San Francisco,California,6,9,Three semiautomatic handguns (two assault)
-1992-10-16T00:00:00Z,5,Watkins Glen killings,"Watkins Glen, New York",50,White,Male,Watkins Glen,New York,0,5,One semiautomatic handgun
-1992-05-02T00:00:00Z,14,Lindhurst High School shooting,"Olivehurst, California",20,White,Male,Olivehurst,California,10,4,"One rifle, one shotgun"
-1991-11-15T00:00:00Z,10,Royal Oak postal shootings,"Royal Oak, Michigan",31,White,Male,Royal Oak,Michigan,5,5,One rifle
-1991-11-02T00:00:00Z,7,University of Iowa shooting,"Iowa City, Iowa",28,Asian,Male,Iowa City,Iowa,1,6,One revolver
-1991-10-17T00:00:00Z,44,Luby's massacre,"Killeen, Texas",35,White,Male,Killeen,Texas,20,24,Two semiautomatic handguns
-1990-06-19T00:00:00Z,14,GMAC massacre,"Jacksonville, Florida",42,Black,Male,Jacksonville,Florida,4,10,"One rifle, one revolver"
-1989-09-15T00:00:00Z,21,Standard Gravure shooting,"Louisville, Kentucky",47,White,Male,Louisville,Kentucky,12,9,"Three semiautomatic handguns (two assault), one rifle (assault), one revolver"
-1989-01-18T00:00:00Z,35,Stockton schoolyard shooting,"Stockton, California",26,White,Male,Stockton,California,29,6,"One semiautomatic handgun, one rifle (assault)"
-1988-02-17T00:00:00Z,11,ESL shooting,"Sunnyvale, California",39,White,Male,Sunnyvale,California,4,7,"Two semiautomatic handguns, one rifle, two revolvers, two shotguns"
-1987-04-24T00:00:00Z,20,Shopping centers spree killings,"Palm Bay, Florida",59,White,Male,Palm Bay,Florida,14,6,"One rifle, one revolver, one shotgun"
-1986-08-21T00:00:00Z,21,United States Postal Service shooting,"Edmond, Oklahoma",44,White,Male,Edmond,Oklahoma,6,15,Three semiautomatic handguns
-1984-07-19T00:00:00Z,41,San Ysidro McDonald's massacre,"San Ysidro, California",41,White,Male,San Ysidro,California,19,22,"One semiautomatic handgun, one rifle (assault), one shotgun"
-1984-06-30T00:00:00Z,7,Dallas nightclub shooting,"Dallas, Texas",39,White,Male,Dallas,Texas,1,6,One semiautomatic handgun
-1982-08-21T00:00:00Z,11,Welding shop shooting,"Miami, Florida",51,White,Male,Miami,Florida,3,8,One shotgun
