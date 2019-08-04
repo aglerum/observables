@@ -1,5 +1,5 @@
 date,total_victims,event,location,age_of_shooter,race,gender,city,state,injured,fatalities,weapon_type
-2019-08-03T00:00:00Z,28,El Paso Walmart shooting,"El Paso, Texas",21,Unknown race,M,El Paso,Texas,10,18,semiautomatic rifle
+2019-08-03T00:00:00Z,46,El Paso Walmart shooting,"El Paso, Texas",21,Unknown race,M,El Paso,Texas,26,20,semiautomatic rifle
 2019-07-28T00:00:00Z,15,Gilroy garlic festival shooting,"Gilroy, California",19,Unknown race,M,Gilroy,California,12,3,semiautomatic rifle
 2019-05-31T00:00:00Z,16,Virginia Bch municipal building shooting,"Virginia Beach, Virginia",40,Black,M,Virginia Beach,Virginia,4,12,2 handguns
 2019-02-15T00:00:00Z,11,Harry Pratt Co. warehouse shooting,"Aurora, Illinois",45,Black,M,Aurora,Illinois,6,5,handgun
@@ -21,14 +21,13 @@ date,total_victims,event,location,age_of_shooter,race,gender,city,state,injured,
 2017-11-05T00:00:00Z,46,Texas First Baptist massacre,"Sutherland Springs, Texas",26,White,M,Sutherland Springs,Texas,20,26,semiautomatic rifle
 2017-11-01T00:00:00Z,3,Walmart shooting in suburban Denver,"Thornton, Colorado",47,White,M,Thornton,Colorado,0,3,semiautomatic handgun
 2017-10-18T00:00:00Z,6,Edgewood businees park shooting,"Edgewood, Maryland",37,Black,M,Edgewood,Maryland,3,3,handgun
-2017-10-01T00:00:00Z,604,Las Vegas Strip massacre,"Las Vegas, Nevada",64,White,M,Las Vegas,Nevada,546,58,"23 firearms, mostly rifles; including scopes, and two modified for ""fully automatic"" firing; two were mounted on tripods"
+2017-10-01T00:00:00Z,604,Las Vegas Strip massacre,"Las Vegas, Nevada",64,White,M,Las Vegas,Nevada,546,58,"23 firearms, mostly modified rifles"
 2017-06-14T00:00:00Z,5,San Francisco UPS shooting,"San Francisco, California",38,Asian,M,San Francisco,California,2,3,two handguns
 2017-06-07T00:00:00Z,3,Pennsylvania supermarket shooting,"Tunkhannock, Pennsylvania",24,White,M,Tunkhannock,Pennsylvania,0,3,shotguns
 2017-06-05T00:00:00Z,5,Florida awning manufacturer shooting,"Orlando, Florida",45,Unknown race,M,Orlando,Florida,0,5,semiautomatic handgun
 2017-05-12T00:00:00Z,3,Rural Ohio nursing home shooting,"Kirkersville, Ohio",43,White,M,Kirkersville,Ohio,0,3,"handgun, shotgun"
 2017-04-18T00:00:00Z,3,Fresno downtown shooting,"Fresno, California",39,Black,M,Fresno,California,0,3,handgun
-2017-01-06T00:00:00Z,11,Fort Lauderdale airport shooting,"Fort Lauderdale, Florida",26,Latino,M,Fort Lauderdale,Florida,6,5,"semiautomatic handgun
-"
+2017-01-06T00:00:00Z,11,Fort Lauderdale airport shooting,"Fort Lauderdale, Florida",26,Latino,M,Fort Lauderdale,Florida,6,5,"semiautomatic handgun"
 2016-09-23T00:00:00Z,5,Cascade Mall shooting,"Burlington, Washington",20,Unknown race,M,Burlington,Washington,0,5,Rifle
 2016-07-17T00:00:00Z,6,Baton Rouge police shooting,"Baton Rouge, Lousiana",29,Black,M,Baton Rouge,Lousiana,3,3,Two semiautomatic rifles; one semiautomatic handgun
 2016-07-07T00:00:00Z,16,Dallas police shooting,"Dallas, Texas",25,Black,M,Dallas,Texas,11,5,"Semiautomatic rifle, semiautomatic handguns"
@@ -39,20 +38,16 @@ date,total_victims,event,location,age_of_shooter,race,gender,city,state,injured,
 2015-11-27T00:00:00Z,12,Planned Parenthood clinic,"Colorado Springs, Colorado",57,White,M,Colorado Springs,Colorado,9,3,Long gun
 2015-10-31T00:00:00Z,3,Colorado Springs shooting rampage,"Colorado Springs, Colorado",33,White,M,Colorado Springs,Colorado,0,3,Two handguns and a rifle
 2015-10-01T00:00:00Z,18,Umpqua Community College shooting,"Roseburg, Oregon",26,Other race,Male,Roseburg,Oregon,9,9,"Five pistols, one rifle, five magazines of ammunition"
-2015-07-16T00:00:00Z,7,Chattanooga military recruitment center,"Chattanooga, Tennessee",24,Other race,Male,Chattanooga,Tennessee,2,5,"2 assault rifles; semiautomatic handgun
-"
+2015-07-16T00:00:00Z,7,Chattanooga military recruitment center,"Chattanooga, Tennessee",24,Other race,Male,Chattanooga,Tennessee,2,5,"2 assault rifles; semiautomatic handgun"
 2015-06-17T00:00:00Z,10,Charleston Church Shooting,"Charleston, South Carolina",21,White,Male,Charleston,South Carolina,1,9,Handgun
-2015-06-11T00:00:00Z,4,Trestle Trail bridge shooting,"Menasha, Wisconsin",27,Latino,M,Menasha,Wisconsin,1,3,"Two handguns
-"
+2015-06-11T00:00:00Z,4,Trestle Trail bridge shooting,"Menasha, Wisconsin",27,Latino,M,Menasha,Wisconsin,1,3,"Two handguns"
 2014-10-24T00:00:00Z,6,Marysville-Pilchuck High School shooting,"Marysville, Washington",15,Native American,Male,Marysville,Washington,1,5,Handgun
 2014-05-23T00:00:00Z,19,Isla Vista mass murder,"Santa Barbara, California",22,White,M,Santa Barbara,California,13,6,Three semi-automatic handguns and two hunting knives
-2014-04-03T00:00:00Z,15,Fort Hood shooting 2,"Fort Hood, Texas",34,Latino,M,Fort Hood,Texas,12,3,"handgun
-"
+2014-04-03T00:00:00Z,15,Fort Hood shooting 2,"Fort Hood, Texas",34,Latino,M,Fort Hood,Texas,12,3,"handgun"
 2014-02-20T00:00:00Z,6,Alturas tribal shooting,"Alturas, California",44,Native American,Female,Alturas,California,2,4,Two handguns and a butcher knife
 2013-09-16T00:00:00Z,20,Washington Navy Yard shooting,"Washington, D.C.",34,Black,Male,Washington,D.C.,8,12,"Sawed-off shotgun, 2 boxes of shells; also a .45-caliber handgun taken from a security guard he shot at the scene."
 2013-07-26T00:00:00Z,7,Hialeah apartment shooting,"Hialeah, Florida",42,Latino,Male,Hialeah,Florida,0,7,9mm semi-automatic handgun
-2013-06-07T00:00:00Z,9,Santa Monica rampage,"Santa Monica, California",23,White,Male,Santa Monica,California,3,6,"Assault rifle, high capacity magazines, antique handgun
-"
+2013-06-07T00:00:00Z,9,Santa Monica rampage,"Santa Monica, California",23,White,Male,Santa Monica,California,3,6,"Assault rifle, high capacity magazines, antique handgun"
 2013-04-21T00:00:00Z,5,Pinewood Village Apartment shooting,"Federal Way, Washington",27,Black,Male,Federal Way,Washington,0,5,"Semiautomatic handgun, shotgun"
 2013-03-13T00:00:00Z,7,Mohawk Valley shootings,"Herkimer County, New York",64,White,Male,Herkimer County,New York,2,5,Shotgun
 2012-12-14T00:00:00Z,29,Sandy Hook Elementary massacre,"Newtown, Connecticut",20,White,Male,Newtown,Connecticut,2,27,"Two semiautomatic handguns, one rifle (assault), one shotgun (assault)"
