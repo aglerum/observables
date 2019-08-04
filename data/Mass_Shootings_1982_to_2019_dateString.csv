@@ -1,5 +1,5 @@
 date,dateString,total_victims,event,location,age_of_shooter,race,gender,city,state,injured,fatalities,weapon_type
-2019-08-04T00:00:00Z,"August 04, 2019",35,Oregon District shooting,"Dayton, Ohio",0,Unknown race,M,Dayton,Ohio,26,9,rifle
+2019-08-04T00:00:00Z,"August 04, 2019",35,Oregon District shooting,"Dayton, Ohio",24,White,M,Dayton,Ohio,26,9,rifle
 2019-08-03T00:00:00Z,"August 03, 2019",60,El Paso Walmart shooting,"El Paso, Texas",21,White,M,El Paso,Texas,40,20,semiautomatic rifle
 2019-07-28T00:00:00Z,"July 28, 2019",15,Gilroy garlic festival shooting,"Gilroy, California",19,Unknown race,M,Gilroy,California,12,3,semiautomatic rifle
 2019-05-31T00:00:00Z,"May 31, 2019",16,Virginia Bch municipal building shooting,"Virginia Beach, Virginia",40,Black,M,Virginia Beach,Virginia,4,12,2 handguns
