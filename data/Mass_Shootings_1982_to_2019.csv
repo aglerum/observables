@@ -1,7 +1,7 @@
 date,total_victims,event,location,age_of_shooter,race,gender,city,state,injured,fatalities,weapon_type
 2019-08-03T00:00:00Z,28,El Paso Walmart shooting,"El Paso, Texas",21,Unknown race,M,El Paso,Texas,10,18,semiautomatic rifle
 2019-07-28T00:00:00Z,15,Gilroy garlic festival shooting,"Gilroy, California",19,Unknown race,M,Gilroy,California,12,3,semiautomatic rifle
-2019-05-31T00:00:00Z,16,Virginia Beach municipal building shooting,"Virginia Beach, Virginia",40,Black,M,Virginia Beach,Virginia,4,12,2 handguns
+2019-05-31T00:00:00Z,16,Virginia Bch municipal building shooting,"Virginia Beach, Virginia",40,Black,M,Virginia Beach,Virginia,4,12,2 handguns
 2019-02-15T00:00:00Z,11,Harry Pratt Co. warehouse shooting,"Aurora, Illinois",45,Black,M,Aurora,Illinois,6,5,handgun
 2019-01-24T00:00:00Z,4,Pennsylvania hotel bar shooting,"State College, Pennsylvania",21,White,M,State College,Pennsylvania,1,3,handgun
 2019-01-23T00:00:00Z,5,SunTrust bank shooting,"Sebring, Florida",21,White,M,Sebring,Florida,0,5,handgun
@@ -18,7 +18,7 @@ date,total_victims,event,location,age_of_shooter,race,gender,city,state,injured,
 2018-02-14T00:00:00Z,34,Marjory Stoneman Douglas High School shooting,"Parkland, Florida",19,White,M,Parkland,Florida,17,17,semiautomatic rifle
 2018-01-28T00:00:00Z,5,Pennsylvania carwash shooting,"Pennsylvania, Pennsylvania",28,White,M,Pennsylvania,Pennsylvania,1,4,semiautomatic rifle and semiautomatic handgun
 2017-11-14T00:00:00Z,15,Rancho Tehama shooting spree,"Rancho Tehama, California",44,White,M,Rancho Tehama,California,10,5,semiautomatic rifles
-2017-11-05T00:00:00Z,46,Texas First Baptist Church massacre,"Sutherland Springs, Texas",26,White,M,Sutherland Springs,Texas,20,26,semiautomatic rifle
+2017-11-05T00:00:00Z,46,Texas First Baptist massacre,"Sutherland Springs, Texas",26,White,M,Sutherland Springs,Texas,20,26,semiautomatic rifle
 2017-11-01T00:00:00Z,3,Walmart shooting in suburban Denver,"Thornton, Colorado",47,White,M,Thornton,Colorado,0,3,semiautomatic handgun
 2017-10-18T00:00:00Z,6,Edgewood businees park shooting,"Edgewood, Maryland",37,Black,M,Edgewood,Maryland,3,3,handgun
 2017-10-01T00:00:00Z,604,Las Vegas Strip massacre,"Las Vegas, Nevada",64,White,M,Las Vegas,Nevada,546,58,"23 firearms, mostly rifles; including scopes, and two modified for ""fully automatic"" firing; two were mounted on tripods"
