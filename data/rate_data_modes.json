@@ -1,2890 +1,2890 @@
-data = [
+[
     {
       "date" : "2018-05-01",
       "low" : 47,
       "high" : 108,
-      "open" : 52,
-      "close" : 53,
+      "mode_low" : 52,
+      "mode_high" : 53,
       "median" : 68
     },
     {
       "date" : "2018-05-02",
       "low" : 58,
       "high" : 114,
-      "open" : 61,
-      "close" : 64,
+      "mode_low" : 61,
+      "mode_high" : 64,
       "median" : 68
     },
     {
       "date" : "2018-05-03",
       "low" : 47,
       "high" : 108,
-      "open" : 52,
-      "close" : 61,
+      "mode_low" : 52,
+      "mode_high" : 61,
       "median" : 61
     },
     {
       "date" : "2018-05-04",
       "low" : 50,
       "high" : 105,
-      "open" : 69,
-      "close" : 70,
+      "mode_low" : 69,
+      "mode_high" : 70,
       "median" : 78
     },
     {
       "date" : "2018-05-06",
       "low" : 61,
       "high" : 148,
-      "open" : 61,
-      "close" : 63,
+      "mode_low" : 61,
+      "mode_high" : 63,
       "median" : 66
     },
     {
       "date" : "2018-05-07",
       "low" : 45,
       "high" : 103,
-      "open" : 46,
-      "close" : 47,
+      "mode_low" : 46,
+      "mode_high" : 47,
       "median" : 82
     },
     {
       "date" : "2018-05-08",
       "low" : 47,
       "high" : 120,
-      "open" : 65,
-      "close" : 67,
+      "mode_low" : 65,
+      "mode_high" : 67,
       "median" : 66
     },
     {
       "date" : "2018-05-09",
       "low" : 44,
       "high" : 95,
-      "open" : 51,
-      "close" : 52,
+      "mode_low" : 51,
+      "mode_high" : 52,
       "median" : 70
     },
     {
       "date" : "2018-05-10",
       "low" : 49,
       "high" : 116,
-      "open" : 51,
-      "close" : 54,
+      "mode_low" : 51,
+      "mode_high" : 54,
       "median" : 62
     },
     {
       "date" : "2018-05-11",
       "low" : 47,
       "high" : 90,
-      "open" : 48,
-      "close" : 49,
+      "mode_low" : 48,
+      "mode_high" : 49,
       "median" : 79
     },
     {
       "date" : "2018-05-12",
       "low" : 46,
       "high" : 100,
-      "open" : 50,
-      "close" : 51,
+      "mode_low" : 50,
+      "mode_high" : 51,
       "median" : 57
     },
     {
       "date" : "2018-05-13",
       "low" : 46,
       "high" : 94,
-      "open" : 51,
-      "close" : 53,
+      "mode_low" : 51,
+      "mode_high" : 53,
       "median" : 50
     },
     {
       "date" : "2018-05-14",
       "low" : 44,
       "high" : 124,
-      "open" : 48,
-      "close" : 49,
+      "mode_low" : 48,
+      "mode_high" : 49,
       "median" : 50
     },
     {
       "date" : "2018-05-15",
       "low" : 46,
       "high" : 93,
-      "open" : 51,
-      "close" : 53,
+      "mode_low" : 51,
+      "mode_high" : 53,
       "median" : 48
     },
     {
       "date" : "2018-05-16",
       "low" : 47,
       "high" : 142,
-      "open" : 68,
-      "close" : 69,
+      "mode_low" : 68,
+      "mode_high" : 69,
       "median" : 73
     },
     {
       "date" : "2018-05-17",
       "low" : 50,
       "high" : 111,
-      "open" : 55,
-      "close" : 68,
+      "mode_low" : 55,
+      "mode_high" : 68,
       "median" : 74
     },
     {
       "date" : "2018-05-18",
       "low" : 47,
       "high" : 95,
-      "open" : 49,
-      "close" : 50,
+      "mode_low" : 49,
+      "mode_high" : 50,
       "median" : 49
     },
     {
       "date" : "2018-05-19",
       "low" : 47,
       "high" : 101,
-      "open" : 50,
-      "close" : 51,
+      "mode_low" : 50,
+      "mode_high" : 51,
       "median" : 66
     },
     {
       "date" : "2018-05-20",
       "low" : 48,
       "high" : 155,
-      "open" : 49,
-      "close" : 50,
+      "mode_low" : 49,
+      "mode_high" : 50,
       "median" : 71
     },
     {
       "date" : "2018-05-21",
       "low" : 47,
       "high" : 84,
-      "open" : 51,
-      "close" : 52,
+      "mode_low" : 51,
+      "mode_high" : 52,
       "median" : 53
     },
     {
       "date" : "2018-05-22",
       "low" : 46,
       "high" : 135,
-      "open" : 49,
-      "close" : 62,
+      "mode_low" : 49,
+      "mode_high" : 62,
       "median" : 68
     },
     {
       "date" : "2018-05-23",
       "low" : 44,
       "high" : 102,
-      "open" : 67,
-      "close" : 69,
+      "mode_low" : 67,
+      "mode_high" : 69,
       "median" : 102
     },
     {
       "date" : "2018-05-24",
       "low" : 49,
       "high" : 103,
-      "open" : 60,
-      "close" : 71,
+      "mode_low" : 60,
+      "mode_high" : 71,
       "median" : 72
     },
     {
       "date" : "2018-05-25",
       "low" : 47,
       "high" : 101,
-      "open" : 75,
-      "close" : 76,
+      "mode_low" : 75,
+      "mode_high" : 76,
       "median" : 68
     },
     {
       "date" : "2018-05-26",
       "low" : 48,
       "high" : 108,
-      "open" : 49,
-      "close" : 51,
+      "mode_low" : 49,
+      "mode_high" : 51,
       "median" : 65
     },
     {
       "date" : "2018-05-27",
       "low" : 49,
       "high" : 94,
-      "open" : 54,
-      "close" : 59,
+      "mode_low" : 54,
+      "mode_high" : 59,
       "median" : 52
     },
     {
       "date" : "2018-05-28",
       "low" : 50,
       "high" : 98,
-      "open" : 51,
-      "close" : 53,
+      "mode_low" : 51,
+      "mode_high" : 53,
       "median" : 65
     },
     {
       "date" : "2018-05-29",
       "low" : 46,
       "high" : 92,
-      "open" : 55,
-      "close" : 62,
+      "mode_low" : 55,
+      "mode_high" : 62,
       "median" : 67
     },
     {
       "date" : "2018-05-30",
       "low" : 48,
       "high" : 95,
-      "open" : 50,
-      "close" : 54,
+      "mode_low" : 50,
+      "mode_high" : 54,
       "median" : 80
     },
     {
       "date" : "2018-05-31",
       "low" : 46,
       "high" : 105,
-      "open" : 65,
-      "close" : 66,
+      "mode_low" : 65,
+      "mode_high" : 66,
       "median" : 70
     },
     {
       "date" : "2018-06-01",
       "low" : 41,
       "high" : 129,
-      "open" : 49,
-      "close" : 56,
+      "mode_low" : 49,
+      "mode_high" : 56,
       "median" : 59
     },
     {
       "date" : "2018-06-02",
       "low" : 48,
       "high" : 92,
-      "open" : 53,
-      "close" : 54,
+      "mode_low" : 53,
+      "mode_high" : 54,
       "median" : 77
     },
     {
       "date" : "2018-06-03",
       "low" : 46,
       "high" : 97,
-      "open" : 48,
-      "close" : 49,
+      "mode_low" : 48,
+      "mode_high" : 49,
       "median" : 85
     },
     {
       "date" : "2018-06-04",
       "low" : 46,
       "high" : 113,
-      "open" : 56,
-      "close" : 69,
+      "mode_low" : 56,
+      "mode_high" : 69,
       "median" : 64
     },
     {
       "date" : "2018-06-05",
       "low" : 48,
       "high" : 98,
-      "open" : 50,
-      "close" : 51,
+      "mode_low" : 50,
+      "mode_high" : 51,
       "median" : 67
     },
     {
       "date" : "2018-06-06",
       "low" : 51,
       "high" : 99,
-      "open" : 58,
-      "close" : 60,
+      "mode_low" : 58,
+      "mode_high" : 60,
       "median" : 65
     },
     {
       "date" : "2018-06-07",
       "low" : 47,
       "high" : 94,
-      "open" : 63,
-      "close" : 65,
+      "mode_low" : 63,
+      "mode_high" : 65,
       "median" : 82
     },
     {
       "date" : "2018-06-08",
       "low" : 48,
       "high" : 99,
-      "open" : 49,
-      "close" : 50,
+      "mode_low" : 49,
+      "mode_high" : 50,
       "median" : 49
     },
     {
       "date" : "2018-06-09",
       "low" : 48,
       "high" : 96,
-      "open" : 60,
-      "close" : 67,
+      "mode_low" : 60,
+      "mode_high" : 67,
       "median" : 59
     },
     {
       "date" : "2018-06-10",
       "low" : 46,
       "high" : 96,
-      "open" : 48,
-      "close" : 49,
+      "mode_low" : 48,
+      "mode_high" : 49,
       "median" : 67
     },
     {
       "date" : "2018-06-11",
       "low" : 49,
       "high" : 104,
-      "open" : 49,
-      "close" : 50,
+      "mode_low" : 49,
+      "mode_high" : 50,
       "median" : 88
     },
     {
       "date" : "2018-06-12",
       "low" : 44,
       "high" : 101,
-      "open" : 67,
-      "close" : 68,
+      "mode_low" : 67,
+      "mode_high" : 68,
       "median" : 70
     },
     {
       "date" : "2018-06-13",
       "low" : 41,
       "high" : 95,
-      "open" : 68,
-      "close" : 69,
+      "mode_low" : 68,
+      "mode_high" : 69,
       "median" : 83
     },
     {
       "date" : "2018-06-14",
       "low" : 50,
       "high" : 103,
-      "open" : 53,
-      "close" : 54,
+      "mode_low" : 53,
+      "mode_high" : 54,
       "median" : 73
     },
     {
       "date" : "2018-06-15",
       "low" : 46,
       "high" : 106,
-      "open" : 49,
-      "close" : 50,
+      "mode_low" : 49,
+      "mode_high" : 50,
       "median" : 80
     },
     {
       "date" : "2018-06-16",
       "low" : 50,
       "high" : 114,
-      "open" : 59,
-      "close" : 70,
+      "mode_low" : 59,
+      "mode_high" : 70,
       "median" : 92
     },
     {
       "date" : "2018-06-17",
       "low" : 45,
       "high" : 110,
-      "open" : 53,
-      "close" : 70,
+      "mode_low" : 53,
+      "mode_high" : 70,
       "median" : 92
     },
     {
       "date" : "2018-06-18",
       "low" : 50,
       "high" : 89,
-      "open" : 61,
-      "close" : 70,
+      "mode_low" : 61,
+      "mode_high" : 70,
       "median" : 64
     },
     {
       "date" : "2018-06-19",
       "low" : 45,
       "high" : 113,
-      "open" : 49,
-      "close" : 50,
+      "mode_low" : 49,
+      "mode_high" : 50,
       "median" : 67
     },
     {
       "date" : "2018-06-20",
       "low" : 45,
       "high" : 122,
-      "open" : 67,
-      "close" : 68,
+      "mode_low" : 67,
+      "mode_high" : 68,
       "median" : 83
     },
     {
       "date" : "2018-06-21",
       "low" : 46,
       "high" : 90,
-      "open" : 63,
-      "close" : 64,
+      "mode_low" : 63,
+      "mode_high" : 64,
       "median" : 63
     },
     {
       "date" : "2018-06-22",
       "low" : 47,
       "high" : 106,
-      "open" : 54,
-      "close" : 57,
+      "mode_low" : 54,
+      "mode_high" : 57,
       "median" : 69
     },
     {
       "date" : "2018-06-23",
       "low" : 45,
       "high" : 179,
-      "open" : 48,
-      "close" : 49,
+      "mode_low" : 48,
+      "mode_high" : 49,
       "median" : 78
     },
     {
       "date" : "2018-06-24",
       "low" : 45,
       "high" : 97,
-      "open" : 49,
-      "close" : 62,
+      "mode_low" : 49,
+      "mode_high" : 62,
       "median" : 65
     },
     {
       "date" : "2018-06-25",
       "low" : 47,
       "high" : 87,
-      "open" : 47,
-      "close" : 48,
+      "mode_low" : 47,
+      "mode_high" : 48,
       "median" : 72
     },
     {
       "date" : "2018-06-26",
       "low" : 45,
       "high" : 93,
-      "open" : 45,
-      "close" : 46,
+      "mode_low" : 45,
+      "mode_high" : 46,
       "median" : 46
     },
     {
       "date" : "2018-06-27",
       "low" : 46,
       "high" : 91,
-      "open" : 50,
-      "close" : 51,
+      "mode_low" : 50,
+      "mode_high" : 51,
       "median" : 58
     },
     {
       "date" : "2018-06-28",
       "low" : 43,
       "high" : 86,
-      "open" : 50,
-      "close" : 68,
+      "mode_low" : 50,
+      "mode_high" : 68,
       "median" : 69
     },
     {
       "date" : "2018-06-29",
       "low" : 42,
       "high" : 107,
-      "open" : 48,
-      "close" : 50,
+      "mode_low" : 48,
+      "mode_high" : 50,
       "median" : 67
     },
     {
       "date" : "2018-06-30",
       "low" : 44,
       "high" : 78,
-      "open" : 47,
-      "close" : 49,
+      "mode_low" : 47,
+      "mode_high" : 49,
       "median" : 59
     },
     {
       "date" : "2018-07-01",
       "low" : 44,
       "high" : 77,
-      "open" : 44,
-      "close" : 58,
+      "mode_low" : 44,
+      "mode_high" : 58,
       "median" : 59
     },
     {
       "date" : "2018-07-02",
       "low" : 44,
       "high" : 93,
-      "open" : 46,
-      "close" : 54,
+      "mode_low" : 46,
+      "mode_high" : 54,
       "median" : 70
     },
     {
       "date" : "2018-07-03",
       "low" : 43,
       "high" : 100,
-      "open" : 46,
-      "close" : 47,
+      "mode_low" : 46,
+      "mode_high" : 47,
       "median" : 68
     },
     {
       "date" : "2018-07-04",
       "low" : 46,
       "high" : 93,
-      "open" : 47,
-      "close" : 48,
+      "mode_low" : 47,
+      "mode_high" : 48,
       "median" : 57
     },
     {
       "date" : "2018-07-05",
       "low" : 47,
       "high" : 104,
-      "open" : 52,
-      "close" : 70,
+      "mode_low" : 52,
+      "mode_high" : 70,
       "median" : 64
     },
     {
       "date" : "2018-07-06",
       "low" : 44,
       "high" : 108,
-      "open" : 69,
-      "close" : 71,
+      "mode_low" : 69,
+      "mode_high" : 71,
       "median" : 71
     },
     {
       "date" : "2018-07-07",
       "low" : 46,
       "high" : 95,
-      "open" : 62,
-      "close" : 63,
+      "mode_low" : 62,
+      "mode_high" : 63,
       "median" : 59
     },
     {
       "date" : "2018-07-08",
       "low" : 43,
       "high" : 100,
-      "open" : 46,
-      "close" : 64,
+      "mode_low" : 46,
+      "mode_high" : 64,
       "median" : 47
     },
     {
       "date" : "2018-07-09",
       "low" : 60,
       "high" : 84,
-      "open" : 66,
-      "close" : 72,
+      "mode_low" : 66,
+      "mode_high" : 72,
       "median" : 76
     },
     {
       "date" : "2018-07-10",
       "low" : 45,
       "high" : 104,
-      "open" : 47,
-      "close" : 48,
+      "mode_low" : 47,
+      "mode_high" : 48,
       "median" : 74
     },
     {
       "date" : "2018-07-11",
       "low" : 46,
       "high" : 101,
-      "open" : 55,
-      "close" : 66,
+      "mode_low" : 55,
+      "mode_high" : 66,
       "median" : 56
     },
     {
       "date" : "2018-07-12",
       "low" : 43,
       "high" : 124,
-      "open" : 56,
-      "close" : 57,
+      "mode_low" : 56,
+      "mode_high" : 57,
       "median" : 54
     },
     {
       "date" : "2018-07-13",
       "low" : 42,
       "high" : 79,
-      "open" : 65,
-      "close" : 70,
+      "mode_low" : 65,
+      "mode_high" : 70,
       "median" : 66
     },
     {
       "date" : "2018-07-14",
       "low" : 44,
       "high" : 91,
-      "open" : 47,
-      "close" : 48,
+      "mode_low" : 47,
+      "mode_high" : 48,
       "median" : 47
     },
     {
       "date" : "2018-07-15",
       "low" : 44,
       "high" : 90,
-      "open" : 49,
-      "close" : 51,
+      "mode_low" : 49,
+      "mode_high" : 51,
       "median" : 73
     },
     {
       "date" : "2018-07-16",
       "low" : 45,
       "high" : 90,
-      "open" : 66,
-      "close" : 68,
+      "mode_low" : 66,
+      "mode_high" : 68,
       "median" : 59
     },
     {
       "date" : "2018-07-17",
       "low" : 48,
       "high" : 167,
-      "open" : 53,
-      "close" : 62,
+      "mode_low" : 53,
+      "mode_high" : 62,
       "median" : 66
     },
     {
       "date" : "2018-07-18",
       "low" : 45,
       "high" : 97,
-      "open" : 70,
-      "close" : 74,
+      "mode_low" : 70,
+      "mode_high" : 74,
       "median" : 64
     },
     {
       "date" : "2018-07-19",
       "low" : 46,
       "high" : 87,
-      "open" : 49,
-      "close" : 67,
+      "mode_low" : 49,
+      "mode_high" : 67,
       "median" : 71
     },
     {
       "date" : "2018-07-20",
       "low" : 47,
       "high" : 106,
-      "open" : 49,
-      "close" : 65,
+      "mode_low" : 49,
+      "mode_high" : 65,
       "median" : 67
     },
     {
       "date" : "2018-07-21",
       "low" : 46,
       "high" : 135,
-      "open" : 47,
-      "close" : 49,
+      "mode_low" : 47,
+      "mode_high" : 49,
       "median" : 67
     },
     {
       "date" : "2018-07-22",
       "low" : 41,
       "high" : 96,
-      "open" : 61,
-      "close" : 64,
+      "mode_low" : 61,
+      "mode_high" : 64,
       "median" : 70
     },
     {
       "date" : "2018-07-23",
       "low" : 42,
       "high" : 94,
-      "open" : 53,
-      "close" : 60,
+      "mode_low" : 53,
+      "mode_high" : 60,
       "median" : 65
     },
     {
       "date" : "2018-07-24",
       "low" : 44,
       "high" : 94,
-      "open" : 60,
-      "close" : 66,
+      "mode_low" : 60,
+      "mode_high" : 66,
       "median" : 49
     },
     {
       "date" : "2018-07-25",
       "low" : 43,
       "high" : 93,
-      "open" : 48,
-      "close" : 49,
+      "mode_low" : 48,
+      "mode_high" : 49,
       "median" : 89
     },
     {
       "date" : "2018-07-26",
       "low" : 43,
       "high" : 96,
-      "open" : 47,
-      "close" : 66,
+      "mode_low" : 47,
+      "mode_high" : 66,
       "median" : 77
     },
     {
       "date" : "2018-07-27",
       "low" : 42,
       "high" : 111,
-      "open" : 46,
-      "close" : 69,
+      "mode_low" : 46,
+      "mode_high" : 69,
       "median" : 66
     },
     {
       "date" : "2018-07-28",
       "low" : 45,
       "high" : 100,
-      "open" : 63,
-      "close" : 65,
+      "mode_low" : 63,
+      "mode_high" : 65,
       "median" : 59
     },
     {
       "date" : "2018-07-29",
       "low" : 41,
       "high" : 94,
-      "open" : 65,
-      "close" : 70,
+      "mode_low" : 65,
+      "mode_high" : 70,
       "median" : 60
     },
     {
       "date" : "2018-07-30",
       "low" : 46,
       "high" : 92,
-      "open" : 49,
-      "close" : 74,
+      "mode_low" : 49,
+      "mode_high" : 74,
       "median" : 83
     },
     {
       "date" : "2018-07-31",
       "low" : 47,
       "high" : 91,
-      "open" : 60,
-      "close" : 66,
+      "mode_low" : 60,
+      "mode_high" : 66,
       "median" : 73
     },
     {
       "date" : "2018-08-01",
       "low" : 42,
       "high" : 83,
-      "open" : 42,
-      "close" : 43,
+      "mode_low" : 42,
+      "mode_high" : 43,
       "median" : 52
     },
     {
       "date" : "2018-08-02",
       "low" : 42,
       "high" : 87,
-      "open" : 43,
-      "close" : 44,
+      "mode_low" : 43,
+      "mode_high" : 44,
       "median" : 63
     },
     {
       "date" : "2018-08-03",
       "low" : 40,
       "high" : 90,
-      "open" : 40,
-      "close" : 41,
+      "mode_low" : 40,
+      "mode_high" : 41,
       "median" : 71
     },
     {
       "date" : "2018-08-04",
       "low" : 41,
       "high" : 105,
-      "open" : 41,
-      "close" : 42,
+      "mode_low" : 41,
+      "mode_high" : 42,
       "median" : 56
     },
     {
       "date" : "2018-08-05",
       "low" : 42,
       "high" : 104,
-      "open" : 44,
-      "close" : 45,
+      "mode_low" : 44,
+      "mode_high" : 45,
       "median" : 61
     },
     {
       "date" : "2018-08-06",
       "low" : 40,
       "high" : 93,
-      "open" : 65,
-      "close" : 70,
+      "mode_low" : 65,
+      "mode_high" : 70,
       "median" : 86
     },
     {
       "date" : "2018-08-07",
       "low" : 48,
       "high" : 94,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 64
     },
     {
       "date" : "2018-08-08",
       "low" : 43,
       "high" : 78,
-      "open" : 54,
-      "close" : 56,
+      "mode_low" : 54,
+      "mode_high" : 56,
       "median" : 54
     },
     {
       "date" : "2018-08-09",
       "low" : 42,
       "high" : 99,
-      "open" : 44,
-      "close" : 59,
+      "mode_low" : 44,
+      "mode_high" : 59,
       "median" : 65
     },
     {
       "date" : "2018-08-10",
       "low" : 43,
       "high" : 95,
-      "open" : 44,
-      "close" : 45,
+      "mode_low" : 44,
+      "mode_high" : 45,
       "median" : 69
     },
     {
       "date" : "2018-08-11",
       "low" : 52,
       "high" : 83,
-      "open" : 52,
-      "close" : 58,
+      "mode_low" : 52,
+      "mode_high" : 58,
       "median" : 58
     },
     {
       "date" : "2018-08-12",
       "low" : 43,
       "high" : 91,
-      "open" : 45,
-      "close" : 46,
+      "mode_low" : 45,
+      "mode_high" : 46,
       "median" : 64
     },
     {
       "date" : "2018-08-13",
       "low" : 43,
       "high" : 96,
-      "open" : 45,
-      "close" : 69,
+      "mode_low" : 45,
+      "mode_high" : 69,
       "median" : 88
     },
     {
       "date" : "2018-08-14",
       "low" : 42,
       "high" : 100,
-      "open" : 46,
-      "close" : 47,
+      "mode_low" : 46,
+      "mode_high" : 47,
       "median" : 61
     },
     {
       "date" : "2018-08-15",
       "low" : 44,
       "high" : 149,
-      "open" : 69,
-      "close" : 74,
+      "mode_low" : 69,
+      "mode_high" : 74,
       "median" : 60
     },
     {
       "date" : "2018-08-16",
       "low" : 60,
       "high" : 86,
-      "open" : 63,
-      "close" : 65,
+      "mode_low" : 63,
+      "mode_high" : 65,
       "median" : 74
     },
     {
       "date" : "2018-08-17",
       "low" : 51,
       "high" : 101,
-      "open" : 58,
-      "close" : 60,
+      "mode_low" : 58,
+      "mode_high" : 60,
       "median" : 54
     },
     {
       "date" : "2018-08-18",
       "low" : 42,
       "high" : 135,
-      "open" : 53,
-      "close" : 55,
+      "mode_low" : 53,
+      "mode_high" : 55,
       "median" : 57
     },
     {
       "date" : "2018-08-19",
       "low" : 51,
       "high" : 104,
-      "open" : 57,
-      "close" : 59,
+      "mode_low" : 57,
+      "mode_high" : 59,
       "median" : 52
     },
     {
       "date" : "2018-08-20",
       "low" : 43,
       "high" : 80,
-      "open" : 51,
-      "close" : 56,
+      "mode_low" : 51,
+      "mode_high" : 56,
       "median" : 49
     },
     {
       "date" : "2018-08-21",
       "low" : 42,
       "high" : 103,
-      "open" : 49,
-      "close" : 50,
+      "mode_low" : 49,
+      "mode_high" : 50,
       "median" : 64
     },
     {
       "date" : "2018-08-22",
       "low" : 41,
       "high" : 112,
-      "open" : 54,
-      "close" : 67,
+      "mode_low" : 54,
+      "mode_high" : 67,
       "median" : 75
     },
     {
       "date" : "2018-08-23",
       "low" : 41,
       "high" : 94,
-      "open" : 58,
-      "close" : 59,
+      "mode_low" : 58,
+      "mode_high" : 59,
       "median" : 59
     },
     {
       "date" : "2018-08-24",
       "low" : 40,
       "high" : 127,
-      "open" : 65,
-      "close" : 66,
+      "mode_low" : 65,
+      "mode_high" : 66,
       "median" : 54
     },
     {
       "date" : "2018-08-25",
       "low" : 52,
       "high" : 110,
-      "open" : 55,
-      "close" : 57,
+      "mode_low" : 55,
+      "mode_high" : 57,
       "median" : 57
     },
     {
       "date" : "2018-08-26",
       "low" : 42,
       "high" : 78,
-      "open" : 44,
-      "close" : 45,
+      "mode_low" : 44,
+      "mode_high" : 45,
       "median" : 45
     },
     {
       "date" : "2018-08-27",
       "low" : 44,
       "high" : 81,
-      "open" : 46,
-      "close" : 53,
+      "mode_low" : 46,
+      "mode_high" : 53,
       "median" : 53
     },
     {
       "date" : "2018-08-28",
       "low" : 42,
       "high" : 104,
-      "open" : 45,
-      "close" : 49,
+      "mode_low" : 45,
+      "mode_high" : 49,
       "median" : 84
     },
     {
       "date" : "2018-08-29",
       "low" : 43,
       "high" : 144,
-      "open" : 46,
-      "close" : 62,
+      "mode_low" : 46,
+      "mode_high" : 62,
       "median" : 60
     },
     {
       "date" : "2018-08-30",
       "low" : 40,
       "high" : 106,
-      "open" : 42,
-      "close" : 60,
+      "mode_low" : 42,
+      "mode_high" : 60,
       "median" : 75
     },
     {
       "date" : "2018-08-31",
       "low" : 42,
       "high" : 95,
-      "open" : 46,
-      "close" : 47,
+      "mode_low" : 46,
+      "mode_high" : 47,
       "median" : 72
     },
     {
       "date" : "2018-09-01",
       "low" : 56,
       "high" : 78,
-      "open" : 64,
-      "close" : 67,
+      "mode_low" : 64,
+      "mode_high" : 67,
       "median" : 68
     },
     {
       "date" : "2018-09-02",
       "low" : 47,
       "high" : 118,
-      "open" : 50,
-      "close" : 62,
+      "mode_low" : 50,
+      "mode_high" : 62,
       "median" : 67
     },
     {
       "date" : "2018-09-03",
       "low" : 44,
       "high" : 86,
-      "open" : 47,
-      "close" : 48,
+      "mode_low" : 47,
+      "mode_high" : 48,
       "median" : 48
     },
     {
       "date" : "2018-09-04",
       "low" : 43,
       "high" : 96,
-      "open" : 45,
-      "close" : 47,
+      "mode_low" : 45,
+      "mode_high" : 47,
       "median" : 58
     },
     {
       "date" : "2018-09-05",
       "low" : 44,
       "high" : 95,
-      "open" : 60,
-      "close" : 61,
+      "mode_low" : 60,
+      "mode_high" : 61,
       "median" : 62
     },
     {
       "date" : "2018-09-06",
       "low" : 40,
       "high" : 90,
-      "open" : 59,
-      "close" : 64,
+      "mode_low" : 59,
+      "mode_high" : 64,
       "median" : 68
     },
     {
       "date" : "2018-09-07",
       "low" : 48,
       "high" : 103,
-      "open" : 51,
-      "close" : 62,
+      "mode_low" : 51,
+      "mode_high" : 62,
       "median" : 93
     },
     {
       "date" : "2018-09-08",
       "low" : 55,
       "high" : 120,
-      "open" : 65,
-      "close" : 67,
+      "mode_low" : 65,
+      "mode_high" : 67,
       "median" : 60
     },
     {
       "date" : "2018-09-09",
       "low" : 43,
       "high" : 88,
-      "open" : 49,
-      "close" : 60,
+      "mode_low" : 49,
+      "mode_high" : 60,
       "median" : 74
     },
     {
       "date" : "2018-09-10",
       "low" : 46,
       "high" : 92,
-      "open" : 48,
-      "close" : 70,
+      "mode_low" : 48,
+      "mode_high" : 70,
       "median" : 69
     },
     {
       "date" : "2018-09-11",
       "low" : 48,
       "high" : 118,
-      "open" : 66,
-      "close" : 68,
+      "mode_low" : 66,
+      "mode_high" : 68,
       "median" : 78
     },
     {
       "date" : "2018-09-12",
       "low" : 46,
       "high" : 99,
-      "open" : 65,
-      "close" : 68,
+      "mode_low" : 65,
+      "mode_high" : 68,
       "median" : 64
     },
     {
       "date" : "2018-09-13",
       "low" : 47,
       "high" : 95,
-      "open" : 49,
-      "close" : 66,
+      "mode_low" : 49,
+      "mode_high" : 66,
       "median" : 65
     },
     {
       "date" : "2018-09-14",
       "low" : 51,
       "high" : 107,
-      "open" : 57,
-      "close" : 59,
+      "mode_low" : 57,
+      "mode_high" : 59,
       "median" : 56
     },
     {
       "date" : "2018-09-15",
       "low" : 46,
       "high" : 111,
-      "open" : 64,
-      "close" : 71,
+      "mode_low" : 64,
+      "mode_high" : 71,
       "median" : 98
     },
     {
       "date" : "2018-09-16",
       "low" : 50,
       "high" : 88,
-      "open" : 53,
-      "close" : 54,
+      "mode_low" : 53,
+      "mode_high" : 54,
       "median" : 52
     },
     {
       "date" : "2018-09-17",
       "low" : 44,
       "high" : 128,
-      "open" : 48,
-      "close" : 49,
+      "mode_low" : 48,
+      "mode_high" : 49,
       "median" : 66
     },
     {
       "date" : "2018-09-18",
       "low" : 43,
       "high" : 107,
-      "open" : 52,
-      "close" : 53,
+      "mode_low" : 52,
+      "mode_high" : 53,
       "median" : 70
     },
     {
       "date" : "2018-09-19",
       "low" : 45,
       "high" : 94,
-      "open" : 68,
-      "close" : 71,
+      "mode_low" : 68,
+      "mode_high" : 71,
       "median" : 76
     },
     {
       "date" : "2018-09-20",
       "low" : 47,
       "high" : 93,
-      "open" : 69,
-      "close" : 70,
+      "mode_low" : 69,
+      "mode_high" : 70,
       "median" : 67
     },
     {
       "date" : "2018-09-21",
       "low" : 43,
       "high" : 90,
-      "open" : 46,
-      "close" : 47,
+      "mode_low" : 46,
+      "mode_high" : 47,
       "median" : 77
     },
     {
       "date" : "2018-09-22",
       "low" : 48,
       "high" : 197,
-      "open" : 65,
-      "close" : 68,
+      "mode_low" : 65,
+      "mode_high" : 68,
       "median" : 66
     },
     {
       "date" : "2018-09-23",
       "low" : 44,
       "high" : 102,
-      "open" : 68,
-      "close" : 69,
+      "mode_low" : 68,
+      "mode_high" : 69,
       "median" : 72
     },
     {
       "date" : "2018-09-24",
       "low" : 54,
       "high" : 106,
-      "open" : 65,
-      "close" : 71,
+      "mode_low" : 65,
+      "mode_high" : 71,
       "median" : 70
     },
     {
       "date" : "2018-09-25",
       "low" : 45,
       "high" : 112,
-      "open" : 48,
-      "close" : 50,
+      "mode_low" : 48,
+      "mode_high" : 50,
       "median" : 57
     },
     {
       "date" : "2018-09-26",
       "low" : 46,
       "high" : 99,
-      "open" : 47,
-      "close" : 68,
+      "mode_low" : 47,
+      "mode_high" : 68,
       "median" : 75
     },
     {
       "date" : "2018-09-27",
       "low" : 44,
       "high" : 104,
-      "open" : 45,
-      "close" : 46,
+      "mode_low" : 45,
+      "mode_high" : 46,
       "median" : 68
     },
     {
       "date" : "2018-09-28",
       "low" : 41,
       "high" : 116,
-      "open" : 44,
-      "close" : 55,
+      "mode_low" : 44,
+      "mode_high" : 55,
       "median" : 56
     },
     {
       "date" : "2018-09-29",
       "low" : 41,
       "high" : 114,
-      "open" : 43,
-      "close" : 44,
+      "mode_low" : 43,
+      "mode_high" : 44,
       "median" : 74
     },
     {
       "date" : "2018-09-30",
       "low" : 44,
       "high" : 101,
-      "open" : 46,
-      "close" : 47,
+      "mode_low" : 46,
+      "mode_high" : 47,
       "median" : 67
     },
     {
       "date" : "2018-10-01",
       "low" : 45,
       "high" : 103,
-      "open" : 46,
-      "close" : 47,
+      "mode_low" : 46,
+      "mode_high" : 47,
       "median" : 54
     },
     {
       "date" : "2018-10-02",
       "low" : 50,
       "high" : 97,
-      "open" : 55,
-      "close" : 60,
+      "mode_low" : 55,
+      "mode_high" : 60,
       "median" : 76
     },
     {
       "date" : "2018-10-03",
       "low" : 41,
       "high" : 94,
-      "open" : 42,
-      "close" : 43,
+      "mode_low" : 42,
+      "mode_high" : 43,
       "median" : 44
     },
     {
       "date" : "2018-10-04",
       "low" : 43,
       "high" : 115,
-      "open" : 44,
-      "close" : 45,
+      "mode_low" : 44,
+      "mode_high" : 45,
       "median" : 55
     },
     {
       "date" : "2018-10-05",
       "low" : 40,
       "high" : 93,
-      "open" : 62,
-      "close" : 64,
+      "mode_low" : 62,
+      "mode_high" : 64,
       "median" : 40
     },
     {
       "date" : "2018-10-06",
       "low" : 40,
       "high" : 118,
-      "open" : 43,
-      "close" : 48,
+      "mode_low" : 43,
+      "mode_high" : 48,
       "median" : 56
     },
     {
       "date" : "2018-10-07",
       "low" : 48,
       "high" : 148,
-      "open" : 58,
-      "close" : 69,
+      "mode_low" : 58,
+      "mode_high" : 69,
       "median" : 85
     },
     {
       "date" : "2018-10-08",
       "low" : 41,
       "high" : 86,
-      "open" : 43,
-      "close" : 45,
+      "mode_low" : 43,
+      "mode_high" : 45,
       "median" : 43
     },
     {
       "date" : "2018-10-09",
       "low" : 41,
       "high" : 113,
-      "open" : 42,
-      "close" : 43,
+      "mode_low" : 42,
+      "mode_high" : 43,
       "median" : 106
     },
     {
       "date" : "2018-10-10",
       "low" : 43,
       "high" : 109,
-      "open" : 52,
-      "close" : 76,
+      "mode_low" : 52,
+      "mode_high" : 76,
       "median" : 69
     },
     {
       "date" : "2018-10-11",
       "low" : 44,
       "high" : 88,
-      "open" : 45,
-      "close" : 47,
+      "mode_low" : 45,
+      "mode_high" : 47,
       "median" : 51
     },
     {
       "date" : "2018-10-12",
       "low" : 43,
       "high" : 114,
-      "open" : 70,
-      "close" : 71,
+      "mode_low" : 70,
+      "mode_high" : 71,
       "median" : 77
     },
     {
       "date" : "2018-10-13",
       "low" : 47,
       "high" : 87,
-      "open" : 57,
-      "close" : 67,
+      "mode_low" : 57,
+      "mode_high" : 67,
       "median" : 52
     },
     {
       "date" : "2018-10-14",
       "low" : 40,
       "high" : 88,
-      "open" : 45,
-      "close" : 58,
+      "mode_low" : 45,
+      "mode_high" : 58,
       "median" : 61
     },
     {
       "date" : "2018-10-15",
       "low" : 45,
       "high" : 91,
-      "open" : 50,
-      "close" : 51,
+      "mode_low" : 50,
+      "mode_high" : 51,
       "median" : 63
     },
     {
       "date" : "2018-10-16",
       "low" : 46,
       "high" : 101,
-      "open" : 46,
-      "close" : 47,
+      "mode_low" : 46,
+      "mode_high" : 47,
       "median" : 82
     },
     {
       "date" : "2018-10-17",
       "low" : 44,
       "high" : 89,
-      "open" : 44,
-      "close" : 45,
+      "mode_low" : 44,
+      "mode_high" : 45,
       "median" : 74
     },
     {
       "date" : "2018-10-18",
       "low" : 41,
       "high" : 89,
-      "open" : 42,
-      "close" : 60,
+      "mode_low" : 42,
+      "mode_high" : 60,
       "median" : 54
     },
     {
       "date" : "2018-10-19",
       "low" : 41,
       "high" : 95,
-      "open" : 44,
-      "close" : 68,
+      "mode_low" : 44,
+      "mode_high" : 68,
       "median" : 73
     },
     {
       "date" : "2018-10-20",
       "low" : 41,
       "high" : 103,
-      "open" : 41,
-      "close" : 64,
+      "mode_low" : 41,
+      "mode_high" : 64,
       "median" : 61
     },
     {
       "date" : "2018-10-21",
       "low" : 40,
       "high" : 118,
-      "open" : 42,
-      "close" : 43,
+      "mode_low" : 42,
+      "mode_high" : 43,
       "median" : 93
     },
     {
       "date" : "2018-10-22",
       "low" : 42,
       "high" : 136,
-      "open" : 43,
-      "close" : 44,
+      "mode_low" : 43,
+      "mode_high" : 44,
       "median" : 47
     },
     {
       "date" : "2018-10-23",
       "low" : 40,
       "high" : 110,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 64
     },
     {
       "date" : "2018-10-24",
       "low" : 41,
       "high" : 107,
-      "open" : 61,
-      "close" : 67,
+      "mode_low" : 61,
+      "mode_high" : 67,
       "median" : 60
     },
     {
       "date" : "2018-10-25",
       "low" : 42,
       "high" : 108,
-      "open" : 45,
-      "close" : 60,
+      "mode_low" : 45,
+      "mode_high" : 60,
       "median" : 71
     },
     {
       "date" : "2018-10-26",
       "low" : 40,
       "high" : 86,
-      "open" : 42,
-      "close" : 45,
+      "mode_low" : 42,
+      "mode_high" : 45,
       "median" : 65
     },
     {
       "date" : "2018-10-27",
       "low" : 42,
       "high" : 89,
-      "open" : 47,
-      "close" : 48,
+      "mode_low" : 47,
+      "mode_high" : 48,
       "median" : 48
     },
     {
       "date" : "2018-10-28",
       "low" : 41,
       "high" : 93,
-      "open" : 49,
-      "close" : 61,
+      "mode_low" : 49,
+      "mode_high" : 61,
       "median" : 63
     },
     {
       "date" : "2018-10-29",
       "low" : 49,
       "high" : 103,
-      "open" : 63,
-      "close" : 69,
+      "mode_low" : 63,
+      "mode_high" : 69,
       "median" : 68
     },
     {
       "date" : "2018-10-30",
       "low" : 43,
       "high" : 87,
-      "open" : 45,
-      "close" : 46,
+      "mode_low" : 45,
+      "mode_high" : 46,
       "median" : 59
     },
     {
       "date" : "2018-10-31",
       "low" : 44,
       "high" : 92,
-      "open" : 47,
-      "close" : 60,
+      "mode_low" : 47,
+      "mode_high" : 60,
       "median" : 78
     },
     {
       "date" : "2018-11-01",
       "low" : 40,
       "high" : 85,
-      "open" : 48,
-      "close" : 59,
+      "mode_low" : 48,
+      "mode_high" : 59,
       "median" : 63
     },
     {
       "date" : "2018-11-02",
       "low" : 44,
       "high" : 95,
-      "open" : 48,
-      "close" : 50,
+      "mode_low" : 48,
+      "mode_high" : 50,
       "median" : 84
     },
     {
       "date" : "2018-11-03",
       "low" : 53,
       "high" : 149,
-      "open" : 56,
-      "close" : 57,
+      "mode_low" : 56,
+      "mode_high" : 57,
       "median" : 61
     },
     {
       "date" : "2018-11-04",
       "low" : 40,
       "high" : 104,
-      "open" : 44,
-      "close" : 45,
+      "mode_low" : 44,
+      "mode_high" : 45,
       "median" : 57
     },
     {
       "date" : "2018-11-05",
       "low" : 40,
       "high" : 98,
-      "open" : 45,
-      "close" : 72,
+      "mode_low" : 45,
+      "mode_high" : 72,
       "median" : 70
     },
     {
       "date" : "2018-11-06",
       "low" : 45,
       "high" : 95,
-      "open" : 49,
-      "close" : 51,
+      "mode_low" : 49,
+      "mode_high" : 51,
       "median" : 61
     },
     {
       "date" : "2018-11-07",
       "low" : 43,
       "high" : 105,
-      "open" : 55,
-      "close" : 60,
+      "mode_low" : 55,
+      "mode_high" : 60,
       "median" : 70
     },
     {
       "date" : "2018-11-08",
       "low" : 43,
       "high" : 95,
-      "open" : 56,
-      "close" : 63,
+      "mode_low" : 56,
+      "mode_high" : 63,
       "median" : 61
     },
     {
       "date" : "2018-11-09",
       "low" : 47,
       "high" : 85,
-      "open" : 53,
-      "close" : 69,
+      "mode_low" : 53,
+      "mode_high" : 69,
       "median" : 58
     },
     {
       "date" : "2018-11-10",
       "low" : 48,
       "high" : 151,
-      "open" : 59,
-      "close" : 61,
+      "mode_low" : 59,
+      "mode_high" : 61,
       "median" : 78
     },
     {
       "date" : "2018-11-11",
       "low" : 48,
       "high" : 86,
-      "open" : 61,
-      "close" : 62,
+      "mode_low" : 61,
+      "mode_high" : 62,
       "median" : 67
     },
     {
       "date" : "2018-11-12",
       "low" : 43,
       "high" : 107,
-      "open" : 46,
-      "close" : 47,
+      "mode_low" : 46,
+      "mode_high" : 47,
       "median" : 47
     },
     {
       "date" : "2018-11-13",
       "low" : 43,
       "high" : 100,
-      "open" : 61,
-      "close" : 62,
+      "mode_low" : 61,
+      "mode_high" : 62,
       "median" : 62
     },
     {
       "date" : "2018-11-14",
       "low" : 45,
       "high" : 91,
-      "open" : 47,
-      "close" : 48,
+      "mode_low" : 47,
+      "mode_high" : 48,
       "median" : 48
     },
     {
       "date" : "2018-11-15",
       "low" : 44,
       "high" : 125,
-      "open" : 65,
-      "close" : 67,
+      "mode_low" : 65,
+      "mode_high" : 67,
       "median" : 78
     },
     {
       "date" : "2018-11-16",
       "low" : 45,
       "high" : 90,
-      "open" : 50,
-      "close" : 67,
+      "mode_low" : 50,
+      "mode_high" : 67,
       "median" : 72
     },
     {
       "date" : "2018-11-17",
       "low" : 51,
       "high" : 120,
-      "open" : 58,
-      "close" : 60,
+      "mode_low" : 58,
+      "mode_high" : 60,
       "median" : 62
     },
     {
       "date" : "2018-11-18",
       "low" : 45,
       "high" : 121,
-      "open" : 47,
-      "close" : 49,
+      "mode_low" : 47,
+      "mode_high" : 49,
       "median" : 95
     },
     {
       "date" : "2018-11-19",
       "low" : 40,
       "high" : 122,
-      "open" : 47,
-      "close" : 48,
+      "mode_low" : 47,
+      "mode_high" : 48,
       "median" : 70
     },
     {
       "date" : "2018-11-20",
       "low" : 43,
       "high" : 135,
-      "open" : 55,
-      "close" : 62,
+      "mode_low" : 55,
+      "mode_high" : 62,
       "median" : 66
     },
     {
       "date" : "2018-11-21",
       "low" : 52,
       "high" : 95,
-      "open" : 61,
-      "close" : 62,
+      "mode_low" : 61,
+      "mode_high" : 62,
       "median" : 61
     },
     {
       "date" : "2018-11-22",
       "low" : 47,
       "high" : 125,
-      "open" : 58,
-      "close" : 66,
+      "mode_low" : 58,
+      "mode_high" : 66,
       "median" : 66
     },
     {
       "date" : "2018-11-23",
       "low" : 56,
       "high" : 97,
-      "open" : 61,
-      "close" : 63,
+      "mode_low" : 61,
+      "mode_high" : 63,
       "median" : 69
     },
     {
       "date" : "2018-11-24",
       "low" : 42,
       "high" : 99,
-      "open" : 49,
-      "close" : 58,
+      "mode_low" : 49,
+      "mode_high" : 58,
       "median" : 59
     },
     {
       "date" : "2018-11-25",
       "low" : 46,
       "high" : 197,
-      "open" : 50,
-      "close" : 51,
+      "mode_low" : 50,
+      "mode_high" : 51,
       "median" : 64
     },
     {
       "date" : "2018-11-26",
       "low" : 40,
       "high" : 98,
-      "open" : 50,
-      "close" : 52,
+      "mode_low" : 50,
+      "mode_high" : 52,
       "median" : 86
     },
     {
       "date" : "2018-11-27",
       "low" : 46,
       "high" : 118,
-      "open" : 55,
-      "close" : 68,
+      "mode_low" : 55,
+      "mode_high" : 68,
       "median" : 60
     },
     {
       "date" : "2018-11-28",
       "low" : 49,
       "high" : 141,
-      "open" : 50,
-      "close" : 52,
+      "mode_low" : 50,
+      "mode_high" : 52,
       "median" : 60
     },
     {
       "date" : "2018-11-29",
       "low" : 42,
       "high" : 116,
-      "open" : 49,
-      "close" : 50,
+      "mode_low" : 49,
+      "mode_high" : 50,
       "median" : 68
     },
     {
       "date" : "2018-11-30",
       "low" : 43,
       "high" : 91,
-      "open" : 48,
-      "close" : 52,
+      "mode_low" : 48,
+      "mode_high" : 52,
       "median" : 73
     },
     {
       "date" : "2018-12-01",
       "low" : 45,
       "high" : 96,
-      "open" : 50,
-      "close" : 63,
+      "mode_low" : 50,
+      "mode_high" : 63,
       "median" : 73
     },
     {
       "date" : "2018-12-02",
       "low" : 54,
       "high" : 104,
-      "open" : 68,
-      "close" : 69,
+      "mode_low" : 68,
+      "mode_high" : 69,
       "median" : 69
     },
     {
       "date" : "2018-12-03",
       "low" : 47,
       "high" : 95,
-      "open" : 50,
-      "close" : 52,
+      "mode_low" : 50,
+      "mode_high" : 52,
       "median" : 66
     },
     {
       "date" : "2018-12-04",
       "low" : 42,
       "high" : 131,
-      "open" : 48,
-      "close" : 49,
+      "mode_low" : 48,
+      "mode_high" : 49,
       "median" : 78
     },
     {
       "date" : "2018-12-05",
       "low" : 48,
       "high" : 95,
-      "open" : 60,
-      "close" : 66,
+      "mode_low" : 60,
+      "mode_high" : 66,
       "median" : 59
     },
     {
       "date" : "2018-12-06",
       "low" : 48,
       "high" : 124,
-      "open" : 51,
-      "close" : 74,
+      "mode_low" : 51,
+      "mode_high" : 74,
       "median" : 65
     },
     {
       "date" : "2018-12-07",
       "low" : 45,
       "high" : 117,
-      "open" : 50,
-      "close" : 51,
+      "mode_low" : 50,
+      "mode_high" : 51,
       "median" : 59
     },
     {
       "date" : "2018-12-08",
       "low" : 54,
       "high" : 108,
-      "open" : 60,
-      "close" : 67,
+      "mode_low" : 60,
+      "mode_high" : 67,
       "median" : 70
     },
     {
       "date" : "2018-12-09",
       "low" : 55,
       "high" : 96,
-      "open" : 67,
-      "close" : 70,
+      "mode_low" : 67,
+      "mode_high" : 70,
       "median" : 64
     },
     {
       "date" : "2018-12-10",
       "low" : 44,
       "high" : 170,
-      "open" : 46,
-      "close" : 67,
+      "mode_low" : 46,
+      "mode_high" : 67,
       "median" : 67
     },
     {
       "date" : "2018-12-11",
       "low" : 45,
       "high" : 98,
-      "open" : 49,
-      "close" : 50,
+      "mode_low" : 49,
+      "mode_high" : 50,
       "median" : 51
     },
     {
       "date" : "2018-12-12",
       "low" : 48,
       "high" : 100,
-      "open" : 54,
-      "close" : 61,
+      "mode_low" : 54,
+      "mode_high" : 61,
       "median" : 85
     },
     {
       "date" : "2018-12-13",
       "low" : 48,
       "high" : 91,
-      "open" : 49,
-      "close" : 52,
+      "mode_low" : 49,
+      "mode_high" : 52,
       "median" : 74
     },
     {
       "date" : "2018-12-14",
       "low" : 46,
       "high" : 101,
-      "open" : 49,
-      "close" : 52,
+      "mode_low" : 49,
+      "mode_high" : 52,
       "median" : 51
     },
     {
       "date" : "2018-12-15",
       "low" : 43,
       "high" : 95,
-      "open" : 49,
-      "close" : 50,
+      "mode_low" : 49,
+      "mode_high" : 50,
       "median" : 71
     },
     {
       "date" : "2018-12-16",
       "low" : 67,
       "high" : 80,
-      "open" : 67,
-      "close" : 71,
+      "mode_low" : 67,
+      "mode_high" : 71,
       "median" : 67
     },
     {
       "date" : "2018-12-17",
       "low" : 49,
       "high" : 97,
-      "open" : 50,
-      "close" : 51,
+      "mode_low" : 50,
+      "mode_high" : 51,
       "median" : 68
     },
     {
       "date" : "2018-12-18",
       "low" : 44,
       "high" : 84,
-      "open" : 46,
-      "close" : 47,
+      "mode_low" : 46,
+      "mode_high" : 47,
       "median" : 75
     },
     {
       "date" : "2018-12-19",
       "low" : 44,
       "high" : 96,
-      "open" : 66,
-      "close" : 68,
+      "mode_low" : 66,
+      "mode_high" : 68,
       "median" : 68
     },
     {
       "date" : "2018-12-20",
       "low" : 47,
       "high" : 89,
-      "open" : 53,
-      "close" : 56,
+      "mode_low" : 53,
+      "mode_high" : 56,
       "median" : 54
     },
     {
       "date" : "2018-12-21",
       "low" : 46,
       "high" : 126,
-      "open" : 50,
-      "close" : 52,
+      "mode_low" : 50,
+      "mode_high" : 52,
       "median" : 56
     },
     {
       "date" : "2018-12-22",
       "low" : 40,
       "high" : 98,
-      "open" : 55,
-      "close" : 60,
+      "mode_low" : 55,
+      "mode_high" : 60,
       "median" : 62
     },
     {
       "date" : "2018-12-23",
       "low" : 54,
       "high" : 94,
-      "open" : 67,
-      "close" : 70,
+      "mode_low" : 67,
+      "mode_high" : 70,
       "median" : 59
     },
     {
       "date" : "2018-12-24",
       "low" : 50,
       "high" : 97,
-      "open" : 69,
-      "close" : 73,
+      "mode_low" : 69,
+      "mode_high" : 73,
       "median" : 72
     },
     {
       "date" : "2018-12-25",
       "low" : 48,
       "high" : 149,
-      "open" : 66,
-      "close" : 69,
+      "mode_low" : 66,
+      "mode_high" : 69,
       "median" : 60
     },
     {
       "date" : "2018-12-26",
       "low" : 46,
       "high" : 88,
-      "open" : 61,
-      "close" : 62,
+      "mode_low" : 61,
+      "mode_high" : 62,
       "median" : 57
     },
     {
       "date" : "2018-12-27",
       "low" : 50,
       "high" : 109,
-      "open" : 52,
-      "close" : 53,
+      "mode_low" : 52,
+      "mode_high" : 53,
       "median" : 71
     },
     {
       "date" : "2018-12-28",
       "low" : 46,
       "high" : 87,
-      "open" : 51,
-      "close" : 69,
+      "mode_low" : 51,
+      "mode_high" : 69,
       "median" : 57
     },
     {
       "date" : "2018-12-29",
       "low" : 54,
       "high" : 85,
-      "open" : 62,
-      "close" : 67,
+      "mode_low" : 62,
+      "mode_high" : 67,
       "median" : 74
     },
     {
       "date" : "2018-12-30",
       "low" : 44,
       "high" : 95,
-      "open" : 51,
-      "close" : 52,
+      "mode_low" : 51,
+      "mode_high" : 52,
       "median" : 65
     },
     {
       "date" : "2018-12-31",
       "low" : 44,
       "high" : 109,
-      "open" : 58,
-      "close" : 69,
+      "mode_low" : 58,
+      "mode_high" : 69,
       "median" : 68
     },
     {
       "date" : "2019-01-01",
       "low" : 46,
       "high" : 101,
-      "open" : 48,
-      "close" : 53,
+      "mode_low" : 48,
+      "mode_high" : 53,
       "median" : 69
     },
     {
       "date" : "2019-01-02",
       "low" : 47,
       "high" : 91,
-      "open" : 53,
-      "close" : 54,
+      "mode_low" : 53,
+      "mode_high" : 54,
       "median" : 54
     },
     {
       "date" : "2019-01-03",
       "low" : 47,
       "high" : 93,
-      "open" : 67,
-      "close" : 69,
+      "mode_low" : 67,
+      "mode_high" : 69,
       "median" : 68
     },
     {
       "date" : "2019-01-04",
       "low" : 45,
       "high" : 129,
-      "open" : 50,
-      "close" : 62,
+      "mode_low" : 50,
+      "mode_high" : 62,
       "median" : 58
     },
     {
       "date" : "2019-01-05",
       "low" : 43,
       "high" : 108,
-      "open" : 59,
-      "close" : 66,
+      "mode_low" : 59,
+      "mode_high" : 66,
       "median" : 68
     },
     {
       "date" : "2019-01-06",
       "low" : 46,
       "high" : 104,
-      "open" : 58,
-      "close" : 60,
+      "mode_low" : 58,
+      "mode_high" : 60,
       "median" : 58
     },
     {
       "date" : "2019-01-07",
       "low" : 44,
       "high" : 91,
-      "open" : 66,
-      "close" : 70,
+      "mode_low" : 66,
+      "mode_high" : 70,
       "median" : 75
     },
     {
       "date" : "2019-01-08",
       "low" : 47,
       "high" : 140,
-      "open" : 58,
-      "close" : 67,
+      "mode_low" : 58,
+      "mode_high" : 67,
       "median" : 64
     },
     {
       "date" : "2019-01-09",
       "low" : 45,
       "high" : 170,
-      "open" : 66,
-      "close" : 67,
+      "mode_low" : 66,
+      "mode_high" : 67,
       "median" : 62
     },
     {
       "date" : "2019-01-10",
       "low" : 47,
       "high" : 92,
-      "open" : 50,
-      "close" : 51,
+      "mode_low" : 50,
+      "mode_high" : 51,
       "median" : 64
     },
     {
       "date" : "2019-01-11",
       "low" : 49,
       "high" : 101,
-      "open" : 63,
-      "close" : 71,
+      "mode_low" : 63,
+      "mode_high" : 71,
       "median" : 56
     },
     {
       "date" : "2019-01-12",
       "low" : 46,
       "high" : 109,
-      "open" : 48,
-      "close" : 49,
+      "mode_low" : 48,
+      "mode_high" : 49,
       "median" : 62
     },
     {
       "date" : "2019-01-13",
       "low" : 43,
       "high" : 101,
-      "open" : 60,
-      "close" : 61,
+      "mode_low" : 60,
+      "mode_high" : 61,
       "median" : 65
     },
     {
       "date" : "2019-01-14",
       "low" : 44,
       "high" : 126,
-      "open" : 49,
-      "close" : 63,
+      "mode_low" : 49,
+      "mode_high" : 63,
       "median" : 80
     },
     {
       "date" : "2019-01-15",
       "low" : 41,
       "high" : 120,
-      "open" : 50,
-      "close" : 51,
+      "mode_low" : 50,
+      "mode_high" : 51,
       "median" : 73
     },
     {
       "date" : "2019-01-16",
       "low" : 45,
       "high" : 95,
-      "open" : 57,
-      "close" : 58,
+      "mode_low" : 57,
+      "mode_high" : 58,
       "median" : 65
     },
     {
       "date" : "2019-01-17",
       "low" : 46,
       "high" : 99,
-      "open" : 48,
-      "close" : 49,
+      "mode_low" : 48,
+      "mode_high" : 49,
       "median" : 68
     },
     {
       "date" : "2019-01-18",
       "low" : 43,
       "high" : 98,
-      "open" : 47,
-      "close" : 49,
+      "mode_low" : 47,
+      "mode_high" : 49,
       "median" : 61
     },
     {
       "date" : "2019-01-19",
       "low" : 52,
       "high" : 95,
-      "open" : 65,
-      "close" : 71,
+      "mode_low" : 65,
+      "mode_high" : 71,
       "median" : 88
     },
     {
       "date" : "2019-01-20",
       "low" : 43,
       "high" : 86,
-      "open" : 65,
-      "close" : 66,
+      "mode_low" : 65,
+      "mode_high" : 66,
       "median" : 65
     },
     {
       "date" : "2019-01-21",
       "low" : 40,
       "high" : 99,
-      "open" : 66,
-      "close" : 67,
+      "mode_low" : 66,
+      "mode_high" : 67,
       "median" : 68
     },
     {
       "date" : "2019-01-22",
       "low" : 42,
       "high" : 119,
-      "open" : 48,
-      "close" : 57,
+      "mode_low" : 48,
+      "mode_high" : 57,
       "median" : 60
     },
     {
       "date" : "2019-01-23",
       "low" : 43,
       "high" : 112,
-      "open" : 58,
-      "close" : 60,
+      "mode_low" : 58,
+      "mode_high" : 60,
       "median" : 57
     },
     {
       "date" : "2019-01-24",
       "low" : 46,
       "high" : 96,
-      "open" : 62,
-      "close" : 69,
+      "mode_low" : 62,
+      "mode_high" : 69,
       "median" : 68
     },
     {
       "date" : "2019-01-25",
       "low" : 46,
       "high" : 99,
-      "open" : 50,
-      "close" : 52,
+      "mode_low" : 50,
+      "mode_high" : 52,
       "median" : 58
     },
     {
       "date" : "2019-01-26",
       "low" : 39,
       "high" : 97,
-      "open" : 45,
-      "close" : 58,
+      "mode_low" : 45,
+      "mode_high" : 58,
       "median" : 62
     },
     {
       "date" : "2019-01-27",
       "low" : 44,
       "high" : 106,
-      "open" : 48,
-      "close" : 68,
+      "mode_low" : 48,
+      "mode_high" : 68,
       "median" : 64
     },
     {
       "date" : "2019-01-28",
       "low" : 43,
       "high" : 94,
-      "open" : 50,
-      "close" : 51,
+      "mode_low" : 50,
+      "mode_high" : 51,
       "median" : 63
     },
     {
       "date" : "2019-01-29",
       "low" : 44,
       "high" : 99,
-      "open" : 49,
-      "close" : 51,
+      "mode_low" : 49,
+      "mode_high" : 51,
       "median" : 79
     },
     {
       "date" : "2019-01-30",
       "low" : 38,
       "high" : 93,
-      "open" : 60,
-      "close" : 67,
+      "mode_low" : 60,
+      "mode_high" : 67,
       "median" : 62
     },
     {
       "date" : "2019-01-31",
       "low" : 43,
       "high" : 94,
-      "open" : 49,
-      "close" : 62,
+      "mode_low" : 49,
+      "mode_high" : 62,
       "median" : 63
     },
     {
       "date" : "2019-02-01",
       "low" : 42,
       "high" : 130,
-      "open" : 47,
-      "close" : 49,
+      "mode_low" : 47,
+      "mode_high" : 49,
       "median" : 95
     },
     {
       "date" : "2019-02-02",
       "low" : 42,
       "high" : 95,
-      "open" : 54,
-      "close" : 68,
+      "mode_low" : 54,
+      "mode_high" : 68,
       "median" : 55
     },
     {
       "date" : "2019-02-03",
       "low" : 43,
       "high" : 206,
-      "open" : 45,
-      "close" : 48,
+      "mode_low" : 45,
+      "mode_high" : 48,
       "median" : 57
     },
     {
       "date" : "2019-02-04",
       "low" : 45,
       "high" : 94,
-      "open" : 60,
-      "close" : 62,
+      "mode_low" : 60,
+      "mode_high" : 62,
       "median" : 54
     },
     {
       "date" : "2019-02-05",
       "low" : 45,
       "high" : 95,
-      "open" : 48,
-      "close" : 61,
+      "mode_low" : 48,
+      "mode_high" : 61,
       "median" : 58
     },
     {
       "date" : "2019-02-06",
       "low" : 46,
       "high" : 95,
-      "open" : 51,
-      "close" : 52,
+      "mode_low" : 51,
+      "mode_high" : 52,
       "median" : 87
     },
     {
       "date" : "2019-02-07",
       "low" : 44,
       "high" : 105,
-      "open" : 55,
-      "close" : 59,
+      "mode_low" : 55,
+      "mode_high" : 59,
       "median" : 63
     },
     {
       "date" : "2019-02-08",
       "low" : 42,
       "high" : 87,
-      "open" : 44,
-      "close" : 46,
+      "mode_low" : 44,
+      "mode_high" : 46,
       "median" : 70
     },
     {
       "date" : "2019-02-09",
       "low" : 31,
       "high" : 133,
-      "open" : 40,
-      "close" : 41,
+      "mode_low" : 40,
+      "mode_high" : 41,
       "median" : 88
     },
     {
       "date" : "2019-02-10",
       "low" : 38,
       "high" : 177,
-      "open" : 42,
-      "close" : 43,
+      "mode_low" : 42,
+      "mode_high" : 43,
       "median" : 127
     },
     {
       "date" : "2019-02-11",
       "low" : 41,
       "high" : 120,
-      "open" : 44,
-      "close" : 46,
+      "mode_low" : 44,
+      "mode_high" : 46,
       "median" : 60
     },
     {
       "date" : "2019-02-12",
       "low" : 41,
       "high" : 104,
-      "open" : 48,
-      "close" : 55,
+      "mode_low" : 48,
+      "mode_high" : 55,
       "median" : 67
     },
     {
       "date" : "2019-02-13",
       "low" : 37,
       "high" : 116,
-      "open" : 38,
-      "close" : 39,
+      "mode_low" : 38,
+      "mode_high" : 39,
       "median" : 104
     },
     {
       "date" : "2019-02-14",
       "low" : 37,
       "high" : 88,
-      "open" : 43,
-      "close" : 45,
+      "mode_low" : 43,
+      "mode_high" : 45,
       "median" : 73
     },
     {
       "date" : "2019-02-16",
       "low" : 65,
       "high" : 80,
-      "open" : 65,
-      "close" : 66,
+      "mode_low" : 65,
+      "mode_high" : 66,
       "median" : 76
     },
     {
       "date" : "2019-02-17",
       "low" : 46,
       "high" : 95,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 61
     },
     {
       "date" : "2019-02-18",
       "low" : 49,
       "high" : 102,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 69
     },
     {
       "date" : "2019-02-19",
       "low" : 51,
       "high" : 115,
-      "open" : 58,
-      "close" : 60,
+      "mode_low" : 58,
+      "mode_high" : 60,
       "median" : 73
     },
     {
       "date" : "2019-02-20",
       "low" : 48,
       "high" : 136,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 71
     },
     {
       "date" : "2019-02-21",
       "low" : 55,
       "high" : 155,
-      "open" : 56,
-      "close" : 60,
+      "mode_low" : 56,
+      "mode_high" : 60,
       "median" : 64
     },
     {
       "date" : "2019-02-22",
       "low" : 47,
       "high" : 105,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 64
     },
     {
       "date" : "2019-02-23",
       "low" : 49,
       "high" : 128,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 84
     },
     {
       "date" : "2019-02-24",
       "low" : 40,
       "high" : 106,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 91
     },
     {
       "date" : "2019-02-25",
       "low" : 56,
       "high" : 131,
-      "open" : 56,
-      "close" : 60,
+      "mode_low" : 56,
+      "mode_high" : 60,
       "median" : 87
     },
     {
       "date" : "2019-02-26",
       "low" : 53,
       "high" : 119,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 86
     },
     {
       "date" : "2019-02-27",
       "low" : 55,
       "high" : 130,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 76
     },
     {
       "date" : "2019-02-28",
       "low" : 53,
       "high" : 116,
-      "open" : 54,
-      "close" : 60,
+      "mode_low" : 54,
+      "mode_high" : 60,
       "median" : 66
     },
     {
       "date" : "2019-03-01",
       "low" : 58,
       "high" : 110,
-      "open" : 58,
-      "close" : 60,
+      "mode_low" : 58,
+      "mode_high" : 60,
       "median" : 69
     },
     {
       "date" : "2019-03-02",
       "low" : 52,
       "high" : 125,
-      "open" : 62,
-      "close" : 64,
+      "mode_low" : 62,
+      "mode_high" : 64,
       "median" : 105
     },
     {
       "date" : "2019-03-03",
       "low" : 56,
       "high" : 109,
-      "open" : 64,
-      "close" : 68,
+      "mode_low" : 64,
+      "mode_high" : 68,
       "median" : 76
     },
     {
       "date" : "2019-03-04",
       "low" : 60,
       "high" : 122,
-      "open" : "",
-      "close" : 60,
+      "mode_low" : "",
+      "mode_high" : 60,
       "median" : 60
     },
     {
       "date" : "2019-03-07",
       "low" : 57,
       "high" : 115,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 97
     },
     {
       "date" : "2019-03-08",
       "low" : 56,
       "high" : 122,
-      "open" : 56,
-      "close" : 60,
+      "mode_low" : 56,
+      "mode_high" : 60,
       "median" : 70
     },
     {
       "date" : "2019-03-09",
       "low" : 56,
       "high" : 122,
-      "open" : 61,
-      "close" : 63,
+      "mode_low" : 61,
+      "mode_high" : 63,
       "median" : 90
     },
     {
       "date" : "2019-03-10",
       "low" : 57,
       "high" : 99,
-      "open" : 57,
-      "close" : 60,
+      "mode_low" : 57,
+      "mode_high" : 60,
       "median" : 94
     },
     {
       "date" : "2019-03-11",
       "low" : 51,
       "high" : 148,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 91
     },
     {
       "date" : "2019-03-12",
       "low" : 54,
       "high" : 102,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 65
     },
     {
       "date" : "2019-03-13",
       "low" : 57,
       "high" : 127,
-      "open" : 57,
-      "close" : 60,
+      "mode_low" : 57,
+      "mode_high" : 60,
       "median" : 78
     },
     {
       "date" : "2019-03-14",
       "low" : 48,
       "high" : 128,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 60
     },
     {
       "date" : "2019-03-15",
       "low" : 56,
       "high" : 119,
-      "open" : 56,
-      "close" : 60,
+      "mode_low" : 56,
+      "mode_high" : 60,
       "median" : 61
     },
     {
       "date" : "2019-03-16",
       "low" : 53,
       "high" : 167,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 63
     },
     {
       "date" : "2019-03-17",
       "low" : 54,
       "high" : 111,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 111
     },
     {
       "date" : "2019-03-18",
       "low" : 50,
       "high" : 114,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 73
     },
     {
       "date" : "2019-03-19",
       "low" : 54,
       "high" : 120,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 68
     },
     {
       "date" : "2019-03-20",
       "low" : 53,
       "high" : 113,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 69
     },
     {
       "date" : "2019-03-21",
       "low" : 49,
       "high" : 129,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 72
     },
     {
       "date" : "2019-03-22",
       "low" : 53,
       "high" : 99,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 61
     },
     {
       "date" : "2019-03-23",
       "low" : 52,
       "high" : 104,
-      "open" : 57,
-      "close" : 60,
+      "mode_low" : 57,
+      "mode_high" : 60,
       "median" : 63
     },
     {
       "date" : "2019-03-24",
       "low" : 59,
       "high" : 144,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 60
     },
     {
       "date" : "2019-03-25",
       "low" : 42,
       "high" : 112,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 87
     },
     {
       "date" : "2019-03-26",
       "low" : 60,
       "high" : 110,
-      "open" : "",
-      "close" : 60,
+      "mode_low" : "",
+      "mode_high" : 60,
       "median" : 69
     },
     {
       "date" : "2019-03-27",
       "low" : 60,
       "high" : 120,
-      "open" : "",
-      "close" : 60,
+      "mode_low" : "",
+      "mode_high" : 60,
       "median" : 71
     },
     {
       "date" : "2019-03-28",
       "low" : 49,
       "high" : 122,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 68
     },
     {
       "date" : "2019-03-29",
       "low" : 49,
       "high" : 110,
-      "open" : 54,
-      "close" : 60,
+      "mode_low" : 54,
+      "mode_high" : 60,
       "median" : 64
     },
     {
       "date" : "2019-03-30",
       "low" : 41,
       "high" : 140,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 92
     },
     {
       "date" : "2019-03-31",
       "low" : 49,
       "high" : 102,
-      "open" : 58,
-      "close" : 60,
+      "mode_low" : 58,
+      "mode_high" : 60,
       "median" : 60
     },
     {
       "date" : "2019-04-01",
       "low" : 49,
       "high" : 112,
-      "open" : 57,
-      "close" : 60,
+      "mode_low" : 57,
+      "mode_high" : 60,
       "median" : 70
     },
     {
       "date" : "2019-04-02",
       "low" : 47,
       "high" : 104,
-      "open" : 58,
-      "close" : 60,
+      "mode_low" : 58,
+      "mode_high" : 60,
       "median" : 104
     },
     {
       "date" : "2019-04-03",
       "low" : 48,
       "high" : 120,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 62
     },
     {
       "date" : "2019-04-04",
       "low" : 53,
       "high" : 114,
-      "open" : 58,
-      "close" : 60,
+      "mode_low" : 58,
+      "mode_high" : 60,
       "median" : 69
     },
     {
       "date" : "2019-04-05",
       "low" : 47,
       "high" : 109,
-      "open" : 55,
-      "close" : 60,
+      "mode_low" : 55,
+      "mode_high" : 60,
       "median" : 84
     },
     {
       "date" : "2019-04-06",
       "low" : 60,
       "high" : 105,
-      "open" : "",
-      "close" : 60,
+      "mode_low" : "",
+      "mode_high" : 60,
       "median" : 83
     },
     {
       "date" : "2019-04-07",
       "low" : 59,
       "high" : 131,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 74
     },
     {
       "date" : "2019-04-08",
       "low" : 55,
       "high" : 98,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 63
     },
     {
       "date" : "2019-04-09",
       "low" : 46,
       "high" : 111,
-      "open" : 56,
-      "close" : 60,
+      "mode_low" : 56,
+      "mode_high" : 60,
       "median" : 76
     },
     {
       "date" : "2019-04-10",
       "low" : 57,
       "high" : 128,
-      "open" : 57,
-      "close" : 60,
+      "mode_low" : 57,
+      "mode_high" : 60,
       "median" : 73
     },
     {
       "date" : "2019-04-11",
       "low" : 59,
       "high" : 109,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 70
     },
     {
       "date" : "2019-04-12",
       "low" : 46,
       "high" : 119,
-      "open" : 46,
-      "close" : 60,
+      "mode_low" : 46,
+      "mode_high" : 60,
       "median" : 67
     },
     {
       "date" : "2019-04-13",
       "low" : 57,
       "high" : 104,
-      "open" : 60,
-      "close" : 66,
+      "mode_low" : 60,
+      "mode_high" : 66,
       "median" : 77
     },
     {
       "date" : "2019-04-14",
       "low" : 52,
       "high" : 99,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 68
     },
     {
       "date" : "2019-04-15",
       "low" : 51,
       "high" : 108,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 60
     },
     {
       "date" : "2019-04-16",
       "low" : 58,
       "high" : 131,
-      "open" : 58,
-      "close" : 60,
+      "mode_low" : 58,
+      "mode_high" : 60,
       "median" : 66
     },
     {
       "date" : "2019-04-17",
       "low" : 52,
       "high" : 117,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 62
     },
     {
       "date" : "2019-04-18",
       "low" : 60,
       "high" : 88,
-      "open" : "",
-      "close" : 60,
+      "mode_low" : "",
+      "mode_high" : 60,
       "median" : 60
     },
     {
       "date" : "2019-04-19",
       "low" : 57,
       "high" : 103,
-      "open" : 57,
-      "close" : 60,
+      "mode_low" : 57,
+      "mode_high" : 60,
       "median" : 60
     },
     {
       "date" : "2019-04-20",
       "low" : 45,
       "high" : 104,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 60
     },
     {
       "date" : "2019-04-21",
       "low" : 53,
       "high" : 63,
-      "open" : 59,
-      "close" : 61,
+      "mode_low" : 59,
+      "mode_high" : 61,
       "median" : 59
     },
     {
       "date" : "2019-04-22",
       "low" : 41,
       "high" : 104,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 90
     },
     {
       "date" : "2019-04-23",
       "low" : 55,
       "high" : 108,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 60
     },
     {
       "date" : "2019-04-24",
       "low" : 41,
       "high" : 99,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 69
     },
     {
       "date" : "2019-04-25",
       "low" : 48,
       "high" : 103,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 61
     },
     {
       "date" : "2019-04-26",
       "low" : 59,
       "high" : 114,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 64
     },
     {
       "date" : "2019-04-27",
       "low" : 47,
       "high" : 95,
-      "open" : 60,
-      "close" : 61,
+      "mode_low" : 60,
+      "mode_high" : 61,
       "median" : 61
     },
     {
       "date" : "2019-04-28",
       "low" : 42,
       "high" : 203,
-      "open" : 62,
-      "close" : 77,
+      "mode_low" : 62,
+      "mode_high" : 77,
       "median" : 83
     },
     {
       "date" : "2019-04-29",
       "low" : 49,
       "high" : 127,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 61
     },
     {
       "date" : "2019-04-30",
       "low" : 52,
       "high" : 115,
-      "open" : 59,
-      "close" : 60,
+      "mode_low" : 59,
+      "mode_high" : 60,
       "median" : 62
     }
   ]
