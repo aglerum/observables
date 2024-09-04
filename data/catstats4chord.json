@@ -1,0 +1,626 @@
+[
+  {
+    "name": "method: Manual",
+    "size": 1000,
+    "processes": [
+      "format: Books",
+      "format: eBooks",
+      "format: Serials",
+      "format: eSerials",
+      "format: Documents",
+      "format: eDocuments",
+      "format: Media",
+      "format: eMedia",
+      "format: Other",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "method: Manual",
+    "size": 1000,
+    "processes": [
+      "format: Books",
+      "format: eBooks",
+      "format: Serials",
+      "format: eSerials",
+      "format: Documents",
+      "format: eDocuments",
+      "format: Media",
+      "format: eMedia",
+      "format: Other",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "method: Aleph",
+    "size": 1000,
+    "processes": [
+      "format: Books",
+      "format: eBooks",
+      "format: Serials",
+      "format: eSerials",
+      "format: Documents",
+      "format: eDocuments",
+      "format: Media",
+      "format: eMedia",
+      "format: Other",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "method: Aleph",
+    "size": 1000,
+    "processes": [
+      "format: Books",
+      "format: eBooks",
+      "format: Serials",
+      "format: eSerials",
+      "format: Documents",
+      "format: eDocuments",
+      "format: Media",
+      "format: eMedia",
+      "format: Other",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "method: Genload",
+    "size": 1000,
+    "processes": [
+      "format: Books",
+      "format: eBooks",
+      "format: Serials",
+      "format: eSerials",
+      "format: Documents",
+      "format: eDocuments",
+      "format: Media",
+      "format: eMedia",
+      "format: Other",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "method: Genload",
+    "size": 1000,
+    "processes": [
+      "format: Books",
+      "format: eBooks",
+      "format: Serials",
+      "format: eSerials",
+      "format: Documents",
+      "format: eDocuments",
+      "format: Media",
+      "format: eMedia",
+      "format: Other",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "unit: Cataloging",
+    "size": 1000,
+    "processes": [
+      "format: Books",
+      "format: eBooks",
+      "format: Serials",
+      "format: eSerials",
+      "format: Documents",
+      "format: eDocuments",
+      "format: Media",
+      "format: eMedia",
+      "format: Other",
+      "method: Manual"
+    ]
+  },
+  {
+    "name": "unit: Cataloging",
+    "size": 1000,
+    "processes": [
+      "format: Books",
+      "format: eBooks",
+      "format: Serials",
+      "format: eSerials",
+      "format: Documents",
+      "format: eDocuments",
+      "format: Media",
+      "format: eMedia",
+      "format: Other",
+      "method: Aleph"
+    ]
+  },
+  {
+    "name": "unit: Cataloging",
+    "size": 1000,
+    "processes": [
+      "format: Books",
+      "format: eBooks",
+      "format: Serials",
+      "format: eSerials",
+      "format: Documents",
+      "format: eDocuments",
+      "format: Media",
+      "format: eMedia",
+      "format: Other",
+      "method: Genload"
+    ]
+  },
+  {
+    "name": "unit: Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format: Books",
+      "format: eBooks",
+      "format: Serials",
+      "format: eSerials",
+      "format: Documents",
+      "format: eDocuments",
+      "format: Media",
+      "format: eMedia",
+      "format: Other",
+      "method: Manual"
+    ]
+  },
+  {
+    "name": "unit: Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format: Books",
+      "format: eBooks",
+      "format: Serials",
+      "format: eSerials",
+      "format: Documents",
+      "format: eDocuments",
+      "format: Media",
+      "format: eMedia",
+      "format: Other",
+      "method: Aleph"
+    ]
+  },
+  {
+    "name": "unit: Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format: Books",
+      "format: eBooks",
+      "format: Serials",
+      "format: eSerials",
+      "format: Documents",
+      "format: eDocuments",
+      "format: Media",
+      "format: eMedia",
+      "format: Other",
+      "method: Genload"
+    ]
+  },
+  {
+    "name": "format: Books",
+    "size": 1000,
+    "processes": [
+      "method: Manual",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "format: Books",
+    "size": 1000,
+    "processes": [
+      "method: Manual",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "format: Books",
+    "size": 1000,
+    "processes": [
+      "method: Aleph",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "format: Books",
+    "size": 1000,
+    "processes": [
+      "method: Aleph",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "format: Books",
+    "size": 1000,
+    "processes": [
+      "method: Genload",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "format: Books",
+    "size": 1000,
+    "processes": [
+      "method: Genload",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "format: eBooks",
+    "size": 1000,
+    "processes": [
+      "method: Manual",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "format: eBooks",
+    "size": 1000,
+    "processes": [
+      "method: Manual",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "format: eBooks",
+    "size": 1000,
+    "processes": [
+      "method: Aleph",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "format: eBooks",
+    "size": 1000,
+    "processes": [
+      "method: Aleph",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "format: eBooks",
+    "size": 1000,
+    "processes": [
+      "method: Genload",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "format: eBooks",
+    "size": 1000,
+    "processes": [
+      "method: Genload",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "format: Serials",
+    "size": 1000,
+    "processes": [
+      "method: Manual",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "format: Serials",
+    "size": 1000,
+    "processes": [
+      "method: Manual",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "format: Serials",
+    "size": 1000,
+    "processes": [
+      "method: Aleph",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "format: Serials",
+    "size": 1000,
+    "processes": [
+      "method: Aleph",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "format: Serials",
+    "size": 1000,
+    "processes": [
+      "method: Genload",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "format: Serials",
+    "size": 1000,
+    "processes": [
+      "method: Genload",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "format: eSerials",
+    "size": 1000,
+    "processes": [
+      "method: Manual",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "format: eSerials",
+    "size": 1000,
+    "processes": [
+      "method: Manual",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "format: eSerials",
+    "size": 1000,
+    "processes": [
+      "method: Aleph",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "format: eSerials",
+    "size": 1000,
+    "processes": [
+      "method: Aleph",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "format: eSerials",
+    "size": 1000,
+    "processes": [
+      "method: Genload",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "format: eSerials",
+    "size": 1000,
+    "processes": [
+      "method: Genload",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "format: Documents",
+    "size": 1000,
+    "processes": [
+      "method: Manual",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "format: Documents",
+    "size": 1000,
+    "processes": [
+      "method: Manual",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "format: Documents",
+    "size": 1000,
+    "processes": [
+      "method: Aleph",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "format: Documents",
+    "size": 1000,
+    "processes": [
+      "method: Aleph",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "format: Documents",
+    "size": 1000,
+    "processes": [
+      "method: Genload",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "format: Documents",
+    "size": 1000,
+    "processes": [
+      "method: Genload",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "format: eDocuments",
+    "size": 1000,
+    "processes": [
+      "method: Manual",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "format: eDocuments",
+    "size": 1000,
+    "processes": [
+      "method: Manual",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "format: eDocuments",
+    "size": 1000,
+    "processes": [
+      "method: Aleph",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "format: eDocuments",
+    "size": 1000,
+    "processes": [
+      "method: Aleph",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "format: eDocuments",
+    "size": 1000,
+    "processes": [
+      "method: Genload",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "format: eDocuments",
+    "size": 1000,
+    "processes": [
+      "method: Genload",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "format: Media",
+    "size": 1000,
+    "processes": [
+      "method: Manual",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "format: Media",
+    "size": 1000,
+    "processes": [
+      "method: Manual",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "format: Media",
+    "size": 1000,
+    "processes": [
+      "method: Aleph",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "format: Media",
+    "size": 1000,
+    "processes": [
+      "method: Aleph",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "format: Media",
+    "size": 1000,
+    "processes": [
+      "method: Genload",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "format: Media",
+    "size": 1000,
+    "processes": [
+      "method: Genload",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "format: eMedia",
+    "size": 1000,
+    "processes": [
+      "method: Manual",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "format: eMedia",
+    "size": 1000,
+    "processes": [
+      "method: Manual",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "format: eMedia",
+    "size": 1000,
+    "processes": [
+      "method: Aleph",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "format: eMedia",
+    "size": 1000,
+    "processes": [
+      "method: Aleph",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "format: eMedia",
+    "size": 1000,
+    "processes": [
+      "method: Genload",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "format: eMedia",
+    "size": 1000,
+    "processes": [
+      "method: Genload",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "format: Other",
+    "size": 1000,
+    "processes": [
+      "method: Manual",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "format: Other",
+    "size": 1000,
+    "processes": [
+      "method: Manual",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "format: Other",
+    "size": 1000,
+    "processes": [
+      "method: Aleph",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "format: Other",
+    "size": 1000,
+    "processes": [
+      "method: Aleph",
+      "unit: Acquisitions"
+    ]
+  },
+  {
+    "name": "format: Other",
+    "size": 1000,
+    "processes": [
+      "method: Genload",
+      "unit: Cataloging"
+    ]
+  },
+  {
+    "name": "format: Other",
+    "size": 1000,
+    "processes": [
+      "method: Genload",
+      "unit: Acquisitions"
+    ]
+  }
+]
